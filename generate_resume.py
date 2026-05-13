@@ -7,6 +7,8 @@ from google import genai
 from google.genai import types
 from pathlib import Path
 from datetime import datetime
+from openpyxl import load_workbook, Workbook
+from openpyxl.styles import Font, PatternFill, Alignment
 
 ROOT = Path(__file__).parent
 MASTER_RESUME = ROOT / "Tim_Williams_Master_Resume.tex"
@@ -14,6 +16,56 @@ SKILLS_DIR = ROOT / "skills"
 JOB_DESCRIPTION = ROOT / "job_description.md"
 INSTRUCTIONS = ROOT / "instructions.md"
 OUTPUT_DIR = ROOT / "output"
+TRACKER = ROOT / "applications.xlsx"
+
+HEADERS = ["Date", "Company", "Role", "Resume File", "Status", "Notes"]
+HEADER_FILL = PatternFill("solid", fgColor="1B3A5C")
+HEADER_FONT = Font(bold=True, color="FFFFFF")
+STATUS_COLORS = {
+    "Generated": "FFFFFF",
+    "Applied":   "D9EAD3",
+    "Interview": "FFF2CC",
+    "Offer":     "B6D7A8",
+    "Rejected":  "F4CCCC",
+}
+
+
+def update_tracker(company: str, role: str, filename: str) -> None:
+    if TRACKER.exists():
+        wb = load_workbook(TRACKER)
+        ws = wb.active
+    else:
+        wb = Workbook()
+        ws = wb.active
+        ws.title = "Applications"
+        for col, header in enumerate(HEADERS, 1):
+            cell = ws.cell(row=1, column=col, value=header)
+            cell.font = HEADER_FONT
+            cell.fill = HEADER_FILL
+            cell.alignment = Alignment(horizontal="center")
+        ws.column_dimensions["A"].width = 12
+        ws.column_dimensions["B"].width = 22
+        ws.column_dimensions["C"].width = 35
+        ws.column_dimensions["D"].width = 55
+        ws.column_dimensions["E"].width = 12
+        ws.column_dimensions["F"].width = 30
+
+    row = [
+        datetime.now().strftime("%Y-%m-%d"),
+        company.replace("_", " "),
+        role.replace("_", " "),
+        filename,
+        "Generated",
+        "",
+    ]
+    ws.append(row)
+
+    last_row = ws.max_row
+    fill = PatternFill("solid", fgColor=STATUS_COLORS["Generated"])
+    for col in range(1, len(HEADERS) + 1):
+        ws.cell(row=last_row, column=col).fill = fill
+
+    wb.save(TRACKER)
 
 
 def load_skills() -> str:
@@ -91,8 +143,10 @@ def main():
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     out_file = OUTPUT_DIR / f"Tim_Williams_{company}_{role}_{timestamp}.tex"
     out_file.write_text(tailored_tex, encoding="utf-8")
+    update_tracker(company, role, out_file.name)
 
     print(f"Saved:  {out_file}")
+    print(f"Tracker updated: {TRACKER}")
 
 
 if __name__ == "__main__":

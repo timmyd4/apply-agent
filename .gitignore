@@ -16,3 +16,6 @@ venv/
 
 # Environment
 .env
+
+# Application tracker (local only)
+applications.xlsx
