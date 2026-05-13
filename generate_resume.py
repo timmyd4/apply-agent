@@ -140,7 +140,7 @@ def main():
         tailored_tex = "\n".join(lines[1:end])
 
     OUTPUT_DIR.mkdir(exist_ok=True)
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    timestamp = datetime.now().strftime("%Y-%m-%d")
     out_file = OUTPUT_DIR / f"Tim_Williams_{company}_{role}_{timestamp}.tex"
     out_file.write_text(tailored_tex, encoding="utf-8")
     update_tracker(company, role, out_file.name)
