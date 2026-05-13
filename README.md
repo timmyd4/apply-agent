@@ -116,3 +116,19 @@ Apply_Agent/
 - PDFs are **never committed** to the repo — only available as GitHub Actions artifacts.
 - The AI will never fabricate skills or experience; everything is grounded in the master resume and skill library.
 - If a build fails with a LaTeX error, check the Actions log — the most common issue is a package or color name problem in the generated `.tex`.
+
+---
+
+## Using This Yourself (Forkers)
+
+1. **Replace the master resume** — swap `Tim_Williams_Master_Resume.tex` with your own. Keep the same `\jobhead`, `\projhead`, `\skillrow` commands and preamble structure so the AI knows how to format the output.
+
+2. **Update the skill library** — replace the `.yaml` files in `skills/` with your own. Each file should be named after the skill and describe your proficiency and relevant projects. The AI uses these to decide what to highlight.
+
+3. **Update `instructions.md`** — replace Tim's name with yours anywhere it appears.
+
+4. **Update `generate_resume.py`** — change the output filename prefix from `Tim_Williams_` to your own name (line that builds `out_file`).
+
+5. **Set your Gemini API key** — as a global environment variable locally (see setup above) and as a GitHub Actions secret (`GEMINI_API_KEY`) in your forked repo's settings so the PDF build works.
+
+6. **Uncomment `output/*.tex`** in `.gitignore` to enable the PDF build on push.
