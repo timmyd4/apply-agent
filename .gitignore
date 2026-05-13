@@ -1,5 +1,5 @@
 # Generated resumes — compile locally or via CI, don't commit
-output/*.tex
+#output/*.tex
 output/*.pdf
 
 # LaTeX build artifacts
