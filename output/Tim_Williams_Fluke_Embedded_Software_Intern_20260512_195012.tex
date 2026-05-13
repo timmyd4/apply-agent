@@ -2,8 +2,8 @@
 
 % ── Packages ──────────────────────────────────────────────────────────────────
 \usepackage[
-  top=0.55in, bottom=0.55in,
-  left=0.65in, right=0.65in
+  top=0.45in, bottom=0.45in,
+  left=0.55in, right=0.55in
 ]{geometry}
 \usepackage{fontenc}
 \usepackage{inputenc}
@@ -41,14 +41,14 @@
   {\color{navy}\bfseries\normalsize}
   {}{0em}{\MakeUppercase}
   [\color{navy}\titlerule]
-\titlespacing{\section}{0pt}{8pt}{4pt}
+\titlespacing{\section}{0pt}{5pt}{3pt}
 
 % ── List settings ─────────────────────────────────────────────────────────────
 \setlist[itemize]{
   leftmargin=1.2em,
-  itemsep=1pt,
+  itemsep=0pt,
   parsep=0pt,
-  topsep=2pt,
+  topsep=1pt,
   label=\textbullet
 }
 
@@ -56,7 +56,7 @@
 
 % Job / role header: Title | Org | Location    Dates
 \newcommand{\jobhead}[4]{%
-  \vspace{5pt}%
+  \vspace{3pt}%
   {\bfseries\color{dark}#1}%
   ~{\color{light}|}~%
   {\bfseries\color{navy}#2}%
@@ -67,7 +67,7 @@
 
 % Project header: Name (linked)  —  Tech stack
 \newcommand{\projhead}[3]{%
-  \vspace{5pt}%
+  \vspace{3pt}%
   {\bfseries\color{dark}\href{#2}{#1}}%
   ~{\color{light}---}~%
   {\color{light}\small\textit{#3}}\\[-2pt]%
@@ -84,7 +84,7 @@
 
 % ── NAME ──────────────────────────────────────────────────────────────────────
 \begin{center}
-  {\huge\bfseries\color{navy} Tim Williams}\\[4pt]
+  {\huge\bfseries\color{navy} Tim Williams}\\[2pt]
   {\small\color{light}
     Fife, WA
     ~\textbullet~
@@ -95,8 +95,6 @@
     \href{https://timyd.itch.io/dodgy}{timyd.itch.io/dodgy}
   }
 \end{center}
-
-\vspace{2pt}
 
 % ── TECHNICAL SKILLS ──────────────────────────────────────────────────────────
 \section{Technical Skills}
@@ -122,12 +120,6 @@
   \item Assisted with gathering user requirements and implementing software features for internal healthcare applications.
   \item Worked within a legacy codebase (Pascal, dBase, Delphi), demonstrating ability to quickly ramp up on unfamiliar technologies and contribute to existing systems.
   \item Completed per-request UI updates to improve efficiency and meet deadlines, resulting in higher user satisfaction.
-\end{itemize}
-
-\jobhead{Air Export Warehouse Agent}{Expeditors International of WA}{Kent, WA}{July 2021 – Apr 2023}
-\begin{itemize}
-  \item Managed high-value international air shipments under strict regulations, coordinating complex logistics across international supply chains.
-  \item Maintained client communication and ensured on-time delivery of freight exceeding \$100,000 in value.
 \end{itemize}
 
 % ── PROJECTS ──────────────────────────────────────────────────────────────────
