@@ -1,0 +1,166 @@
+\documentclass[10pt, letterpaper]{article}
+
+% ── Packages ──────────────────────────────────────────────────────────────────
+\usepackage[
+  top=0.55in, bottom=0.55in,
+  left=0.65in, right=0.65in
+]{geometry}
+\usepackage{fontenc}
+\usepackage{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}          % Arial-like sans-serif
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{parskip}
+
+% ── Colors ────────────────────────────────────────────────────────────────────
+\definecolor{navy}{HTML}{1B3A5C}
+\definecolor{dark}{HTML}{222222}
+\definecolor{mid}{HTML}{444444}
+\definecolor{light}{HTML}{666666}
+
+% ── Hyperlink style ───────────────────────────────────────────────────────────
+\hypersetup{
+  colorlinks=true,
+  urlcolor=navy,
+  linkcolor=navy,
+  hidelinks
+}
+
+% ── No page numbers ───────────────────────────────────────────────────────────
+\pagestyle{empty}
+
+% ── Section formatting ────────────────────────────────────────────────────────
+\titleformat{\section}
+  {\color{navy}\bfseries\normalsize\uppercase}
+  {}{0em}{}
+  [\color{navy}\titlerule]
+\titlespacing{\section}{0pt}{8pt}{4pt}
+
+% ── List settings ─────────────────────────────────────────────────────────────
+\setlist[itemize]{
+  leftmargin=1.2em,
+  itemsep=1pt,
+  parsep=0pt,
+  topsep=2pt,
+  label=\textbullet
+}
+
+% ── Helper commands ───────────────────────────────────────────────────────────
+
+% Job / role header: Title | Org | Location    Dates
+\newcommand{\jobhead}[4]{%
+  \vspace{5pt}%
+  {\bfseries\color{dark}#1}%
+  ~{\color{light}|}~%
+  {\bfseries\color{navy}#2}%
+  ~{\color{light}|}~%
+  {\color{light}#3}%
+  \hfill{\color{light}\small\textit{#4}}\\[-2pt]%
+}
+
+% Project header: Name (linked)  —  Tech stack
+\newcommand{\projhead}[3]{%
+  \vspace{5pt}%
+  {\bfseries\color{dark}\href{#2}{#1}}%
+  ~{\color{light}---}~%
+  {\color{light}\small\textit{#3}}\\[-2pt]%
+}
+
+% Inline label + value for skills rows
+\newcommand{\skillrow}[2]{%
+  {\bfseries #1} & #2 \\[2pt]%
+}
+
+% ══════════════════════════════════════════════════════════════════════════════
+\begin{document}
+% ══════════════════════════════════════════════════════════════════════════════
+
+% ── NAME ──────────────────────────────────────────────────────────────────────
+\begin{center}
+  {\huge\bfseries\color{navy} Tim Williams}\\[4pt]
+  {\small\color{light}
+    Fife, WA
+    ~\textbullet~
+    \href{https://linkedin.com/in/timothy-williams-hire}{linkedin.com/in/timothy-williams-hire}
+    ~\textbullet~
+    \href{https://github.com/timmyd4}{github.com/timmyd4}
+    ~\textbullet~
+    \href{https://timyd.itch.io/dodgy}{timyd.itch.io/dodgy}
+  }
+\end{center}
+
+\vspace{2pt}
+
+% ── TECHNICAL SKILLS ──────────────────────────────────────────────────────────
+\section{Technical Skills}
+
+\begin{tabular}{@{}p{1.6in} p{5.2in}@{}}
+  \skillrow{Languages}{Python (Proficient),\ \ Java (Advanced),\ \ C\# (Proficient),\ \ JavaScript (Proficient),\ \ HTML (Advanced),\ \ CSS (Proficient),\ \ SQL (Basic)}
+  \skillrow{Frameworks \& Libs}{JUnit (Proficient),\ \ React,\ \ Next.js,\ \ Express.js,\ \ Maven,\ \ TkinterBootstrap}
+  \skillrow{Tools \& Platforms}{Git/GitHub (Proficient),\ \ Docker (Proficient),\ \ WSL/Ubuntu (Proficient),\ \ Firebase,\ \ Unity,\ \ Visual Studio Code,\ \ Blender}
+\end{tabular}
+
+% ── EXPERIENCE ────────────────────────────────────────────────────────────────
+\section{Experience}
+
+\jobhead{Software Intern}{Code-Day}{Remote}{Feb 2025 – Mar 2025}
+\begin{itemize}
+  \item Developed and implemented new unit and integration test cases, expanding software test coverage and ensuring reliable program behavior.
+  \item Analyzed complex project architecture and dependencies to gain a comprehensive understanding of software systems before contributing.
+  \item Collaborated with cross-functional teams on an active GitHub repository, utilizing revision control for code review and version management.
+\end{itemize}
+
+\jobhead{Software Intern}{Vantage Radiology}{Federal Way, WA}{Jan 2024 – Jan 2025}
+\begin{itemize}
+  \item Assisted with gathering user requirements and implementing software features for internal healthcare applications.
+  \item Worked within a legacy codebase (Pascal, dBase, Delphi), demonstrating ability to quickly ramp up on unfamiliar technologies and contribute to existing systems.
+  \item Completed per-request UI updates to improve efficiency and meet deadlines, resulting in higher user satisfaction.
+\end{itemize}
+
+\jobhead{Air Export Warehouse Agent}{Expeditors International of WA}{Kent, WA}{July 2021 – Apr 2023}
+\begin{itemize}
+  \item Managed high-value international air shipments under strict regulations, coordinating complex logistics across international supply chains.
+  \item Maintained client communication and ensured on-time delivery of freight exceeding \$100,000 in value.
+\end{itemize}
+
+% ── PROJECTS ──────────────────────────────────────────────────────────────────
+\section{Projects}
+
+\projhead{Centroid-Finder}{https://github.com/xavierb117/centroid-finder}{Java, JavaScript, React, Next.js, Express.js, Docker, Firebase, JUnit, Maven, WSL/Ubuntu}
+\begin{itemize}
+  \item Developed a full-stack processing system with Java, FFmpeg, and JavaCV for real-time data analysis, demonstrating robust backend software development.
+  \item Built a Dockerized React/Next.js front-end with an Express.js API to visualize and manage real-time processing results.
+  \item Contributed to a client's private GitHub repository through a capstone course; utilized Firebase for backend services and WSL/Ubuntu for development environment.
+\end{itemize}
+
+\projhead{Screw-Tape}{https://github.com/timmyd4/screwtape}{Java, JUnit}
+\begin{itemize}
+  \item Designed and built a Java-based compiler from scratch, demonstrating deep understanding of low-level language interpretation and structured programming.
+  \item Applied comprehensive JUnit testing to validate instruction handling, accuracy, and ensure reliable software behavior, mirroring rigorous testing requirements.
+\end{itemize}
+
+\projhead{Spend-Wiser}{https://github.com/JesseChum/w26-sdev372-spendwiser-finance-tracker}{TypeScript, Docker}
+\begin{itemize}
+  \item Collaborated in a sprint-based team to build a full-stack finance tracker web app with TypeScript on front and back end.
+  \item Utilized Docker to host and run the project in an isolated, reproducible virtual environment, demonstrating containerization for streamlined development.
+\end{itemize}
+
+\projhead{Dodgy}{https://timyd.itch.io/dodgy}{C\#, Unity, Blender}
+\begin{itemize}
+  \item Developed an endless-runner game in Unity, modeling custom 3D assets in Blender and implementing gameplay logic, obstacle avoidance, and score tracking in C\#.
+\end{itemize}
+
+% ── EDUCATION ─────────────────────────────────────────────────────────────────
+\section{Education}
+
+\jobhead{B.A.S., Software Development}{Green River College}{Auburn, WA}{Expected June 2026}
+\jobhead{A.A.S., Software Development}{Bates Technical College}{Tacoma, WA}{Graduated Fall 2024}
+
+\end{document}

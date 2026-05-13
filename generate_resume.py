@@ -3,7 +3,8 @@ import os
 import re
 import sys
 import yaml
-import anthropic
+from google import genai
+from google.genai import types
 from pathlib import Path
 from datetime import datetime
 
@@ -38,6 +39,11 @@ def extract_metadata(job_desc: str) -> tuple[str, str]:
 
 
 def main():
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        print("ERROR: GEMINI_API_KEY environment variable is not set.")
+        sys.exit(1)
+
     for path in [MASTER_RESUME, JOB_DESCRIPTION, INSTRUCTIONS]:
         if not path.exists():
             print(f"ERROR: Missing required file: {path}")
@@ -54,44 +60,26 @@ def main():
 
     company, role = extract_metadata(job_description)
 
-    client = anthropic.Anthropic()
+    client = genai.Client(api_key=api_key)
 
-    static_content = (
+    prompt = (
         f"## Master Resume\n```latex\n{master_resume}\n```\n\n"
-        f"## Skill Library\n```yaml\n{skills_yaml}\n```"
+        f"## Skill Library\n```yaml\n{skills_yaml}\n```\n\n"
+        f"## Job Description\n\n{job_description}"
     )
 
     print(f"Generating resume for {company} — {role}...")
 
-    response = client.messages.create(
-        model="claude-opus-4-7",
-        max_tokens=8192,
-        system=[
-            {
-                "type": "text",
-                "text": instructions,
-                "cache_control": {"type": "ephemeral"},
-            }
-        ],
-        messages=[
-            {
-                "role": "user",
-                "content": [
-                    {
-                        "type": "text",
-                        "text": static_content,
-                        "cache_control": {"type": "ephemeral"},
-                    },
-                    {
-                        "type": "text",
-                        "text": f"## Job Description\n\n{job_description}",
-                    },
-                ],
-            }
-        ],
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        config=types.GenerateContentConfig(
+            system_instruction=instructions,
+            max_output_tokens=8192,
+        ),
+        contents=prompt,
     )
 
-    tailored_tex = response.content[0].text.strip()
+    tailored_tex = response.text.strip()
 
     # Strip markdown fences if the model wrapped the output anyway
     if tailored_tex.startswith("```"):
@@ -105,14 +93,6 @@ def main():
     out_file.write_text(tailored_tex, encoding="utf-8")
 
     print(f"Saved:  {out_file}")
-
-    usage = response.usage
-    parts = [f"input: {usage.input_tokens}", f"output: {usage.output_tokens}"]
-    if getattr(usage, "cache_read_input_tokens", 0):
-        parts.append(f"cache read: {usage.cache_read_input_tokens}")
-    if getattr(usage, "cache_creation_input_tokens", 0):
-        parts.append(f"cache write: {usage.cache_creation_input_tokens}")
-    print(f"Tokens — {', '.join(parts)}")
 
 
 if __name__ == "__main__":
