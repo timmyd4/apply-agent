@@ -1,0 +1,17 @@
+name: Express.js
+category: framework
+proficiency: proficient
+description: >
+  Developed a RESTful Express.js API to expose image processing results from a
+  Java/FFmpeg backend to a React/Next.js front-end.
+projects:
+  - name: Centroid-Finder
+    url: https://github.com/xavierb117/centroid-finder
+keywords:
+  - express
+  - expressjs
+  - express.js
+  - node
+  - rest api
+  - backend
+  - server

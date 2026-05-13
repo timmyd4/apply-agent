@@ -1,0 +1,18 @@
+# Generated resumes — compile locally or via CI, don't commit
+output/*.tex
+output/*.pdf
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env

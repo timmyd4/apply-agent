@@ -1,0 +1,23 @@
+name: JUnit
+category: library
+proficiency: proficient
+description: >
+  Applied JUnit across multiple Java projects to write unit and integration tests,
+  validate instruction handling in a compiler, and ensure reliable program behavior.
+projects:
+  - name: Centroid-Finder
+    url: https://github.com/xavierb117/centroid-finder
+  - name: Screw-Tape
+    url: https://github.com/timmyd4/screwtape
+  - name: Text-Trainer
+    url: https://github.com/timmyd4/ramblebot
+  - name: Truffula
+    url: https://github.com/timmyd4/truffula
+keywords:
+  - junit
+  - junit5
+  - unit testing
+  - integration testing
+  - tdd
+  - test-driven development
+  - java testing

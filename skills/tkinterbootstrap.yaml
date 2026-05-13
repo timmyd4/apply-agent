@@ -1,0 +1,13 @@
+name: TkinterBootstrap
+category: library
+proficiency: proficient
+description: >
+  Used TkinterBootstrap to build styled Python desktop GUI applications with
+  Bootstrap-themed components on top of the standard Tkinter framework.
+keywords:
+  - tkinterbootstrap
+  - tkinter
+  - ttkbootstrap
+  - python gui
+  - desktop app
+  - gui

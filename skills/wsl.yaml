@@ -1,0 +1,14 @@
+name: WSL / Ubuntu
+category: platform
+proficiency: proficient
+description: >
+  Developed and ran projects in WSL (Windows Subsystem for Linux) with Ubuntu,
+  enabling a Linux-compatible environment for tooling and containerized workflows.
+keywords:
+  - wsl
+  - wsl2
+  - ubuntu
+  - linux
+  - windows subsystem for linux
+  - bash
+  - shell

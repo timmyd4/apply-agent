@@ -1,0 +1,16 @@
+name: Firebase
+category: platform
+proficiency: proficient
+description: >
+  Integrated Firebase into a capstone full-stack project for backend services
+  including data storage and real-time updates.
+projects:
+  - name: Centroid-Finder
+    url: https://github.com/xavierb117/centroid-finder
+keywords:
+  - firebase
+  - google firebase
+  - realtime database
+  - firestore
+  - baas
+  - backend as a service

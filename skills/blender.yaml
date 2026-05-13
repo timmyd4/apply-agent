@@ -1,0 +1,16 @@
+name: Blender
+category: tool
+proficiency: proficient
+description: >
+  Modeled and animated custom 3D assets in Blender for integration into a Unity
+  game, covering mesh creation, rigging, and animation export.
+projects:
+  - name: Dodgy
+    url: https://timyd.itch.io/dodgy
+keywords:
+  - blender
+  - 3d modeling
+  - animation
+  - 3d assets
+  - game art
+  - modeling

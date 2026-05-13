@@ -1,0 +1,40 @@
+name: Build Resume PDFs
+
+on:
+  push:
+    paths:
+      - 'Tim_Williams_Master_Resume.tex'
+      - 'output/**.tex'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y texlive-latex-extra texlive-fonts-recommended
+
+      - name: Compile master resume
+        run: |
+          mkdir -p pdfs
+          pdflatex -interaction=nonstopmode -output-directory=pdfs Tim_Williams_Master_Resume.tex
+          pdflatex -interaction=nonstopmode -output-directory=pdfs Tim_Williams_Master_Resume.tex
+
+      - name: Compile tailored resumes
+        run: |
+          for tex in output/*.tex; do
+            [ -f "$tex" ] || continue
+            pdflatex -interaction=nonstopmode -output-directory=pdfs "$tex"
+            pdflatex -interaction=nonstopmode -output-directory=pdfs "$tex"
+          done
+
+      - name: Upload PDFs
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume-pdfs
+          path: pdfs/*.pdf
+          if-no-files-found: warn

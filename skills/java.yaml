@@ -1,0 +1,22 @@
+name: Java
+category: language
+proficiency: advanced
+description: >
+  Advanced Java developer with experience building compilers, CLI tools, full-stack
+  backends, and image/video processing systems. Applied across multiple capstone and
+  personal projects using core data structures, I/O, and object-oriented design.
+projects:
+  - name: Centroid-Finder
+    url: https://github.com/xavierb117/centroid-finder
+  - name: Screw-Tape
+    url: https://github.com/timmyd4/screwtape
+  - name: Text-Trainer
+    url: https://github.com/timmyd4/ramblebot
+  - name: Truffula
+    url: https://github.com/timmyd4/truffula
+keywords:
+  - java
+  - jvm
+  - object-oriented
+  - oop
+  - backend

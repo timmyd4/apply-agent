@@ -1,0 +1,16 @@
+name: C#
+category: language
+proficiency: proficient
+description: >
+  Proficient in C# for game development and application logic. Implemented
+  gameplay systems, collision logic, and score tracking in Unity.
+projects:
+  - name: Dodgy
+    url: https://timyd.itch.io/dodgy
+keywords:
+  - csharp
+  - c#
+  - dotnet
+  - .net
+  - unity scripting
+  - game development

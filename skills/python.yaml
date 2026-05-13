@@ -1,0 +1,20 @@
+name: Python
+category: language
+proficiency: proficient
+description: >
+  Used Python to build scripting and automation tools, including an AI-powered
+  resume tailoring agent that calls the Claude API with prompt caching to generate
+  job-specific LaTeX resumes from a master template and YAML skill library.
+projects:
+  - name: Apply-Agent
+    url: https://github.com/timmyd4/apply-agent
+keywords:
+  - python
+  - python3
+  - scripting
+  - automation
+  - claude api
+  - anthropic sdk
+  - yaml
+  - file i/o
+  - cli

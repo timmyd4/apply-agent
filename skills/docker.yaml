@@ -1,0 +1,18 @@
+name: Docker
+category: tool
+proficiency: proficient
+description: >
+  Containerized full-stack applications using Docker to create isolated,
+  reproducible environments for both development and deployment.
+projects:
+  - name: Centroid-Finder
+    url: https://github.com/xavierb117/centroid-finder
+  - name: Spend-Wiser
+    url: https://github.com/JesseChum/w26-sdev372-spendwiser-finance-tracker
+keywords:
+  - docker
+  - containerization
+  - containers
+  - devops
+  - dockerfile
+  - docker-compose

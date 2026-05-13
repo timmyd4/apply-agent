@@ -1,0 +1,17 @@
+name: React
+category: framework
+proficiency: proficient
+description: >
+  Built Dockerized front-end applications with React for real-time image processing
+  visualization and management as part of a capstone full-stack system.
+projects:
+  - name: Centroid-Finder
+    url: https://github.com/xavierb117/centroid-finder
+keywords:
+  - react
+  - reactjs
+  - react.js
+  - frontend
+  - spa
+  - component-based
+  - ui

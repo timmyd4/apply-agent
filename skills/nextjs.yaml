@@ -1,0 +1,17 @@
+name: Next.js
+category: framework
+proficiency: proficient
+description: >
+  Used Next.js as the front-end framework in a Dockerized full-stack image
+  processing application, handling routing and server-side rendering alongside React.
+projects:
+  - name: Centroid-Finder
+    url: https://github.com/xavierb117/centroid-finder
+keywords:
+  - nextjs
+  - next.js
+  - next
+  - ssr
+  - server-side rendering
+  - react framework
+  - fullstack

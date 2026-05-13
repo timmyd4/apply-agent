@@ -1,0 +1,15 @@
+name: Maven
+category: tool
+proficiency: proficient
+description: >
+  Used Maven for Java project build management, dependency resolution, and
+  packaging in full-stack and standalone Java applications.
+projects:
+  - name: Centroid-Finder
+    url: https://github.com/xavierb117/centroid-finder
+keywords:
+  - maven
+  - build tool
+  - java build
+  - dependency management
+  - pom.xml

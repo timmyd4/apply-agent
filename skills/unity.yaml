@@ -1,0 +1,16 @@
+name: Unity
+category: platform
+proficiency: proficient
+description: >
+  Developed an endless-runner game in Unity, integrating custom 3D assets from
+  Blender and implementing gameplay logic, obstacle avoidance, and score tracking in C#.
+projects:
+  - name: Dodgy
+    url: https://timyd.itch.io/dodgy
+keywords:
+  - unity
+  - unity3d
+  - game engine
+  - game development
+  - c#
+  - 3d

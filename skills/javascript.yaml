@@ -1,0 +1,16 @@
+name: JavaScript
+category: language
+proficiency: proficient
+description: >
+  Proficient in JavaScript for front-end and back-end development. Used in
+  full-stack projects alongside React, Next.js, and Express.js.
+projects:
+  - name: Centroid-Finder
+    url: https://github.com/xavierb117/centroid-finder
+keywords:
+  - javascript
+  - js
+  - es6
+  - frontend
+  - backend
+  - node

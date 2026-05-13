@@ -1,0 +1,15 @@
+name: TypeScript
+category: language
+proficiency: proficient
+description: >
+  Used TypeScript on both front-end and back-end in a sprint-based team project
+  building a full-stack finance tracker web application.
+projects:
+  - name: Spend-Wiser
+    url: https://github.com/JesseChum/w26-sdev372-spendwiser-finance-tracker
+keywords:
+  - typescript
+  - ts
+  - typed javascript
+  - frontend
+  - backend

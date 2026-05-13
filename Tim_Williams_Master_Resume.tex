@@ -1,0 +1,211 @@
+%% Tim Williams — Master Resume
+%% Compile with: pdflatex master_resume.tex
+
+\documentclass[10pt, letterpaper]{article}
+
+% ── Packages ──────────────────────────────────────────────────────────────────
+\usepackage[
+  top=0.55in, bottom=0.55in,
+  left=0.65in, right=0.65in
+]{geometry}
+\usepackage{fontenc}
+\usepackage{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}          % Arial-like sans-serif
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{parskip}
+
+% ── Colors ────────────────────────────────────────────────────────────────────
+\definecolor{navy}{HTML}{1B3A5C}
+\definecolor{dark}{HTML}{222222}
+\definecolor{mid}{HTML}{444444}
+\definecolor{light}{HTML}{666666}
+
+% ── Hyperlink style ───────────────────────────────────────────────────────────
+\hypersetup{
+  colorlinks=true,
+  urlcolor=navy,
+  linkcolor=navy,
+  hidelinks
+}
+
+% ── No page numbers ───────────────────────────────────────────────────────────
+\pagestyle{empty}
+
+% ── Section formatting ────────────────────────────────────────────────────────
+\titleformat{\section}
+  {\color{navy}\bfseries\normalsize\uppercase}
+  {}{0em}{}
+  [\color{navy}\titlerule]
+\titlespacing{\section}{0pt}{8pt}{4pt}
+
+% ── List settings ─────────────────────────────────────────────────────────────
+\setlist[itemize]{
+  leftmargin=1.2em,
+  itemsep=1pt,
+  parsep=0pt,
+  topsep=2pt,
+  label=\textbullet
+}
+
+% ── Helper commands ───────────────────────────────────────────────────────────
+
+% Job / role header: Title | Org | Location    Dates
+\newcommand{\jobhead}[4]{%
+  \vspace{5pt}%
+  {\bfseries\color{dark}#1}%
+  ~{\color{light}|}~%
+  {\bfseries\color{navy}#2}%
+  ~{\color{light}|}~%
+  {\color{light}#3}%
+  \hfill{\color{light}\small\textit{#4}}\\[-2pt]%
+}
+
+% Project header: Name (linked)  —  Tech stack
+\newcommand{\projhead}[3]{%
+  \vspace{5pt}%
+  {\bfseries\color{dark}\href{#2}{#1}}%
+  ~{\color{light}---}~%
+  {\color{light}\small\textit{#3}}\\[-2pt]%
+}
+
+% Inline label + value for skills rows
+\newcommand{\skillrow}[2]{%
+  {\bfseries #1} & #2 \\[2pt]%
+}
+
+% ══════════════════════════════════════════════════════════════════════════════
+\begin{document}
+% ══════════════════════════════════════════════════════════════════════════════
+
+% ── NAME ──────────────────────────────────────────────────────────────────────
+\begin{center}
+  {\huge\bfseries\color{navy} Tim Williams}\\[4pt]
+  {\small\color{light}
+    Fife, WA
+    ~\textbullet~
+    \href{https://linkedin.com/in/timothy-williams-hire}{linkedin.com/in/timothy-williams-hire}
+    ~\textbullet~
+    \href{https://github.com/timmyd4}{github.com/timmyd4}
+    ~\textbullet~
+    \href{https://timyd.itch.io/dodgy}{timyd.itch.io/dodgy}
+  }
+\end{center}
+
+\vspace{2pt}
+
+% ── TECHNICAL SKILLS ──────────────────────────────────────────────────────────
+\section{Technical Skills}
+
+\begin{tabular}{@{}p{1.6in} p{5.2in}@{}}
+  \skillrow{Languages}{Java (Advanced),\ \ JavaScript (Proficient),\ \ Python (Proficient),\ \ C\# (Proficient),\ \ SQL (Basic),\ \ HTML (Advanced),\ \ CSS (Proficient)}
+  \skillrow{Frameworks \& Libs}{React,\ \ Next.js,\ \ Express.js,\ \ JUnit,\ \ Maven,\ \ TkinterBootstrap}
+  \skillrow{Tools \& Platforms}{Docker,\ \ Firebase,\ \ Git/GitHub,\ \ WSL/Ubuntu,\ \ Visual Studio Code,\ \ Blender,\ \ Unity}
+\end{tabular}
+
+% ── EXPERIENCE ────────────────────────────────────────────────────────────────
+\section{Experience}
+
+\jobhead{Software Intern}{Code-Day}{Remote}{Feb 2025 – Mar 2025}
+\begin{itemize}
+  \item Developed and implemented new unit and integration test cases following established project conventions, improving code coverage
+  \item Researched and analyzed project architecture, dependencies, and tooling to understand the full tech stack before contributing
+  \item Collaborated with student teams on an active GitHub repository, submitting pull requests and participating in code review
+\end{itemize}
+
+\jobhead{Software Intern}{Vantage Radiology}{Federal Way, WA}{Jan 2024 – Jan 2025}
+\begin{itemize}
+  \item Assisted with gathering user requirements and implementing software features for internal healthcare applications
+  \item Completed per-request UI updates to improve efficiency and meet deadlines, resulting in higher user satisfaction
+  \item Worked within a legacy codebase (Pascal, dBase, Delphi), demonstrating ability to ramp up on unfamiliar technologies
+\end{itemize}
+
+\jobhead{Air Export Warehouse Agent}{Expeditors International of WA}{Kent, WA}{July 2021 – Apr 2023}
+\begin{itemize}
+  \item Managed high-value international air shipments under strict TSA regulations
+  \item Maintained client communication and ensured on-time delivery of freight exceeding \$100,000 in value
+  \item Operated heavy equipment and coordinated logistics across international supply chains
+\end{itemize}
+
+% ── PROJECTS ──────────────────────────────────────────────────────────────────
+\section{Projects}
+
+\projhead{Centroid-Finder}{https://github.com/xavierb117/centroid-finder}{Java, JavaScript, React, Next.js, Express.js, Docker, Firebase, JUnit, Maven}
+\begin{itemize}
+  \item Built a full-stack photo/video processing system using Java, FFmpeg, and JavaCV for real-time color-based detection and analysis
+  \item Developed a Dockerized React/Next.js front-end with an Express.js API to visualize and manage image processing in real time
+  \item Contributed to a client's private GitHub repository through a capstone course (NDA signed); utilized Firebase and WSL/Ubuntu
+\end{itemize}
+
+\projhead{Screw-Tape}{https://github.com/timmyd4/screwtape}{Java, JUnit}
+\begin{itemize}
+  \item Designed and built a Java-based compiler to interpret a minimal, symbol-driven programming language from scratch
+  \item Applied comprehensive JUnit testing to validate instruction handling, accuracy, and reliable program behavior
+\end{itemize}
+
+\projhead{Dodgy}{https://timyd.itch.io/dodgy}{C\#, Unity, Blender}
+\begin{itemize}
+  \item Developed an endless-runner game inspired by Temple Run and Subway Surfers, featuring obstacle avoidance and score tracking
+  \item Modeled and animated custom 3D assets in Blender, integrated them into Unity, and implemented gameplay logic in C\#
+\end{itemize}
+
+\projhead{Spend-Wiser}{https://github.com/JesseChum/w26-sdev372-spendwiser-finance-tracker}{TypeScript, Docker}
+\begin{itemize}
+  \item Collaborated in a sprint-based team to build a full-stack finance tracker web app with TypeScript on front and back end
+  \item Utilized Docker to host and run the project in an isolated, reproducible virtual environment
+\end{itemize}
+
+\projhead{Text-Trainer}{https://github.com/timmyd4/ramblebot}{Java, JUnit}
+\begin{itemize}
+  \item Built a command-line text generator that trains on input data to produce output patterns using core Java data structures
+\end{itemize}
+
+\projhead{Truffula}{https://github.com/timmyd4/truffula}{Java, JUnit}
+\begin{itemize}
+  \item Created a directory helper that recursively prints file trees from the command line using core Java I/O methods
+  \item Collaborated with fellow students and instructors, following established coding conventions throughout
+\end{itemize}
+
+\projhead{React-Idle-Game}{https://github.com/timmyd4/React-Idle-Game}{React, JavaScript, CSS, Vite}
+\begin{itemize}
+  \item Challenged myself to build an incremental clicker game in React, implementing state-driven upgrade logic, passive resource accumulation, and real-time UI feedback using hooks
+  \item Practiced component decomposition and CSS styling to deliver a polished, interactive game-loop experience entirely from scratch
+\end{itemize}
+
+\projhead{API-Data-Display}{https://github.com/timmyd4/API-Data-Display}{React, JavaScript, CSS, Vite}
+\begin{itemize}
+  \item Built a React application that fetches and renders live data from external APIs, practicing async data fetching, loading and error state management, and dynamic component rendering
+  \item Styled the interface with custom CSS to present API-driven content clearly and responsively
+\end{itemize}
+
+\projhead{Dynamic-Collections}{https://github.com/timmyd4/Dynamic-Collections}{React, JavaScript, CSS, Vite}
+\begin{itemize}
+  \item Developed a data-driven React app to manage and display dynamic collections, using component composition and a centralized data file to practice scalable UI patterns
+  \item Applied custom CSS to create an organized, interactive collection interface
+\end{itemize}
+
+\projhead{React-TodoList}{https://github.com/timmyd4/React-TodoList-Fall2025}{React, JavaScript, CSS, Vite}
+\begin{itemize}
+  \item Built a task management app in React with a modular component architecture (Header, Footer, TodoList, ListItems), practicing props handling and clean separation of concerns
+  \item Implemented real-time state updates with useState and styled a responsive dark-themed UI from scratch
+\end{itemize}
+
+\projhead{Calculator-App}{https://github.com/timmyd4/CalculatorApp-React-Fall2025}{React, JavaScript, CSS, Vite}
+\begin{itemize}
+  \item Built a React calculator with real-time arithmetic result updates, using useState for state management and CSS Grid for button layout
+\end{itemize}
+
+% ── EDUCATION ─────────────────────────────────────────────────────────────────
+\section{Education}
+
+\jobhead{B.A.S., Software Development}{Green River College}{Auburn, WA}{Expected June 2026}
+\jobhead{A.A.S., Software Development}{Bates Technical College}{Tacoma, WA}{Graduated Fall 2024}
+
+\end{document}
