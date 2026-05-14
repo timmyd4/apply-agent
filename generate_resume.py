@@ -202,7 +202,7 @@ def main():
         model="gemini-2.5-flash",
         config=types.GenerateContentConfig(
             system_instruction=instructions,
-            max_output_tokens=8192,
+            max_output_tokens=16384,
         ),
         contents=prompt,
     )
@@ -214,6 +214,9 @@ def main():
         lines = tailored_tex.splitlines()
         end = len(lines) - 1 if lines[-1].strip() == "```" else len(lines)
         tailored_tex = "\n".join(lines[1:end])
+
+    if not tailored_tex.endswith(r"\end{document}"):
+        print("WARNING: Resume output appears truncated — \\end{document} not found. Check the .tex file before committing.")
 
     OUTPUT_DIR.mkdir(exist_ok=True)
     for old in OUTPUT_DIR.glob("*.tex"):
