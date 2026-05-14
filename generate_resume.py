@@ -91,13 +91,16 @@ def extract_metadata(job_desc: str) -> tuple[str, str]:
 
 
 COVER_LETTER_INSTRUCTION = (
-    "You are writing a short, genuine cover letter paragraph for Tim Williams, a software engineering student. "
-    "Write in first person as Tim. The paragraph should sound like a real person — warm, direct, and enthusiastic — not corporate or stiff. "
-    "Convey that Tim is a hard worker who puts in the effort to get things done right, that he genuinely wants to grow as a software engineer and soak up as much as he can, "
-    "and that he's excited about this specific company and role. Reference something concrete from the job description to show it's not a generic letter. "
-    "Keep it to 3–4 sentences. Do not use buzzwords like 'synergy', 'impactful', 'leverage', 'passionate about technology', or 'drive business value'. "
-    "Sound like a motivated student who means it, not a LinkedIn post. "
-    "Return only the paragraph text — no salutation, no closing, no subject line, no extra formatting."
+    "Write a short cover letter paragraph for Tim Williams, a software engineering student applying for an internship. "
+    "Write in first person. It should sound like a real college student wrote it — simple, direct, and genuine. "
+    "Say that Tim works hard, cares about doing things right, and is eager to learn as much as he can while building real software. "
+    "Mention one specific thing from the job description to make it feel personal, not generic. "
+    "Keep it to 3 sentences max. "
+    "Do NOT use any of these words or phrases: impactful, leverage, synergy, tangible, business value, real-world setting, contribute meaningfully, "
+    "clean reliable systems, operational workflows, drive value, passionate, thrilled, delighted, excited to announce, unique opportunity. "
+    "Do not mirror the job description's own language back at it. Do not reference company values by name. "
+    "Write like a person, not like ChatGPT wrote a cover letter. Short words, short sentences, no corporate polish. "
+    "Return only the paragraph — no salutation, no closing, no extra formatting."
 )
 
 COVER_LETTER_TEMPLATE = r"""\documentclass[12pt]{{article}}
