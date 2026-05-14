@@ -1,4 +1,4 @@
-%% Tim Williams — Tailored Resume for Software Engineering Intern at Great Expectations
+%% Tim Williams — Tailored Resume
 %% Compile with: pdflatex tailored_resume.tex
 
 \documentclass[10pt, letterpaper]{article}
@@ -105,9 +105,9 @@
 \section{Technical Skills}
 
 \begin{tabular}{@{}p{1.6in} p{5.2in}@{}}
-  \skillrow{Languages}{Python (Proficient in automations, data pipelines), JavaScript (Proficient in full-stack web projects), TypeScript (Proficient in full-stack web applications), SQL (Basic for relational database queries), Java (Advanced in backends, data processing), HTML (Advanced), CSS (Proficient)}
-  \skillrow{Frameworks \& Libs}{React (Dockerized front-ends, real-time visualization), Next.js (Front-end for routing, SSR), Express.js (RESTful API development), JUnit, Maven}
-  \skillrow{Tools \& Platforms}{Docker (Containerization for isolated, reproducible environments), Git/GitHub (Version control, collaborative workflows), Firebase (Backend services for data storage), WSL/Ubuntu, Visual Studio Code}
+  \skillrow{Languages}{Python (Proficient),\ \ JavaScript (Proficient),\ \ TypeScript (Proficient),\ \ Java (Advanced),\ \ C\# (Proficient),\ \ HTML (Advanced),\ \ CSS (Proficient),\ \ SQL (Basic)}
+  \skillrow{Frameworks \& Libs}{React,\ \ Next.js,\ \ Express.js,\ \ JUnit,\ \ Maven,\ \ TkinterBootstrap}
+  \skillrow{Tools \& Platforms}{Docker,\ \ Git/GitHub,\ \ Firebase,\ \ WSL/Ubuntu,\ \ Visual Studio Code,\ \ Blender,\ \ Unity}
 \end{tabular}
 
 % ── EXPERIENCE ────────────────────────────────────────────────────────────────
@@ -115,49 +115,52 @@
 
 \jobhead{Software Intern}{Code-Day}{Remote}{Feb 2025 – Mar 2025}
 \begin{itemize}
-  \item Developed and implemented new unit and integration test cases following established project conventions, improving code coverage and ensuring maintainable code
-  \item Researched and analyzed project architecture, dependencies, and tooling to understand full tech stacks, informing build-vs-buy opportunities
-  \item Collaborated with student teams on an active GitHub repository, submitting pull requests and participating in code review to foster a culture of technical rigor
+  \item Developed and implemented comprehensive unit and integration test cases to ensure code quality and reliability
+  \item Researched and analyzed existing project architecture and tooling to inform effective contributions
+  \item Collaborated effectively with a remote team on GitHub, engaging in pull requests and code reviews for shared projects
 \end{itemize}
 
 \jobhead{Software Intern}{Vantage Radiology}{Federal Way, WA}{Jan 2024 – Jan 2025}
 \begin{itemize}
-  \item Assisted with gathering user requirements and implementing software features for internal healthcare applications, directly supporting operational workflows
-  \item Completed per-request UI updates to improve efficiency and meet deadlines, resulting in higher user satisfaction and streamlined processes
-  \item Worked within a legacy codebase (Pascal, dBase, Delphi), demonstrating ability to ramp up on unfamiliar technologies and adapt quickly
+  \item Gathered user requirements and implemented software features for internal healthcare applications, directly supporting operational efficiency
+  \item Delivered UI updates to enhance internal user efficiency and satisfaction within a tight deadline environment
+  \item Navigated and contributed to a legacy codebase (Pascal, dBase, Delphi), demonstrating rapid adaptation to unfamiliar systems and business logic
 \end{itemize}
 
 \jobhead{Air Export Warehouse Agent}{Expeditors International of WA}{Kent, WA}{July 2021 – Apr 2023}
 \begin{itemize}
-  \item Managed high-value international air shipments under strict regulations, ensuring on-time delivery for clients
-  \item Maintained clear communication with stakeholders and coordinated complex logistics operations
+  \item Managed high-value international air shipments under strict TSA regulations
+  \item Maintained client communication and ensured on-time delivery of freight exceeding \$100,000 in value
+  \item Operated heavy equipment and coordinated logistics across international supply chains
 \end{itemize}
 
 % ── PROJECTS ──────────────────────────────────────────────────────────────────
 \section{Projects}
 
-\projhead{Centroid-Finder}{https://github.com/xavierb117/centroid-finder}{Java, JavaScript, React, Next.js, Express.js, Docker, Firebase, JUnit, Maven}
+\projhead{Centroid-Finder}{https://github.com/xavierb117/centroid-finder}{Java, JavaScript, React, Next.js, Express.js, Docker, Firebase}
 \begin{itemize}
-  \item Engineered a full-stack image/video processing system leveraging Java, FFmpeg, and JavaCV for real-time color-based detection and analysis, enhancing operational workflows for a client
-  \item Designed and implemented a Dockerized React/Next.js front-end with an Express.js API, serving as an internal web application to visualize and manage real-time image processing results
-  \item Contributed to a client's private GitHub repository, demonstrating collaboration and adherence to professional development practices; utilized Firebase and WSL/Ubuntu
+  \item Architected and built a full-stack system for real-time color-based detection and analysis of photo/video, utilizing Java, FFmpeg, and JavaCV
+  \item Developed a Dockerized React/Next.js web application with an Express.js API for real-time visualization and management of image processing data
+  \item Contributed to a client's private GitHub repository via a capstone course, leveraging Firebase for backend services and WSL/Ubuntu for development environment
 \end{itemize}
 
-\projhead{Spend-Wiser}{https://github.com/JesseChum/w26-sdev372-spendwiser-finance-tracker}{TypeScript, React, Docker}
+\projhead{Spend-Wiser}{https://github.com/JesseChum/w26-sdev372-spendwiser-finance-tracker}{TypeScript, Docker}
 \begin{itemize}
-  \item Collaborated in a sprint-based team to develop a full-stack finance tracker web application with TypeScript, supporting financial reporting and analysis for business operations
-  \item Utilized Docker for containerization, ensuring a reproducible and isolated environment for consistent deployment and development
+  \item Collaborated in a sprint-based team to build a full-stack finance tracker web application using TypeScript (front and back end)
+  \item Utilized Docker for isolated and reproducible project hosting, facilitating consistent development and deployment
+\\
 \end{itemize}
 
-\projhead{Apply-Agent}{https://github.com/timmyd4/apply-agent}{Python, Claude API, YAML}
+\projhead{Apply-Agent}{https://github.com/timmyd4/apply-agent}{Python, Anthropic SDK, YAML, LaTeX}
 \begin{itemize}
-  \item Developed an AI-powered Python automation tool that generates tailored LaTeX resumes by parsing job descriptions and a YAML skill library via the Claude API, streamlining application workflows
+  \item Developed an AI-powered resume tailoring agent using Python, integrating with the Claude API to generate customized LaTeX resumes from a master template
+  \item Implemented prompt caching and YAML-based skill library integration to efficiently produce job-specific resumes tailored to job descriptions
 \end{itemize}
 
-\projhead{API-Data-Display}{https://github.com/timmyd4/API-Data-Display}{React, JavaScript, CSS, Vite}
+\projhead{API-Data-Display}{https://github.com/timmyd4/API-Data-Display}{React, JavaScript, CSS}
 \begin{itemize}
-  \item Engineered a React application to fetch and render live data from external APIs, demonstrating integration of third-party data sources and dynamic component rendering for data visualization
-  \item Styled the interface with custom CSS to present API-driven content clearly and responsively, enhancing user experience
+  \item Built a React application to fetch and dynamically render live data from external APIs, demonstrating async data fetching and state management
+  \item Styled responsive interfaces with custom CSS to clearly present API-driven content
 \end{itemize}
 
 % ── EDUCATION ─────────────────────────────────────────────────────────────────
