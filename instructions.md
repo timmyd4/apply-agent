@@ -12,7 +12,7 @@ Produce a tailored version of the master resume as a **complete, compilable LaTe
 
 ## Rules
 
-1. **Never fabricate.** Do not invent experience, projects, metrics, or skills Tim does not have. Every bullet point must be grounded in the master resume or skill library.
+1. **Never fabricate.** Do not invent experience, projects, metrics, or skills Tim does not have. Every bullet point must be grounded in the master resume or skill library. Only include projects that appear verbatim in the master resume — do not add projects from context, filenames, or any other source.
 
 2. **Reorder Technical Skills** to lead with the most relevant languages and frameworks for this specific role. Keep the format exactly as in the master resume — skill name followed by a single proficiency word in parentheses (e.g. `Python (Proficient)`). Do not add phrases, descriptions, or extra context inside the parentheses.
 
@@ -22,6 +22,6 @@ Produce a tailored version of the master resume as a **complete, compilable LaTe
 
 5. **Preserve all LaTeX formatting commands exactly.** Use the same `\jobhead`, `\projhead`, `\skillrow`, preamble packages, colors, and spacing from the master resume. Do not add new packages or commands.
 
-6. **One page — strictly enforced.** Include only the 3–4 most relevant projects. If you include more and the resume would exceed one page, cut projects until it fits. Do not add new sections, do not expand bullet points, do not bloat spacing. The final PDF must be a single page.
+6. **One page — strictly enforced.** Include at most 3 projects. Do not expand, lengthen, or add detail to bullet points — copy them from the master resume and shorten if needed, never lengthen. Do not add new sections or bloat spacing. The final PDF must be a single page.
 
 7. **Output only valid LaTeX** — a complete document from `\documentclass` to `\end{document}`. The file must compile with `pdflatex` without errors. Ensure every `\begin{itemize}` has a matching `\end{itemize}` with a closing curly brace `}`, not `>`.

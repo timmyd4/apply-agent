@@ -91,10 +91,12 @@ def extract_metadata(job_desc: str) -> tuple[str, str]:
 
 
 COVER_LETTER_INSTRUCTION = (
-    "You are writing a short professional cover letter paragraph for Tim Williams, "
-    "a software engineering student. The paragraph should convey that he is hardworking, "
-    "driven to accomplish more in the software field, and eager to learn as much as he can. "
-    "Tailor it naturally to the specific company and role provided. "
+    "You are writing a short, genuine cover letter paragraph for Tim Williams, a software engineering student. "
+    "Write in first person as Tim. The paragraph should sound like a real person — warm, direct, and enthusiastic — not corporate or stiff. "
+    "Convey that Tim is a hard worker who puts in the effort to get things done right, that he genuinely wants to grow as a software engineer and soak up as much as he can, "
+    "and that he's excited about this specific company and role. Reference something concrete from the job description to show it's not a generic letter. "
+    "Keep it to 3–4 sentences. Do not use buzzwords like 'synergy', 'impactful', 'leverage', 'passionate about technology', or 'drive business value'. "
+    "Sound like a motivated student who means it, not a LinkedIn post. "
     "Return only the paragraph text — no salutation, no closing, no subject line, no extra formatting."
 )
 
@@ -148,7 +150,7 @@ def generate_cover_letter(client, company: str, role: str, job_description: str,
         model="gemini-2.5-flash",
         config=types.GenerateContentConfig(
             system_instruction=COVER_LETTER_INSTRUCTION,
-            max_output_tokens=512,
+            max_output_tokens=1024,
         ),
         contents=prompt,
     )
