@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 import os
 import re
+import shutil
+import subprocess
 import sys
+import tempfile
 import yaml
 from google import genai
 from google.genai import types
@@ -9,6 +12,12 @@ from pathlib import Path
 from datetime import datetime
 from openpyxl import load_workbook, Workbook
 from openpyxl.styles import Font, PatternFill, Alignment
+
+GEMINI_FLASH_15  = "gemini-1.5-flash"   # free tier fallback
+GEMINI_FLASH_20  = "gemini-2.0-flash"   # no free tier
+GEMINI_FLASH_25  = "gemini-2.5-flash"   # best quality, 20 req/day free tier
+
+GEMINI_MODEL = GEMINI_FLASH_15          # change this line to switch models
 
 ROOT = Path(__file__).parent
 MASTER_RESUME = ROOT / "Tim_Williams_Master_Resume.tex"
@@ -150,7 +159,7 @@ def generate_cover_letter(client, company: str, role: str, job_description: str,
     print(f"Generating cover letter for {company} — {role}...")
 
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model=GEMINI_MODEL,
         config=types.GenerateContentConfig(
             system_instruction=COVER_LETTER_INSTRUCTION,
             max_output_tokens=8192,
@@ -169,6 +178,78 @@ def generate_cover_letter(client, company: str, role: str, job_description: str,
     out_file = OUTPUT_DIR / f"Tim_Williams_{company}_{role}_CoverLetter_{timestamp}.tex"
     out_file.write_text(tex, encoding="utf-8")
     return out_file
+
+
+TRIM_INSTRUCTION = (
+    "The LaTeX resume you produced compiled to more than one page. "
+    "Trim it to fit exactly one page by cutting bullets and shortening text — "
+    "do NOT change any LaTeX formatting commands, packages, or spacing. "
+    "Return only the complete raw LaTeX source from \\documentclass to \\end{document}."
+)
+
+
+def compile_and_count_pages(tex_source: str) -> int | None:
+    """
+    Compile tex_source with pdflatex in a temp dir and return the page count.
+    Returns None if pdflatex is not installed or compilation fails.
+    """
+    if not shutil.which("pdflatex"):
+        return None
+    with tempfile.TemporaryDirectory() as tmp:
+        tex_file = Path(tmp) / "resume.tex"
+        tex_file.write_text(tex_source, encoding="utf-8")
+        result = subprocess.run(
+            ["pdflatex", "-interaction=nonstopmode", "-halt-on-error", str(tex_file)],
+            capture_output=True,
+            text=True,
+            cwd=tmp,
+        )
+        # pdflatex prints: "Output written on resume.pdf (N page(s), ...)"
+        match = re.search(r"Output written on .+?\((\d+) page", result.stdout)
+        if match:
+            return int(match.group(1))
+        return None
+
+
+def enforce_one_page(client, tex_source: str, prompt: str, instructions: str) -> str:
+    """
+    Compile tex_source; if it exceeds 1 page, ask Gemini to trim and retry up to 2 times.
+    Returns the final (possibly trimmed) LaTeX source.
+    """
+    for attempt in range(3):
+        pages = compile_and_count_pages(tex_source)
+        if pages is None:
+            if attempt == 0:
+                print(
+                    "WARNING: pdflatex not found — skipping page-count verification. "
+                    "Install MiKTeX or TeX Live to enable the compile loop."
+                )
+            break
+        if pages <= 1:
+            if attempt > 0:
+                print(f"Trimmed to 1 page after {attempt} retry(ies).")
+            break
+        print(f"Resume compiled to {pages} pages — asking Gemini to trim (attempt {attempt + 1}/2)...")
+        trim_prompt = (
+            f"## Current LaTeX (compiled to {pages} pages)\n```latex\n{tex_source}\n```\n\n"
+            f"## Original Prompt Context\n{prompt}"
+        )
+        response = client.models.generate_content(
+            model=GEMINI_MODEL,
+            config=types.GenerateContentConfig(
+                system_instruction=instructions + "\n\n" + TRIM_INSTRUCTION,
+                max_output_tokens=16384,
+            ),
+            contents=trim_prompt,
+        )
+        tex_source = response.text.strip()
+        if tex_source.startswith("```"):
+            lines = tex_source.splitlines()
+            end = len(lines) - 1 if lines[-1].strip() == "```" else len(lines)
+            tex_source = "\n".join(lines[1:end])
+    else:
+        print("WARNING: Still >1 page after 2 trim attempts. Check the .tex file manually.")
+    return tex_source
 
 
 def main():
@@ -204,7 +285,7 @@ def main():
     print(f"Generating resume for {company} — {role}...")
 
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model=GEMINI_MODEL,
         config=types.GenerateContentConfig(
             system_instruction=instructions,
             max_output_tokens=16384,
@@ -222,6 +303,8 @@ def main():
 
     if not tailored_tex.endswith(r"\end{document}"):
         print("WARNING: Resume output appears truncated — \\end{document} not found. Check the .tex file before committing.")
+
+    tailored_tex = enforce_one_page(client, tailored_tex, prompt, instructions)
 
     OUTPUT_DIR.mkdir(exist_ok=True)
     for old in OUTPUT_DIR.glob("*.tex"):
