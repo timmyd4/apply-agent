@@ -90,6 +90,82 @@ def extract_metadata(job_desc: str) -> tuple[str, str]:
     return "Company", "Role"
 
 
+COVER_LETTER_INSTRUCTION = (
+    "You are writing a short professional cover letter paragraph for Tim Williams, "
+    "a software engineering student. The paragraph should convey that he is hardworking, "
+    "driven to accomplish more in the software field, and eager to learn as much as he can. "
+    "Tailor it naturally to the specific company and role provided. "
+    "Return only the paragraph text — no salutation, no closing, no subject line, no extra formatting."
+)
+
+COVER_LETTER_TEMPLATE = r"""\documentclass[12pt]{{article}}
+\usepackage[margin=1in]{{geometry}}
+\usepackage{{times}}
+\usepackage{{parskip}}
+\pagestyle{{empty}}
+
+\begin{{document}}
+
+\textbf{{Tim Williams}} \hfill timmywilliams4665@gmail.com
+
+\vspace{{1em}}
+
+{date}
+
+\vspace{{1em}}
+
+Hiring Manager \\
+{company}
+
+\vspace{{1em}}
+
+Dear Hiring Manager,
+
+{paragraph}
+
+\vspace{{1em}}
+
+Sincerely,
+
+\vspace{{2em}}
+
+Tim Williams
+
+\end{{document}}
+"""
+
+
+def generate_cover_letter(client, company: str, role: str, job_description: str, timestamp: str) -> Path:
+    prompt = (
+        f"Company: {company.replace('_', ' ')}\n"
+        f"Role: {role.replace('_', ' ')}\n\n"
+        f"Job Description:\n{job_description}"
+    )
+
+    print(f"Generating cover letter for {company} — {role}...")
+
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        config=types.GenerateContentConfig(
+            system_instruction=COVER_LETTER_INSTRUCTION,
+            max_output_tokens=512,
+        ),
+        contents=prompt,
+    )
+
+    paragraph = response.text.strip()
+
+    tex = COVER_LETTER_TEMPLATE.format(
+        date=datetime.now().strftime("%B %d, %Y"),
+        company=company.replace("_", " "),
+        paragraph=paragraph,
+    )
+
+    out_file = OUTPUT_DIR / f"Tim_Williams_{company}_{role}_CoverLetter_{timestamp}.tex"
+    out_file.write_text(tex, encoding="utf-8")
+    return out_file
+
+
 def main():
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
@@ -140,12 +216,18 @@ def main():
         tailored_tex = "\n".join(lines[1:end])
 
     OUTPUT_DIR.mkdir(exist_ok=True)
+    for old in OUTPUT_DIR.glob("*.tex"):
+        old.unlink()
+
     timestamp = datetime.now().strftime("%Y-%m-%d")
     out_file = OUTPUT_DIR / f"Tim_Williams_{company}_{role}_{timestamp}.tex"
     out_file.write_text(tailored_tex, encoding="utf-8")
     update_tracker(company, role, out_file.name)
 
+    cover_letter_file = generate_cover_letter(client, company, role, job_description, timestamp)
+
     print(f"Saved:  {out_file}")
+    print(f"Saved:  {cover_letter_file}")
     print(f"Tracker updated: {TRACKER}")
 
 

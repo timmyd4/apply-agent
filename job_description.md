@@ -1,62 +1,82 @@
 ---
-company: Fluke
-role: Embedded Software Intern
+company: Arboreal
+role: Software Engineering Intern
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Fluke is seeking an Embedded Software Intern to join our dynamic Firmware Engineering team in Everett, WA for summer 2026! This internship offers an opportunity for a motivated student to gain hands-on experience in developing firmware for our core fluke portfolio products, interfacing with external automation, and leveraging existing tools and automation for our cutting-edge hardware products. As an intern, you will work closely with experienced engineers, collaborate with cross-functional teams, and contribute to the improvement of our testing capabilities. Join Fluke and be part of our mission to drive innovation in the world of test and measurement through advanced testing processes and infrastructure enhancements.
+Great Expectations is excited to add a Software Engineering Intern to our team, starting part time during the Spring and full time in the Summer. All candidates are encouraged to apply regardless of end of term date.
 
-Responsibilities 
+We are an entrepreneurial, fast-moving Real Estate Private Equity business focused on providing innovative, affordable, and profitable housing. We aim to be the best in the business at development, acquisitions, and property management — and we build the tools to prove it.
 
-Develop firmware for an upcoming core product line using.
-Collaborate with the Firmware Engineering team to expand Fluke's existing product and platform test coverage.
-Utilize Python and cloud-based systems to create scripts, tools, and automation to help streamline testing procedures.
-Work closely with cross-functional teams to understand firmware requirements and contribute to the improvement of Fluke's platform and product firmware.
-Participate in research and data analysis activities to support specific testing projects.
-Learn and contribute to the product development process, actively assisting with process improvements and documentation related to testing procedures.
-Gain hands-on experience in testing hardware and developing software components for a variety of customer applications, ensuring the quality of Fluke's Test and Measurement products.
-Qualifications
+The Opportunity
 
-Must be able to work in Everett, WA for the summer.
-Currently pursuing a Bachelor's degree in software engineering, computer engineering, computer science, or a related field. Graduating December 2026 or later.
-Proficiency in embedded software development concepts, including coding in languages such as C/C++ and Python.
-Experience writing software using a modular or object-oriented approach.
-Exposure to using revision control software (e.g., Git).
-Ability to utilize software debugging and troubleshooting techniques.
-Familiar with writing unit tests using frameworks like Unity or CPPUnit.
-Excellent problem-solving skills with attention to detail.
-Effective written and verbal communication abilities to engage with diverse cross-function teams.
-Ability to thrive both independently and as a valuable team player.
-Possess a growth mindset, unafraid to seek help, learn from failures, question decisions, and constantly strive for improvement.
-Inherent desire to support and collaborate with fellow teammates, fostering a sense of camaraderie.
-We will give preference to candidates with-
+This is an ideal role for a CS student who wants to apply their technical skills to real business problems from day one. Rather than working on abstract exercises or peripheral projects, you will build and ship internal software that directly supports the operations of a vertically integrated real estate company — touching leasing, property management, acquisitions, and finance. You will see exactly how your code creates business value, and you'll have the mentorship and context to understand why.
 
-Familiarity with benchtop and computer aided tools for interfacing with embedded systems included but not limited to oscilloscopes, power supplies, multimeters, logic analyzers, microcontroller JTAG program/debuggers, waveform generators etc.
-Exposure to test automation and cloud-based systems.
-Familiar with ARM core microcontrollers operation and configuration
-Experience with developing embedded code that enables easy configuration and control through user-friendly APIs.
-Fortive Corporation Overview
+Who We Are
 
-Fortive's essential technology makes the world safer and more productive. We accelerate transformation in high-impact fields like workplace safety, build environments, and healthcare.
+Great Expectations is a small and growing Real Estate Private Equity firm focused on providing innovative, affordable, and profitable housing for Seattle-area residents. We are logical, detail-oriented, motivated, and decisive. We value collaboration, see opportunities where others do not, and work together to move quickly and effectively. We are lean, non-hierarchical, and surrounded by opportunity.
 
-We are a global industrial technology innovator with a startup spirit. Our forward-looking companies lead the way in healthcare sterilization, industrial safety, predictive maintenance, and other mission-critical solutions. We're a force for progress, working alongside our customers and partners to solve challenges on a global scale, from workplace safety in the most demanding conditions to advanced technologies that help providers focus on exceptional patient care.
+As a small firm, we have a particularly strong commitment to our values and expect our team members to share them. We value:
 
-We are a diverse team 10,000 strong, united by a dynamic, inclusive culture and energized by limitless learning and growth. We use the proven Fortive Business System (FBS) to accelerate our positive impact.
+Inclusion and Diversity within our company, in how we select partners, and how we design for customers. We actively seek and learn from different perspectives.
 
-At Fortive, we believe in you. We believe in your potential—your ability to learn, grow, and make a difference.
+Teamwork: We communicate consistently, learn from one another, and always operate as a team when faced with a challenge. We only win as a team.
 
-At Fortive, we believe in us. We believe in the power of people working together to solve problems no one could solve alone.
+Data-based decision making: We consider the facts and identify patterns to make good decisions and evaluate mistakes. There is always a "best" answer.
 
-At Fortive, we believe in growth. We're honest about what's working and what isn't, and we never stop improving and innovating.
+Question conventional wisdom: If something doesn't make sense or data suggests otherwise, we dig in and decide how to act. We love it when we see something others don't.
 
-Fortive: For you, for us, for growth.
+Respect for our residents: The people who live in our buildings are our business partners. We listen to them, respect them, and aim to build them the homes they want at the price they can afford.
 
-About Fluke
+We pick up trash: We understand that details matter — in code, in process, and on the ground at our properties.
 
-Fluke is leading the world in creating software, test tools and technology that will support customers today and in the future. We are a customer-obsessed market leader with a strong reputation for reliability, quality and safety.A wholly owned subsidiary of Fortive Corporation (www.fortive.com), Fluke is a global corporation headquartered in the greater Seattle area. Driven by the successful Fortive Business System, Fluke offers the passion of a startup with the resources of a Fortune 500 company. We are focused on the growth of our individual employees, teams and the Fluke brand.
+Who You Are
 
-We Are an Equal Opportunity Employer. Fortive Corporation and all Fortive Companies are proud to be equal opportunity employers. We value and encourage diversity and solicit applications from all qualified applicants without regard to race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity or expression, or other characteristics protected by law. Fortive and all Fortive Companies are also committed to providing reasonable accommodations for applicants with disabilities. Individuals who need a reasonable accommodation because of a disability for any part of the employment application process, please contact us at applyassistance@fortive.com.
+You are a college student in your 2nd or 3rd year studying Computer Science, Software Engineering, or a related technical discipline:
 
-Pay Range
-The hourly range for this position (in local currency) is $20-$40/hour.
+You have experience building software — personal projects, coursework, or prior internships all count
+
+You are hungry for mentorship from people who run a real business, and you want to understand how the software you build gets used in the real world
+
+You are comfortable working directly with leadership, can communicate technical concepts clearly to non-technical teammates, and spot problems before they ship
+
+You are analytically strong, comfortable working with data, and excited by the idea of turning messy operational workflows into clean, reliable systems
+
+You understand the responsibility and opportunity of being a core technical contributor on a small team — your work will matter immediately
+
+What You Will Do
+
+Working directly with our leadership team, you will design, build, and iterate on internal tools that support every part of our business. This is not a shadow role — you will own projects end to end.
+
+This includes:
+
+Auditing our current operational workflows and tech stack to identify inefficiencies and build-vs-buy opportunities
+
+Building and maintaining internal web applications and dashboards supporting leasing, property management, and financial reporting
+
+Developing automations that reduce manual work across our team (lead tracking, lease workflows, maintenance coordination, reporting, etc.)
+
+Integrating third-party APIs and data sources relevant to our business (property listings, market data, communication tools, etc.)
+
+Writing clean, documented, maintainable code and contributing to a culture of technical rigor
+
+Participating fully as a team member — attending business meetings, understanding the operational context behind your projects, and suggesting improvements from a technical perspective
+
+What You Should Bring
+
+We are looking for someone with strong technical fundamentals, real curiosity about how businesses operate, and the professional orientation to work directly with a small leadership team. Specific qualifications include:
+
+Proficiency in at least one modern web development language or framework (Python, JavaScript/TypeScript, React, etc.)
+
+Comfort working with databases and structured data (SQL or similar)
+
+Experience or strong interest in building internal tools, automations, or data pipelines
+
+Ability to scope and manage your own projects with light supervision
+
+Clear written and verbal communication — you'll be explaining your work to non-engineers regularly
+
+Flexibility and a bias toward action: in a small firm, priorities shift and the best engineers adapt quickly
+
+Arboreal is a drug-free workplace, and we use E-Verify to confirm the identity and employment eligibility of all new hires
