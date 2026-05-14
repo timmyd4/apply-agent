@@ -1,82 +1,113 @@
 ---
-company: Arboreal
-role: Software Engineering Intern
+company: DeepHealth
+role: Software Developer - Intern
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Great Expectations is excited to add a Software Engineering Intern to our team, starting part time during the Spring and full time in the Summer. All candidates are encouraged to apply regardless of end of term date.
+Job description
+DeepHealth is seeking a Software Developer Intern for Summer 2026 to join our Seattle-area engineering team. This is a hands-on, in-person role focused on building and shipping production-grade systems in a fast-paced healthcare AI environment.
 
-We are an entrepreneurial, fast-moving Real Estate Private Equity business focused on providing innovative, affordable, and profitable housing. We aim to be the best in the business at development, acquisitions, and property management — and we build the tools to prove it.
+Job requirements
+Essential Duties and Responsibilities 
 
-The Opportunity
+Interns will contribute directly to live product development in one of the following areas:
 
-This is an ideal role for a CS student who wants to apply their technical skills to real business problems from day one. Rather than working on abstract exercises or peripheral projects, you will build and ship internal software that directly supports the operations of a vertically integrated real estate company — touching leasing, property management, acquisitions, and finance. You will see exactly how your code creates business value, and you'll have the mentorship and context to understand why.
+ 
 
-Who We Are
+Agentic AI Engineering:
 
-Great Expectations is a small and growing Real Estate Private Equity firm focused on providing innovative, affordable, and profitable housing for Seattle-area residents. We are logical, detail-oriented, motivated, and decisive. We value collaboration, see opportunities where others do not, and work together to move quickly and effectively. We are lean, non-hierarchical, and surrounded by opportunity.
+·        Build and deploy AI agents on real-world healthcare datasets
 
-As a small firm, we have a particularly strong commitment to our values and expect our team members to share them. We value:
+·        Develop orchestration logic and evaluation pipelines
 
-Inclusion and Diversity within our company, in how we select partners, and how we design for customers. We actively seek and learn from different perspectives.
+·        Integrate LLM-powered workflows into production systems
 
-Teamwork: We communicate consistently, learn from one another, and always operate as a team when faced with a challenge. We only win as a team.
+Full Stack Engineering
 
-Data-based decision making: We consider the facts and identify patterns to make good decisions and evaluate mistakes. There is always a "best" answer.
+·        Design and implement scalable backend services and APIs
 
-Question conventional wisdom: If something doesn't make sense or data suggests otherwise, we dig in and decide how to act. We love it when we see something others don't.
+·        Build responsive front-end applications
 
-Respect for our residents: The people who live in our buildings are our business partners. We listen to them, respect them, and aim to build them the homes they want at the price they can afford.
+·        Contribute to cloud-native architectures and CI/CD pipelines
 
-We pick up trash: We understand that details matter — in code, in process, and on the ground at our properties.
+Across both tracks, interns will:
 
-Who You Are
+·        Write clean, testable, production-quality code
 
-You are a college student in your 2nd or 3rd year studying Computer Science, Software Engineering, or a related technical discipline:
+·        Participate in design reviews and system architecture discussions
 
-You have experience building software — personal projects, coursework, or prior internships all count
+·        Collaborate closely with engineering and product teams
 
-You are hungry for mentorship from people who run a real business, and you want to understand how the software you build gets used in the real world
+·        Deliver a high-impact project by the end of the internship
 
-You are comfortable working directly with leadership, can communicate technical concepts clearly to non-technical teammates, and spot problems before they ship
+ 
 
-You are analytically strong, comfortable working with data, and excited by the idea of turning messy operational workflows into clean, reliable systems
+PLEASE NOTE: This is not an exhaustive list of all duties, responsibilities and requirements of the position described above.  Other functions may be assigned and management retains the right to add or change duties at any time.
 
-You understand the responsibility and opportunity of being a core technical contributor on a small team — your work will matter immediately
+ 
 
-What You Will Do
+Minimum Qualifications, Education and Experience
 
-Working directly with our leadership team, you will design, build, and iterate on internal tools that support every part of our business. This is not a shadow role — you will own projects end to end.
+ 
 
-This includes:
+·        Pursuing Masters in Computer Science, Computer Engineering, or related field
 
-Auditing our current operational workflows and tech stack to identify inefficiencies and build-vs-buy opportunities
+·        Strong foundation in data structures and algorithms
 
-Building and maintaining internal web applications and dashboards supporting leasing, property management, and financial reporting
+·        Experience in one or more of: Python, JavaScript/TypeScript, Java, or C++
 
-Developing automations that reduce manual work across our team (lead tracking, lease workflows, maintenance coordination, reporting, etc.)
+·        Ability to work on-site in the Seattle/Bothell area for the full internship
 
-Integrating third-party APIs and data sources relevant to our business (property listings, market data, communication tools, etc.)
+ 
 
-Writing clean, documented, maintainable code and contributing to a culture of technical rigor
+Preferred: Experience with distributed systems, cloud platforms (AWS or GCP), modern web frameworks, or AI/ML frameworks.
 
-Participating fully as a team member — attending business meetings, understanding the operational context behind your projects, and suggesting improvements from a technical perspective
+ 
 
-What You Should Bring
+Quality Standards
 
-We are looking for someone with strong technical fundamentals, real curiosity about how businesses operate, and the professional orientation to work directly with a small leadership team. Specific qualifications include:
+·       Communicates, cooperates, and consistently functions professionally and harmoniously with all levels of supervision, co-workers, patients, visitors, and vendors.
 
-Proficiency in at least one modern web development language or framework (Python, JavaScript/TypeScript, React, etc.)
+·       Demonstrates initiative, personal awareness, professionalism and integrity, and exercises confidentiality in all areas of performance. 
 
-Comfort working with databases and structured data (SQL or similar)
+·       Follows all local, state and federal laws concerning employment to include but not limited to: I-9, Harassment, EEOC, Civil rights and ADA.
 
-Experience or strong interest in building internal tools, automations, or data pipelines
+·       Follows OSHA regulations, RadNet and site protocols, policies and procedures.
 
-Ability to scope and manage your own projects with light supervision
+·       Follows HIPAA, compliance, privacy, safety and confidentiality standards at all times.
 
-Clear written and verbal communication — you'll be explaining your work to non-engineers regularly
+·       Practices universal safety precautions.
 
-Flexibility and a bias toward action: in a small firm, priorities shift and the best engineers adapt quickly
+·       Promotes good public relations on the phone and in person.
 
-Arboreal is a drug-free workplace, and we use E-Verify to confirm the identity and employment eligibility of all new hires
+·       Adapts and is willing to learn new tasks, methods, and systems.
+
+·       Reports to work regularly as scheduled; consistently punctual with respect to working hours, meal and rest breaks, and maintains satisfactory personal attendance in accordance with RadNet guidelines.
+
+·       Consistently adheres to the time management policies and procedures.
+
+·       Completes job responsibilities in a quality and timely manner.
+
+ 
+
+Physical Demands
+
+This position often requires sitting, standing, walking, bending, twisting, reaching with hands and arms, using hands and fingers, handling, or feeling, speaking, listening, and high-level cognitive thinking. Also, must be able to lift up to 10 pounds occasionally.
+
+ 
+
+ 
+
+Working Environment
+
+This is a 3 month assignment starting June of 2026 in our Seattle / Bothell, WA office.
+
+ 
+
+ACCOMMODATIONS
+Reasonable accommodations may be made to enable people with disabilities to perform the essential functions of the job.
+
+ 
+
+I have read and understand the responsibilities and requirements of the position.
