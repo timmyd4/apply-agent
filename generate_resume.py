@@ -150,7 +150,7 @@ def generate_cover_letter(client, company: str, role: str, job_description: str,
         model="gemini-2.5-flash",
         config=types.GenerateContentConfig(
             system_instruction=COVER_LETTER_INSTRUCTION,
-            max_output_tokens=1024,
+            max_output_tokens=8192,
         ),
         contents=prompt,
     )

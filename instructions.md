@@ -22,6 +22,6 @@ Produce a tailored version of the master resume as a **complete, compilable LaTe
 
 5. **Preserve all LaTeX formatting commands exactly.** Use the same `\jobhead`, `\projhead`, `\skillrow`, preamble packages, colors, and spacing from the master resume. Do not add new packages or commands.
 
-6. **One page — strictly enforced.** Include at most 3 projects. Do not expand, lengthen, or add detail to bullet points — copy them from the master resume and shorten if needed, never lengthen. Do not add new sections or bloat spacing. The final PDF must be a single page.
+6. **One page — strictly enforced.** Include at most 3 projects. Copy bullet points from the master resume exactly — shorten if needed, never lengthen. Do not append parenthetical notes, explanations, or extra phrases to bullet points. Do not add new sections or bloat spacing. The final PDF must be a single page.
 
 7. **Output only valid LaTeX** — a complete document from `\documentclass` to `\end{document}`. The file must compile with `pdflatex` without errors. Ensure every `\begin{itemize}` has a matching `\end{itemize}` with a closing curly brace `}`, not `>`.
