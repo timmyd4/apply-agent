@@ -1,113 +1,112 @@
 ---
-company: DeepHealth
-role: Software Developer - Intern
+company: StokeSpace
+role: Sprint 2027 Internship - Software
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Job description
-DeepHealth is seeking a Software Developer Intern for Summer 2026 to join our Seattle-area engineering team. This is a hands-on, in-person role focused on building and shipping production-grade systems in a fast-paced healthcare AI environment.
+Kent, Washington
+At Stoke, we believe a thriving space economy will enable a vibrant, sustainable, and equitable future here on Earth. That is why we’re building Nova, our fully and rapidly reusable launch vehicle. Designed for daily flight, Nova tackles the core challenges of space transportation by reducing cost, increasing availability, and improving reliability. By radically lowering launch costs and increasing flight cadence, we’re helping create a truly scalable space industry.
 
-Job requirements
-Essential Duties and Responsibilities 
+Our team is mission-driven, collaborative, and empowered to take ownership of their work. If you want to work alongside some of the most dedicated and talented people on Earth, we’d love to have you join us.
 
-Interns will contribute directly to live product development in one of the following areas:
+Description
 
+We know that at the heart of every great challenge is an extraordinary team. Stoke is building a world-class team and we are excited to begin offering internship opportunities for the Spring of 2027. As an intern, you will work on real, open-ended problems that directly contribute to the success of the company. You will work closely with your mentor and other employees who will help you apply your knowledge and grow your skills through high-impact projects. You must be ready to stay focused, move fast, self-direct, and learn on the fly.
+
+Software internships are available across the company within different teams such as Boltline, Vehicle Software, and Data. 
+
+Please note: these roles require you to work onsite at our Kent location.
+
+Qualifications:
+
+Pursuing Bachelor’s or Master’s degree in mechanical engineering, aerospace engineering, electrical engineering, computer engineering, computer science or a similar STEM field
+Project-level experience with Python, C, or Rust
+Exceptional command of engineering fundamentals
+Hands-on engineering experience through internships, personal projects, work, or teams
+Ability to manage a complex technical project and take it through execution
+Ability to learn and apply state of the art techniques to technical projects
+Excellent written and verbal communication
+Able to work full-time, onsite for a minimum of 10-12 consecutive weeks 
+Various Teams:
+
+Software (Boltline)
+As a Software Engineering Intern on the Boltline by Stoke Space Team, you will be working on our web-based SaaS that helps advanced hardware manufacturing teams design, track, iterate, build and test in a fast and reliable manner. You will contribute to the full software lifecycle, including design, implementation, testing, and deployment, in a fast-paced and iterative development environment.
+
+Required qualifications:
+
+Proficient in JavaScript or TypeScript
+Experience in front-end or back-end software development
+Preferred qualifications:
+
+Experience in 1 or more of the technologies utilized in our tech stack: TypeScript, React, Next.js, Apollo, Express.js, Node.js, GraphQL, PostgreSQL, AWS
+Affinity for full-stack software development
+Vehicle Software
+
+As a Software Engineering Intern on the Vehicle Software Team, you will work on the control software stack that runs across the entire company - bench testers, environmental testers, engine test stands, and flight systems. You will own a chunk of software you take from design to running on the test stand in a fast-paced and iterative development environment.
+
+Required Qualifications:
+
+Proficient in Rust or other systems languages (C/C++)
+Experience with real-time systems
+Excited by fast-paced, critical software operations
+Preferred qualifications:
+
+Experience in embedded devices or autonomous systems
+Experience with OS and kernel level work
+Data
+
+As a Software Engineering Intern on the Stoke Space Data Team, you will be working on converting our mountains of real-time and post-launch data into analysis and insights that will help Stoke more effectively design and operate our launch products. You will contribute to the full software lifecycle, including design, implementation, testing, and deployment, in a fast-paced and iterative development environment.
+
+Required Qualifications:
+
+Proficient in Rust
+Experience in front-end or back-end software development
+Preferred qualifications
+
+Experience in 1 or more of the technologies utilized in our tech stack: AWS, Time Series Data, Svelte, WebGPU
+Affinity for full-stack software development
+Benefits & Opportunities: 
+
+32 hours of paid time off  
+On-site gym (Kent, WA location) 
+Complimentary snacks & refreshments available on-site 
+Company events with Leadership team 
+Mentorship from industry-leading engineers 
+Direct ownership of real rocket products 
+Compensation
+
+Freshman/Sophomore: $28.00/hour
+Junior/Senior: $33.00/hour
+Completed Bachelor's: $35.00/hour
+Completed Master's: $40.00/hour
+At Stoke, we offer internships across three terms throughout the year. Please review our application windows below to determine the best timing for your application.
+
+Spring (Jan - April)
+
+Application window: May - July
+Summer (May - Aug)
+
+Application window: September - November
+Fall (Sept - Dec)
+
+Application window: January - March
  
 
-Agentic AI Engineering:
+ITAR Requirements
 
-·        Build and deploy AI agents on real-world healthcare datasets
+To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.
 
-·        Develop orchestration logic and evaluation pipelines
+Equal Opportunity 
 
-·        Integrate LLM-powered workflows into production systems
+The Company is an Equal Opportunity Employer, including with respect to disability and veteran status.  It is committed to compliance with all equal opportunity laws, including the Immigration and Nationality Act (INA) and Title VII.   It does not discriminate on the basis of nationality, race, citizenship, immigration status, or any other protected class when it comes to employment practices, including hiring. 
 
-Full Stack Engineering
+Employment at the Company is contingent upon satisfactory completion of reference and background checks, and on your ability to prove your identity and authorization to work in the U.S. for the Company.  Employees must comply with the United States Citizenship and Immigration Services employment verification requirements, and, therefore, they must complete an Employment Eligibility Verification Form I-9 at the start of employment and re-verify authorization to work periodically.
 
-·        Design and implement scalable backend services and APIs
+Separate from this I-9 process, this position entails access to certain technology and technical data that is restricted under U.S. export control laws and regulations.  Employment or continued employment may be conditioned on your legal authorization to work with or have access to export control materials as necessary to perform your job.
 
-·        Build responsive front-end applications
+Candidate Rights & Accommodations
 
-·        Contribute to cloud-native architectures and CI/CD pipelines
+If you require a reasonable accommodation to complete the application or participate in the interview process, please contact careers@stokespace.com. Requests will be handled in accordance with applicable laws. Please do not include medical or other confidential information in your initial request.
 
-Across both tracks, interns will:
-
-·        Write clean, testable, production-quality code
-
-·        Participate in design reviews and system architecture discussions
-
-·        Collaborate closely with engineering and product teams
-
-·        Deliver a high-impact project by the end of the internship
-
- 
-
-PLEASE NOTE: This is not an exhaustive list of all duties, responsibilities and requirements of the position described above.  Other functions may be assigned and management retains the right to add or change duties at any time.
-
- 
-
-Minimum Qualifications, Education and Experience
-
- 
-
-·        Pursuing Masters in Computer Science, Computer Engineering, or related field
-
-·        Strong foundation in data structures and algorithms
-
-·        Experience in one or more of: Python, JavaScript/TypeScript, Java, or C++
-
-·        Ability to work on-site in the Seattle/Bothell area for the full internship
-
- 
-
-Preferred: Experience with distributed systems, cloud platforms (AWS or GCP), modern web frameworks, or AI/ML frameworks.
-
- 
-
-Quality Standards
-
-·       Communicates, cooperates, and consistently functions professionally and harmoniously with all levels of supervision, co-workers, patients, visitors, and vendors.
-
-·       Demonstrates initiative, personal awareness, professionalism and integrity, and exercises confidentiality in all areas of performance. 
-
-·       Follows all local, state and federal laws concerning employment to include but not limited to: I-9, Harassment, EEOC, Civil rights and ADA.
-
-·       Follows OSHA regulations, RadNet and site protocols, policies and procedures.
-
-·       Follows HIPAA, compliance, privacy, safety and confidentiality standards at all times.
-
-·       Practices universal safety precautions.
-
-·       Promotes good public relations on the phone and in person.
-
-·       Adapts and is willing to learn new tasks, methods, and systems.
-
-·       Reports to work regularly as scheduled; consistently punctual with respect to working hours, meal and rest breaks, and maintains satisfactory personal attendance in accordance with RadNet guidelines.
-
-·       Consistently adheres to the time management policies and procedures.
-
-·       Completes job responsibilities in a quality and timely manner.
-
- 
-
-Physical Demands
-
-This position often requires sitting, standing, walking, bending, twisting, reaching with hands and arms, using hands and fingers, handling, or feeling, speaking, listening, and high-level cognitive thinking. Also, must be able to lift up to 10 pounds occasionally.
-
- 
-
- 
-
-Working Environment
-
-This is a 3 month assignment starting June of 2026 in our Seattle / Bothell, WA office.
-
- 
-
-ACCOMMODATIONS
-Reasonable accommodations may be made to enable people with disabilities to perform the essential functions of the job.
-
- 
-
-I have read and understand the responsibilities and requirements of the position.
+For more information about your rights, please refer to the "Know Your Rights" notice here. 
