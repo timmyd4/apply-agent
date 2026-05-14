@@ -14,7 +14,7 @@ Produce a tailored version of the master resume as a **complete, compilable LaTe
 
 1. **Never fabricate.** Do not invent experience, projects, metrics, or skills Tim does not have. Every bullet point must be grounded in the master resume or skill library.
 
-2. **Reorder Technical Skills** to lead with the most relevant languages and frameworks for this specific role. Pull language-level descriptions from the skill YAML files when rephrasing proficiency.
+2. **Reorder Technical Skills** to lead with the most relevant languages and frameworks for this specific role. Keep the format exactly as in the master resume — skill name followed by a single proficiency word in parentheses (e.g. `Python (Proficient)`). Do not add phrases, descriptions, or extra context inside the parentheses.
 
 3. **Mirror job description keywords naturally.** Rephrase bullet points to use language from the job posting where it accurately describes Tim's work. Do not keyword-stuff.
 
