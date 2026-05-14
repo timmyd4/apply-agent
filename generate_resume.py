@@ -17,7 +17,7 @@ GEMINI_FLASH_15  = "gemini-1.5-flash"   # free tier fallback
 GEMINI_FLASH_20  = "gemini-2.0-flash"   # no free tier
 GEMINI_FLASH_25  = "gemini-2.5-flash"   # best quality, 20 req/day free tier
 
-GEMINI_MODEL = GEMINI_FLASH_15          # change this line to switch models
+GEMINI_MODEL = GEMINI_FLASH_25          # change this line to switch models
 
 ROOT = Path(__file__).parent
 MASTER_RESUME = ROOT / "Tim_Williams_Master_Resume.tex"
