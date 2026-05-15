@@ -1,112 +1,123 @@
 ---
-company: StokeSpace
-role: Sprint 2027 Internship - Software
+company: SalesForce
+role: Summer_2027_Intern_Software_Engineer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Kent, Washington
-At Stoke, we believe a thriving space economy will enable a vibrant, sustainable, and equitable future here on Earth. That is why we’re building Nova, our fully and rapidly reusable launch vehicle. Designed for daily flight, Nova tackles the core challenges of space transportation by reducing cost, increasing availability, and improving reliability. By radically lowering launch costs and increasing flight cadence, we’re helping create a truly scalable space industry.
+Job Details
 
-Our team is mission-driven, collaborative, and empowered to take ownership of their work. If you want to work alongside some of the most dedicated and talented people on Earth, we’d love to have you join us.
+About Salesforce
 
-Description
+Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn’t a buzzword — it’s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping Salesforce's core values at the heart of it all.
 
-We know that at the heart of every great challenge is an extraordinary team. Stoke is building a world-class team and we are excited to begin offering internship opportunities for the Spring of 2027. As an intern, you will work on real, open-ended problems that directly contribute to the success of the company. You will work closely with your mentor and other employees who will help you apply your knowledge and grow your skills through high-impact projects. You must be ready to stay focused, move fast, self-direct, and learn on the fly.
+Ready to level-up your career at the company leading workforce transformation in the agentic era? You’re in the right place! Agentforce is the future of AI, and you are the future of Salesforce.
 
-Software internships are available across the company within different teams such as Boltline, Vehicle Software, and Data. 
+Overview of the Role: 
 
-Please note: these roles require you to work onsite at our Kent location.
+The Futureforce Tech Accelerator is Salesforce's premier early hiring event providing a fast track to interviews for Summer 2027 Software Engineering Internships. 
 
-Qualifications:
+As a Futureforce intern, you'll collaborate with world-class engineering teams on real-world projects that impact millions of people worldwide — while building meaningful connections and experiencing Salesforce's vibrant culture firsthand.
 
-Pursuing Bachelor’s or Master’s degree in mechanical engineering, aerospace engineering, electrical engineering, computer engineering, computer science or a similar STEM field
-Project-level experience with Python, C, or Rust
-Exceptional command of engineering fundamentals
-Hands-on engineering experience through internships, personal projects, work, or teams
-Ability to manage a complex technical project and take it through execution
-Ability to learn and apply state of the art techniques to technical projects
-Excellent written and verbal communication
-Able to work full-time, onsite for a minimum of 10-12 consecutive weeks 
-Various Teams:
+About the Program:
 
-Software (Boltline)
-As a Software Engineering Intern on the Boltline by Stoke Space Team, you will be working on our web-based SaaS that helps advanced hardware manufacturing teams design, track, iterate, build and test in a fast and reliable manner. You will contribute to the full software lifecycle, including design, implementation, testing, and deployment, in a fast-paced and iterative development environment.
+The application deadline is May 31. Spots are limited, and applications will be reviewed on a rolling basis — we encourage you to apply early. Selected applicants will be invited to complete a HackerRank technical assessment.
 
-Required qualifications:
+Candidates who advance through the interview process and are approved to receive an offer will be invited to an all-expense-paid, in-person mandatory experience at Salesforce headquarters in  San Francisco from July 22–24, 2026. 
 
-Proficient in JavaScript or TypeScript
-Experience in front-end or back-end software development
-Preferred qualifications:
+This Futureforce Tech Accelerator on-site experience previews life at Salesforce through career development, networking with engineering leaders and former interns, and an immersive look into the company’s culture and your future career.
 
-Experience in 1 or more of the technologies utilized in our tech stack: TypeScript, React, Next.js, Apollo, Express.js, Node.js, GraphQL, PostgreSQL, AWS
-Affinity for full-stack software development
-Vehicle Software
+Important: Candidates must be available to attend all on-site programming from July 22–24, 2026. Preference will be given to candidates who can attend the full in-person experience. 
 
-As a Software Engineering Intern on the Vehicle Software Team, you will work on the control software stack that runs across the entire company - bench testers, environmental testers, engine test stands, and flight systems. You will own a chunk of software you take from design to running on the test stand in a fast-paced and iterative development environment.
+We look forward to receiving your application!
 
-Required Qualifications:
+Internships
 
-Proficient in Rust or other systems languages (C/C++)
-Experience with real-time systems
-Excited by fast-paced, critical software operations
-Preferred qualifications:
+If selected through Futureforce Tech Accelerator, you'll have the opportunity to join Salesforce as a Summer 2027 Software Engineering intern. 
 
-Experience in embedded devices or autonomous systems
-Experience with OS and kernel level work
-Data
+Internships are open to current university students actively pursuing a degree with a projected graduation date of December 2027 or later. 
 
-As a Software Engineering Intern on the Stoke Space Data Team, you will be working on converting our mountains of real-time and post-launch data into analysis and insights that will help Stoke more effectively design and operate our launch products. You will contribute to the full software lifecycle, including design, implementation, testing, and deployment, in a fast-paced and iterative development environment.
+What You Will Be Doing
 
-Required Qualifications:
+As an intern at Salesforce, you'll influence the future of our products, platform, and AI-powered experiences. You'll receive mentorship from experienced engineers while contributing to solutions — including the agentic technologies redefining how people work — that impact millions around the world. Beyond project work, you'll have access to professional and personal growth opportunities, including:
 
-Proficient in Rust
-Experience in front-end or back-end software development
-Preferred qualifications
+Comprehensive onboarding
 
-Experience in 1 or more of the technologies utilized in our tech stack: AWS, Time Series Data, Svelte, WebGPU
-Affinity for full-stack software development
-Benefits & Opportunities: 
+Engineering-specific training
 
-32 hours of paid time off  
-On-site gym (Kent, WA location) 
-Complimentary snacks & refreshments available on-site 
-Company events with Leadership team 
-Mentorship from industry-leading engineers 
-Direct ownership of real rocket products 
-Compensation
+Executive Speaker Series
 
-Freshman/Sophomore: $28.00/hour
-Junior/Senior: $33.00/hour
-Completed Bachelor's: $35.00/hour
-Completed Master's: $40.00/hour
-At Stoke, we offer internships across three terms throughout the year. Please review our application windows below to determine the best timing for your application.
+Volunteer Time Off
 
-Spring (Jan - April)
+Professional Development Workshops
 
-Application window: May - July
-Summer (May - Aug)
+Employee Resource Groups (ERGs)
 
-Application window: September - November
-Fall (Sept - Dec)
+Ongoing Recruiter Support
 
-Application window: January - March
- 
+Required Qualifications
 
-ITAR Requirements
+Enrolled and currently pursuing a BS in Computer Science or related technical field
 
-To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.
+Returning to school after Summer 2027 to complete your degree
 
-Equal Opportunity 
+Enrolled in a college or university in North America
 
-The Company is an Equal Opportunity Employer, including with respect to disability and veteran status.  It is committed to compliance with all equal opportunity laws, including the Immigration and Nationality Act (INA) and Title VII.   It does not discriminate on the basis of nationality, race, citizenship, immigration status, or any other protected class when it comes to employment practices, including hiring. 
+Strong understanding of object-oriented programming/design, algorithms, and data structures and how to efficiently implement them into a solution
 
-Employment at the Company is contingent upon satisfactory completion of reference and background checks, and on your ability to prove your identity and authorization to work in the U.S. for the Company.  Employees must comply with the United States Citizenship and Immigration Services employment verification requirements, and, therefore, they must complete an Employment Eligibility Verification Form I-9 at the start of employment and re-verify authorization to work periodically.
+Hands-on experience or strong curiosity with AI-assisted development tools (e.g., GitHub Copilot, Cursor, Claude Code) and an eagerness to integrate them into real-world engineering workflows.
 
-Separate from this I-9 process, this position entails access to certain technology and technical data that is restricted under U.S. export control laws and regulations.  Employment or continued employment may be conditioned on your legal authorization to work with or have access to export control materials as necessary to perform your job.
+A budding AI-first mindset — comfortable experimenting with prompting techniques and leveraging AI to learn across the stack, ramp up quickly, and contribute meaningfully from day one.
 
-Candidate Rights & Accommodations
+Strong understanding of CS fundamentals and practical coding application
 
-If you require a reasonable accommodation to complete the application or participate in the interview process, please contact careers@stokespace.com. Requests will be handled in accordance with applicable laws. Please do not include medical or other confidential information in your initial request.
+Team player with demonstrated collaboration skills
 
-For more information about your rights, please refer to the "Know Your Rights" notice here. 
+Preferred Qualifications
+
+Experience using and critically reviewing code and artifacts generated by large language model (LLM) coding assistants and agentic tools
+
+Ability to to effectively guide AI tools to achieve desired outcomes
+
+Experience using Copilot, Cursor, Claude Code, Gemini or other agent-based frameworks
+
+Coursework in SQL and relational database concepts
+
+Proficiency in Java, Javascript and related frameworks
+
+Working knowledge of HTML and web technologies
+
+Knowledge of front end and back end languages
+
+Strong communication skills — written, verbal, and visual
+
+Strong analytical and problem-solving skills
+
+Commitment to delivering high-quality solutions
+
+Self-motivated and eager to learn
+
+Experience using telemetry and metrics to drive operational excellence
+
+Ability to quickly adapt to new technologies
+
+Unleash Your Potential
+
+When you join Salesforce, you’ll be limitless in all areas of your life. Our benefits and resources support you to find balance and be your best, and our AI agents accelerate your impact so you can do your best. Together, we’ll bring the power of Agentforce to organizations of all sizes and deliver amazing experiences that customers love. Apply today to not only shape the future — but to redefine what’s possible — for yourself, for AI, and the world.
+
+Accommodations
+
+If you need a reasonable accommodation during the application or the recruiting process, please submit a request via this Accommodations Request Form.
+
+Please note that Salesforce uses artificial intelligence (AI) tools to help our recruiters assess and evaluate candidates’ resumes and qualifications throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options.
+
+Posting Statement
+
+Salesforce is an equal opportunity employer and maintains a policy of non-discrimination with all employees and applicants for employment. What does that mean exactly? It means that at Salesforce, we believe in equality for all. And we believe we can lead the path to equality in part by creating a workplace that’s inclusive, and free from discrimination. Know your rights: workplace discrimination is illegal. Any employee or potential employee will be assessed on the basis of merit, competence and qualifications – without regard to race, religion, color, national origin, sex, sexual orientation, gender expression or identity, transgender status, age, disability, veteran or marital status, political viewpoint, or other classifications protected by law. This policy applies to current and prospective employees, no matter where they are in their Salesforce employment journey. It also applies to recruiting, hiring, job assignment, compensation, promotion, benefits, training, assessment of job performance, discipline, termination, and everything in between. Recruiting, hiring, and promotion decisions at Salesforce are fair and based on merit. The same goes for compensation, benefits, promotions, transfers, reduction in workforce, recall, training, and education.
+
+In the United States, compensation offered will be determined by factors such as location, job level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, and benefits.  Salesforce offers a variety of benefits to help you live well including: time off programs, medical, dental, vision, mental health support, paid parental leave, life and disability insurance, 401(k), and an employee stock purchasing program. More details about company benefits can be found at the following link: https://www.salesforcebenefits.com.Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.
+At Salesforce, we believe in equitable compensation practices that reflect the dynamic nature of labor markets across various regions.
+
+The typical base salary range for this position is $43 - $52 per hour.
+
+The range represents base salary only, and does not include company bonus, incentive for sales roles, equity or benefits, as applicable.
