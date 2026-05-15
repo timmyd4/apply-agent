@@ -1,123 +1,88 @@
 ---
-company: SalesForce
-role: Summer_2027_Intern_Software_Engineer
+company: Amazon
+role: Software_Development_Engineer_Internship_Fall_2026
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Job Details
+Description
+By applying to this position, your application will only be considered for our fall Software Development Engineer (SDE) internship roles. Our fall intern roles have start dates in August/September 2026 and are 12 weeks in duration.
 
-About Salesforce
+Do you want to solve real customer problems through innovative technology? Do you enjoy working on scalable services in a collaborative team environment? Do you want to see your code directly impact millions of customers worldwide?
 
-Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn’t a buzzword — it’s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping Salesforce's core values at the heart of it all.
+At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. Customer obsession is part of our company DNA, which has made us one of the world's most beloved brands.
 
-Ready to level-up your career at the company leading workforce transformation in the agentic era? You’re in the right place! Agentforce is the future of AI, and you are the future of Salesforce.
+Our SDE interns use modern technology to solve complex problems while seeing their work's impact first-hand. The challenges SDE interns solve at Amazon are meaningful and influence millions of customers, sellers, and products globally. We seek individuals passionate about creating new products, features, and services while managing ambiguity in an environment where development cycles are measured in weeks, not years.
 
-Overview of the Role: 
+At Amazon, we believe in ownership at every level. As a SDE intern, you'll own the entire lifecycle of your code - from design through deployment and ongoing operations. This ownership mindset, combined with our commitment to operational excellence, ensures we deliver the highest quality solutions for our customers.
 
-The Futureforce Tech Accelerator is Salesforce's premier early hiring event providing a fast track to interviews for Summer 2027 Software Engineering Internships. 
+We're looking for curious minds who think big and want to define tomorrow's technology. At Amazon, you'll grow into the high-impact engineer you know you can be, supported by a culture of learning and mentorship. Every day brings exciting new challenges and opportunities for personal growth.
 
-As a Futureforce intern, you'll collaborate with world-class engineering teams on real-world projects that impact millions of people worldwide — while building meaningful connections and experiencing Salesforce's vibrant culture firsthand.
+Amazon internships across all seasons are full-time positions, and interns should expect to work in office, Monday-Friday, up to 40 hours per week typically between 8am-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other employment during the Amazon work-day. Applicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship concludes.
 
-About the Program:
+We will take your location preferences into consideration. Preferences are based on business availability and are not guaranteed. Applicants will be considered at all locations we host interns in the United States including but not limited to:
 
-The application deadline is May 31. Spots are limited, and applications will be reviewed on a rolling basis — we encourage you to apply early. Selected applicants will be invited to complete a HackerRank technical assessment.
+• AZ (Phoenix, Tempe)
+• CA (Berkeley, Culver City, Cupertino, East Palo Alto, Irvine, Los Angeles, Manhattan Beach, Palo Alto, San Diego, San Francisco, San Jose, San Luis Obispo, Santa Barbara, Santa Clara, Santa Cruz, Santa Monica, Sunnyvale)
+• CO (Boulder, Denver)
+• GA (Atlanta, Kennesaw)
+• IL (Chicago)
+• MA (Boston, Cambridge, Hudson, North Reading, Westborough)
+• MD (Baltimore)
+• MI (Detroit)
+• MN (Minneapolis)
+• NJ (Jersey City)
+• NY (New York)
+• OR (Portland)
+• PA (Philadelphia, Pittsburgh)
+• TN (Nashville)
+• TX (Austin, Dallas)
+• VA (Arlington, Herndon)
+• WI (Madison)
+• WA (Bellevue, Seattle, Redmond)
+***Locations are subject to change***
 
-Candidates who advance through the interview process and are approved to receive an offer will be invited to an all-expense-paid, in-person mandatory experience at Salesforce headquarters in  San Francisco from July 22–24, 2026. 
+During your application, you will have the opportunity to highlight your expertise in one or more of these specialized areas:
 
-This Futureforce Tech Accelerator on-site experience previews life at Salesforce through career development, networking with engineering leaders and former interns, and an immersive look into the company’s culture and your future career.
+• Machine Learning • Distributed Systems and Data Management • Database Systems • Quantum Computing • Network Development • Query Processing and Optimization • Automated Reasoning • Embedded Systems • Data Engineering • Mobile Development • Game Development
 
-Important: Candidates must be available to attend all on-site programming from July 22–24, 2026. Preference will be given to candidates who can attend the full in-person experience. 
+While team placement is based on business needs, sharing your specific skills and interests helps us better align your experience with potential roles.
 
-We look forward to receiving your application!
 
-Internships
+Key job responsibilities
+• Collaborate and communicate effectively with experienced cross-disciplinary Amazonians to design, build, and operate innovative products and services that delight our customers, while participating in technical discussions to drive solutions forward.
+• Design and develop scalable solutions using cloud-native architectures and microservices in a large distributed computing environment.
+• Participate in code reviews and contribute to technical documentation.
+• Build and maintain resilient distributed systems that are scalable, fault-tolerant, and cost-effective.
+• Leverage and contribute to the development of GenAI and AI-powered tools to enhance development productivity while staying current with emerging technologies.
+• Write clean, maintainable code following best practices and design patterns.
+• Work in an agile environment practicing CI/CD principles while participating in operational responsibilities.
+• Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues.
 
-If selected through Futureforce Tech Accelerator, you'll have the opportunity to join Salesforce as a Summer 2027 Software Engineering intern. 
+A day in the life
+As an intern, you will be matched to a manager and a mentor and will have the opportunity to influence the evolution of Amazon technology and lead critical projects early in your career.
 
-Internships are open to current university students actively pursuing a degree with a projected graduation date of December 2027 or later. 
+In addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand your network, and participate in activities with other interns throughout your internship. No matter the location of your internship, we give you the tools to own your project and learn in a real-world setting.
 
-What You Will Be Doing
-
-As an intern at Salesforce, you'll influence the future of our products, platform, and AI-powered experiences. You'll receive mentorship from experienced engineers while contributing to solutions — including the agentic technologies redefining how people work — that impact millions around the world. Beyond project work, you'll have access to professional and personal growth opportunities, including:
-
-Comprehensive onboarding
-
-Engineering-specific training
-
-Executive Speaker Series
-
-Volunteer Time Off
-
-Professional Development Workshops
-
-Employee Resource Groups (ERGs)
-
-Ongoing Recruiter Support
-
-Required Qualifications
-
-Enrolled and currently pursuing a BS in Computer Science or related technical field
-
-Returning to school after Summer 2027 to complete your degree
-
-Enrolled in a college or university in North America
-
-Strong understanding of object-oriented programming/design, algorithms, and data structures and how to efficiently implement them into a solution
-
-Hands-on experience or strong curiosity with AI-assisted development tools (e.g., GitHub Copilot, Cursor, Claude Code) and an eagerness to integrate them into real-world engineering workflows.
-
-A budding AI-first mindset — comfortable experimenting with prompting techniques and leveraging AI to learn across the stack, ramp up quickly, and contribute meaningfully from day one.
-
-Strong understanding of CS fundamentals and practical coding application
-
-Team player with demonstrated collaboration skills
+Basic Qualifications
+- Are 18 years of age or older
+- Experience with at least one general-purpose programming language such as Java, Python, C++, C#, Go, Rust, or TypeScript
+- Experience with data structure implementation, basic algorithm development, and/or object-oriented design principles
+- Are enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields
+- Able to work 40 hours/week and commit to a 12-week internship
+- Expected conferral date between October 2026 – September 2029
 
 Preferred Qualifications
+- Experience from previous technical internship(s) or demonstrated project experience
+- Experience with one or more of the following: AI tools for development productivity, Cloud platforms (preferably AWS), Database systems (SQL and NoSQL), Contributing to open-source projects, Version control systems, Debugging and troubleshooting complex systems
+- Demonstrated ability to learn and adapt to new technologies quickly
+- Basic understanding of software development lifecycle (SDLC)
+- Strong problem-solving and analytical skills
+- Excellent written and verbal communication skills
 
-Experience using and critically reviewing code and artifacts generated by large language model (LLM) coding assistants and agentic tools
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
 
-Ability to to effectively guide AI tools to achieve desired outcomes
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
 
-Experience using Copilot, Cursor, Claude Code, Gemini or other agent-based frameworks
 
-Coursework in SQL and relational database concepts
-
-Proficiency in Java, Javascript and related frameworks
-
-Working knowledge of HTML and web technologies
-
-Knowledge of front end and back end languages
-
-Strong communication skills — written, verbal, and visual
-
-Strong analytical and problem-solving skills
-
-Commitment to delivering high-quality solutions
-
-Self-motivated and eager to learn
-
-Experience using telemetry and metrics to drive operational excellence
-
-Ability to quickly adapt to new technologies
-
-Unleash Your Potential
-
-When you join Salesforce, you’ll be limitless in all areas of your life. Our benefits and resources support you to find balance and be your best, and our AI agents accelerate your impact so you can do your best. Together, we’ll bring the power of Agentforce to organizations of all sizes and deliver amazing experiences that customers love. Apply today to not only shape the future — but to redefine what’s possible — for yourself, for AI, and the world.
-
-Accommodations
-
-If you need a reasonable accommodation during the application or the recruiting process, please submit a request via this Accommodations Request Form.
-
-Please note that Salesforce uses artificial intelligence (AI) tools to help our recruiters assess and evaluate candidates’ resumes and qualifications throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options.
-
-Posting Statement
-
-Salesforce is an equal opportunity employer and maintains a policy of non-discrimination with all employees and applicants for employment. What does that mean exactly? It means that at Salesforce, we believe in equality for all. And we believe we can lead the path to equality in part by creating a workplace that’s inclusive, and free from discrimination. Know your rights: workplace discrimination is illegal. Any employee or potential employee will be assessed on the basis of merit, competence and qualifications – without regard to race, religion, color, national origin, sex, sexual orientation, gender expression or identity, transgender status, age, disability, veteran or marital status, political viewpoint, or other classifications protected by law. This policy applies to current and prospective employees, no matter where they are in their Salesforce employment journey. It also applies to recruiting, hiring, job assignment, compensation, promotion, benefits, training, assessment of job performance, discipline, termination, and everything in between. Recruiting, hiring, and promotion decisions at Salesforce are fair and based on merit. The same goes for compensation, benefits, promotions, transfers, reduction in workforce, recall, training, and education.
-
-In the United States, compensation offered will be determined by factors such as location, job level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, and benefits.  Salesforce offers a variety of benefits to help you live well including: time off programs, medical, dental, vision, mental health support, paid parental leave, life and disability insurance, 401(k), and an employee stock purchasing program. More details about company benefits can be found at the following link: https://www.salesforcebenefits.com.Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.
-At Salesforce, we believe in equitable compensation practices that reflect the dynamic nature of labor markets across various regions.
-
-The typical base salary range for this position is $43 - $52 per hour.
-
-The range represents base salary only, and does not include company bonus, incentive for sales roles, equity or benefits, as applicable.
+The starting pay for this position is listed below. Final starting pay will be based on factors including experience, qualifications, and location. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits.
