@@ -1,88 +1,40 @@
 ---
-company: SalesForce
-role: Software_Engineering_AMTS_College_Grad
+company: Runpod
+role: Software_Engineer_Full_Stack
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-About Futureforce University Recruiting
+Remote, USA
+Runpod is pioneering the future of AI and machine learning, offering cutting-edge cloud infrastructure for full-stack AI applications. Founded in 2022, we are a rapidly growing, well-funded company with a remote-first organization spread globally. Our mission is to empower innovators and enterprises to unlock AI's true potential, driving technology and transforming industries. Join us as we shape the future of AI.
 
-Our Futureforce University Recruiting program is dedicated to attracting, retaining and cultivating talent. Our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. With offices all over the world, our recruits have the chance to collaborate and connect with fellow employees on a global scale. We offer job shadowing, mentorship programs, talent development courses, and much more.
-
-Job Category
-
-Software Engineering
-Job Details
-
-About Salesforce
-
-Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn’t a buzzword — it’s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping Salesforce's core values at the heart of it all.
-
-Ready to level-up your career at the company leading workforce transformation in the agentic era? You’re in the right place! Agentforce is the future of AI, and you are the future of Salesforce.
-
-Overview of the Role:
-
-Want your line of code to have a significant and measurable positive impact for users, the company’s bottom line, and industry? Join Salesforce and define the future of cloud computing. We deliver a scalable, high performance cloud computing platform that delights our customers, and is used by millions of people around the world each day for their business. You will be working with a group of world-class engineers to build breakthrough features that our customers will love, adopt and use while keeping our trusted platform stable and scalable. The software engineer role at Salesforce encompasses architecture, design, implementation, and testing to ensure we build products right and release them with high quality.
-
-We are looking for the best and brightest college graduates to join our team of world class, highly motivated software engineers and cloud computing experts. You will have a chance to be mentored and network with senior levels at Salesforce, and be a part of a year long graduate program with various targeted events throughout the year. 
-
-From Marketing Cloud to Service Cloud, Platform to IoT, Einstein Platform, Security and everything in between we have many opportunities available across various applications and platforms. Apply now and we look forward to reaching out to you with opportunities that fit your background and interests! 
+We are looking to hire a Full-Stack Engineer. As a Full-Stack Software Engineer at Runpod, you will work alongside experienced engineers and developers, contributing to the development of tools that bridge AI engineering and scalable infrastructure. This role offers a unique opportunity to grow your skills while making a tangible impact on the products and services that shape AI innovation.
 
 Responsibilities:
 
-Architect, design, implement, test and deliver highly scalable products
+Contribute to Frontend & Backend Development: Assist in building, maintaining, and enhancing user interfaces, APIs, and other core components of our platform using Python, Typescript, and Go Lang (with a primary focus on Python and Typescript).SDK Support & Development: Work with our open-source SDK to ensure it remains intuitive and effective for developers integrating with Runpod’s platform.Collaboration with Engineering & AI Teams: Support cross-functional teams by developing features and addressing bugs that enhance the user experience for AI engineers and researchers.Testing & Code Quality: Write clean, maintainable code with an emphasis on performance and scalability, following best practices for testing and continuous integration.Learning & Development: Participate in code reviews, mentorship opportunities, and continuous learning to deepen your expertise in full-stack development.
 
-Master our development process, culture and code base, then improve it
+Requirements:
 
-Work closely with a team of engineers, product managers, user experience experts and performance engineers to build new features our customers will love, adopt and use while keeping our trusted platform stable and scalable
+Programming Skills: Some experience with Python and/or Typescript, with a passion for learning and growing in a full-stack role. Familiarity with Go Lang or other strict-type language is a plus.
+Web Development Knowledge: Basic knowledge of frontend technologies (HTML, CSS, JavaScript frameworks) and backend frameworks (e.g., React, Express, FastAPI, Pydantic, etc).
+Open Source Interest: Enthusiasm for open-source projects and contributions is a strong plus.
+Problem-Solving Skills: Eager to tackle challenges, learn from feedback, and work collaboratively within a dynamic team environment.
+Communication Skills: Ability to clearly communicate technical concepts and collaborate with other developers and non-technical team members.
+Successful completion of a background check
+Preferred:
 
-Develop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metrics
+Exposure to cloud platforms, distributed computing, or containerization technologies like Docker.
+Familiarity with modern best practices.
+Prior coursework or projects to showcase full-stack experience.
+Experience with Git and version control workflows.
+What You’ll Receive:
 
-Analyze, design and develop test cases and implement automated test suites
-
-Required Qualifications:
-
-Strong background in Computer Science or a related engineering discipline.
-
-Must be located in North America
-
-Academic, professional or internship experience working in a professional coding setting environment
-
-Fluency in object-oriented programming/design
-
-Academic, professional or internship experience in one of Java, Python, Javascript, HTML, SQL or C++
-
-Preferred Qualifications:
-
-Experience using and critically reviewing code and artifacts generated by large language model (LLM) coding assistants and agentic tools
-
-Ability to to effectively guide AI tools to achieve desired outcomes
-
-Experience using Copilot, Cursor, Claude Code, Gemini or other agent-based frameworks
-
-Strong analytical and problem-solving skills
-
-Team-player with the ability to work effectively and efficiently with others
-
-Be a self-starter and possess strong sense of self-motivation
-
-Experience using telemetry and metrics to drive operational excellence
-
-Unleash Your Potential
-
-When you join Salesforce, you’ll be limitless in all areas of your life. Our benefits and resources support you to find balance and be your best, and our AI agents accelerate your impact so you can do your best. Together, we’ll bring the power of Agentforce to organizations of all sizes and deliver amazing experiences that customers love. Apply today to not only shape the future — but to redefine what’s possible — for yourself, for AI, and the world.
-
-Accommodations
-
-If you need a reasonable accommodation during the application or the recruiting process, please submit a request via this Accommodations Request Form.
-
-Please note that Salesforce uses artificial intelligence (AI) tools to help our recruiters assess and evaluate candidates’ resumes and qualifications throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options.
-
-Posting Statement
-
-Salesforce is an equal opportunity employer and maintains a policy of non-discrimination with all employees and applicants for employment. What does that mean exactly? It means that at Salesforce, we believe in equality for all. And we believe we can lead the path to equality in part by creating a workplace that’s inclusive, and free from discrimination. Know your rights: workplace discrimination is illegal. Any employee or potential employee will be assessed on the basis of merit, competence and qualifications – without regard to race, religion, color, national origin, sex, sexual orientation, gender expression or identity, transgender status, age, disability, veteran or marital status, political viewpoint, or other classifications protected by law. This policy applies to current and prospective employees, no matter where they are in their Salesforce employment journey. It also applies to recruiting, hiring, job assignment, compensation, promotion, benefits, training, assessment of job performance, discipline, termination, and everything in between. Recruiting, hiring, and promotion decisions at Salesforce are fair and based on merit. The same goes for compensation, benefits, promotions, transfers, reduction in workforce, recall, training, and education.
-
-In the United States, compensation offered will be determined by factors such as location, job level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, and benefits.  Salesforce offers a variety of benefits to help you live well including: time off programs, medical, dental, vision, mental health support, paid parental leave, life and disability insurance, 401(k), and an employee stock purchasing program. More details about company benefits can be found at the following link: https://www.salesforcebenefits.com.Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.
-At Salesforce, we believe in equitable compensation practices that reflect the dynamic nature of labor markets across various regions.
-
-The typical base salary range for this position is $110,000 - $153,000 annually. In select cities within the San Francisco and New York City metropolitan area, the base salary range for this role is $141,000 - $163,000 annually.
+The competitive base pay for this position ranges from ($130,000 - $200,000). This salary range may be inclusive of several career levels at Runpod and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location
+Meaningful equity in a fast-growing AI infra company- everyone on the team receives stock options — your impact drives our growth, and you share in the upside.
+Generous medical, dental & vision plans 
+Flexible PTO- take the time you need to recharge
+Most roles have are remote work first with an inclusive, collaborative teams utilizing slack as the main form of internal communication 
+Join a passionate team on the cutting edge of AI infrastructure — where culture, learning, and ownership are at the heart of how we scale.
+$1,200 Home Office & Equipment Stipend- We set you up for success from day one with gear and support to create your ideal workspace
+Runpod is committed to maintaining a workplace free from discrimination and upholding the principles of equality and respect for all individuals. We believe that diversity in all its forms enhances our team. As an equal opportunity employer, Runpod is committed to creating an inclusive workforce at every level. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, marital status, protected veteran status, disability status, or any other characteristic protected by law. We welcome every qualified candidate eligible to work in the United States; however, we are currently unable to sponsor employment visas.
