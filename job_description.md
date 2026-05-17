@@ -1,88 +1,54 @@
 ---
-company: Amazon
-role: Software_Development_Engineer_Internship_Fall_2026
+company: Twitch
+role: Software_Engineer_I
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Description
-By applying to this position, your application will only be considered for our fall Software Development Engineer (SDE) internship roles. Our fall intern roles have start dates in August/September 2026 and are 12 weeks in duration.
+Seattle, WA
+About Us
+Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day.
 
-Do you want to solve real customer problems through innovative technology? Do you enjoy working on scalable services in a collaborative team environment? Do you want to see your code directly impact millions of customers worldwide?
+We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X,  and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our interview process.
 
-At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. Customer obsession is part of our company DNA, which has made us one of the world's most beloved brands.
+About the Role
+Join Twitch's Commerce Engineering organization, where we're revolutionizing how viewers engage with their favorite creators. We are the teams behind Subscriptions, Gifting, Bits, Hype Train and Turbo products. From experimental features to established systems used by millions, we're constantly pushing the boundaries of what's possible in live streaming.
 
-Our SDE interns use modern technology to solve complex problems while seeing their work's impact first-hand. The challenges SDE interns solve at Amazon are meaningful and influence millions of customers, sellers, and products globally. We seek individuals passionate about creating new products, features, and services while managing ambiguity in an environment where development cycles are measured in weeks, not years.
+This position and team are based in Seattle, WA and San Francisco, CA
 
-At Amazon, we believe in ownership at every level. As a SDE intern, you'll own the entire lifecycle of your code - from design through deployment and ongoing operations. This ownership mindset, combined with our commitment to operational excellence, ensures we deliver the highest quality solutions for our customers.
+You Will:
+Craft immersive, interactive experiences that keep viewers supporting creators while engaging with the Twitch Community.
+Architect and build robust, scalable applications that can handle millions of concurrent users
+Collaborate across teams to create cohesive solutions that drive business impact
+Transform customer feedback into innovative features that enhance the Twitch experience
+You Have:
+0-2 years of professional software development experience
+Excellent verbal and written communication skills; Ability to effectively collaborate with teammates is critical to success. 
+A track record of building consumer-facing products that users love
+Demonstrable experience  of modern programming languages and frameworks
+Sharp problem-solving skills with a focus on algorithms, data structures, and schema design
+Bachelor's degree in Computer Science or equivalent real-world experience
+Bonus Points
+Experience with mobile development, either native or hybrid
+Familiarity with AWS infrastructure
+Experience with email / notifications technologies
+Experience writing Go in production systems
+Perks
+Medical, Dental, Vision & Disability Insurance
+401(k)
+Maternity & Parental Leave
+Flexible PTO
+Amazon Employee Discount
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. 
 
-We're looking for curious minds who think big and want to define tomorrow's technology. At Amazon, you'll grow into the high-impact engineer you know you can be, supported by a culture of learning and mentorship. Every day brings exciting new challenges and opportunities for personal growth.
+Job ID: TW9041
 
-Amazon internships across all seasons are full-time positions, and interns should expect to work in office, Monday-Friday, up to 40 hours per week typically between 8am-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other employment during the Amazon work-day. Applicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship concludes.
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
 
-We will take your location preferences into consideration. Preferences are based on business availability and are not guaranteed. Applicants will be considered at all locations we host interns in the United States including but not limited to:
+US, WA, Seattle - Annually
 
-• AZ (Phoenix, Tempe)
-• CA (Berkeley, Culver City, Cupertino, East Palo Alto, Irvine, Los Angeles, Manhattan Beach, Palo Alto, San Diego, San Francisco, San Jose, San Luis Obispo, Santa Barbara, Santa Clara, Santa Cruz, Santa Monica, Sunnyvale)
-• CO (Boulder, Denver)
-• GA (Atlanta, Kennesaw)
-• IL (Chicago)
-• MA (Boston, Cambridge, Hudson, North Reading, Westborough)
-• MD (Baltimore)
-• MI (Detroit)
-• MN (Minneapolis)
-• NJ (Jersey City)
-• NY (New York)
-• OR (Portland)
-• PA (Philadelphia, Pittsburgh)
-• TN (Nashville)
-• TX (Austin, Dallas)
-• VA (Arlington, Herndon)
-• WI (Madison)
-• WA (Bellevue, Seattle, Redmond)
-***Locations are subject to change***
+$110,500 - $160,000 USD
 
-During your application, you will have the opportunity to highlight your expertise in one or more of these specialized areas:
+US, CA, San Francisco - Annually
 
-• Machine Learning • Distributed Systems and Data Management • Database Systems • Quantum Computing • Network Development • Query Processing and Optimization • Automated Reasoning • Embedded Systems • Data Engineering • Mobile Development • Game Development
-
-While team placement is based on business needs, sharing your specific skills and interests helps us better align your experience with potential roles.
-
-
-Key job responsibilities
-• Collaborate and communicate effectively with experienced cross-disciplinary Amazonians to design, build, and operate innovative products and services that delight our customers, while participating in technical discussions to drive solutions forward.
-• Design and develop scalable solutions using cloud-native architectures and microservices in a large distributed computing environment.
-• Participate in code reviews and contribute to technical documentation.
-• Build and maintain resilient distributed systems that are scalable, fault-tolerant, and cost-effective.
-• Leverage and contribute to the development of GenAI and AI-powered tools to enhance development productivity while staying current with emerging technologies.
-• Write clean, maintainable code following best practices and design patterns.
-• Work in an agile environment practicing CI/CD principles while participating in operational responsibilities.
-• Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues.
-
-A day in the life
-As an intern, you will be matched to a manager and a mentor and will have the opportunity to influence the evolution of Amazon technology and lead critical projects early in your career.
-
-In addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand your network, and participate in activities with other interns throughout your internship. No matter the location of your internship, we give you the tools to own your project and learn in a real-world setting.
-
-Basic Qualifications
-- Are 18 years of age or older
-- Experience with at least one general-purpose programming language such as Java, Python, C++, C#, Go, Rust, or TypeScript
-- Experience with data structure implementation, basic algorithm development, and/or object-oriented design principles
-- Are enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields
-- Able to work 40 hours/week and commit to a 12-week internship
-- Expected conferral date between October 2026 – September 2029
-
-Preferred Qualifications
-- Experience from previous technical internship(s) or demonstrated project experience
-- Experience with one or more of the following: AI tools for development productivity, Cloud platforms (preferably AWS), Database systems (SQL and NoSQL), Contributing to open-source projects, Version control systems, Debugging and troubleshooting complex systems
-- Demonstrated ability to learn and adapt to new technologies quickly
-- Basic understanding of software development lifecycle (SDLC)
-- Strong problem-solving and analytical skills
-- Excellent written and verbal communication skills
-
-Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
-
-Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
-
-
-The starting pay for this position is listed below. Final starting pay will be based on factors including experience, qualifications, and location. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits.
+$127,100 - $185,000 USD
