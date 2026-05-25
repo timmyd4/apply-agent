@@ -1,79 +1,59 @@
 ---
-company: Amazon
-role: Software_Development_Engineer
+company: CapGemini
+role: Software_Engineer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Description
-Do you want to solve real customer problems through innovative technology? Do you enjoy working on scalable services in a collaborative team environment? Do you want to see your code directly impact millions of customers worldwide?
+Location: Bellevue
+Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.
 
-At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. Customer obsession is part of our company DNA, which has made us one of the world's most beloved brands.
+Job Description
+Works in the area of Software Engineering, which encompasses the development, maintenance and optimization of software solutions/applications.
+1. Applies scientific methods to analyse and solve software engineering problems.
+2. He/she is responsible for the development and application of software engineering practice and knowledge, in research, design, development and maintenance.
+3. His/her work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.
+4. The software engineer builds skills and expertise of his/her software engineering discipline to reach standard software engineer skills expectations for the applicable role, as defined in Professional Communities.
+5. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
 
-Our Software Development Engineers (SDEs) use modern technology to solve complex problems while seeing their work's impact first-hand. The challenges SDEs solve at Amazon are meaningful and influence millions of customers, sellers, and products globally. We seek individuals passionate about creating new products, features, and services while managing ambiguity in an environment where development cycles are measured in weeks, not years.
+Job Description - Grade Specific
+Has more than a year of relevant work experience. Solid understanding of programming concepts, software design and software development principles. Consistently works to direction with minimal supervision, producing accurate and reliable results. Individuals are expected to be able to work on a range of tasks and problems, demonstrating their ability to apply their skills and knowledge. Organises own time to deliver against tasks set by others with a mid term horizon. Works co-operatively with others to achieve team goals and has a direct and positive impact on project performance and make decisions based on their understanding of the situation, not just the rules.
+The base compensation range for this role in the posted location is: $53,580 - $122,400. 
 
-At Amazon, we believe in ownership at every level. As an SDE-I, you'll own the entire lifecycle of your code - from design through deployment and ongoing operations. This ownership mindset, combined with our commitment to operational excellence, ensures we deliver the highest quality solutions for our customers.
+Capgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws. The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting. This range may be subject to change as permitted by law.
 
-We're looking for curious minds who think big and want to define tomorrow's technology. At Amazon, you'll grow into the high-impact engineer you know you can be, supported by a culture of learning and mentorship. Every day brings exciting new challenges and opportunities for personal growth.
+The actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction.
 
-We will take your location preferences into consideration. Preferences are based on business availability and are not guaranteed. Applicants will be considered at all locations in the United States including but not limited to:
+These may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity.
 
-• AZ (Phoenix, Tempe)
-• CA (Berkeley, Culver City, Cupertino, East Palo Alto, Irvine, Los Angeles, Manhattan Beach, Palo Alto, San Diego, San Francisco, San Jose, San Luis Obispo, Santa Barbara, Santa Clara, Santa Cruz, Santa Monica, Sunnyvale)
-• CO (Boulder, Denver)
-• GA (Atlanta, Kennesaw)
-• IL (Chicago)
-• MA (Boston, Cambridge, Hudson, North Reading, Westborough)
-• MD (Baltimore)
-• MI (Detroit)
-• MN (Minneapolis)
-• NJ (Jersey City)
-• NY (New York)
-• OR (Portland)
-• PA (Philadelphia, Pittsburgh)
-• TN (Nashville)
-• TX (Austin, Dallas)
-• VA (Arlington, Herndon)
-• WI (Madison)
-• WA (Bellevue, Seattle, Redmond)
-***Locations are subject to change***
+It is not typical for candidates to be hired at or near the top of the posted compensation range.
 
-During your application, you will have the opportunity to highlight your expertise in one or more of these specialized areas:
+In addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws.
 
-• Machine Learning • Distributed Systems and Data Management • Database Systems • Quantum Computing • Network Development • Query Processing and Optimization • Automated Reasoning • Embedded Systems • Data Engineering • Mobile Development • Game Development
+ 
 
-While team placement is based on business needs, sharing your specific skills and interests helps us better align your experience with potential roles.
+Capgemini offers a comprehensive, non-negotiable benefits package to all regular, full-time employees. In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include: 
 
-Applications are reviewed on a rolling basis. For an update on your status or to confirm your application was submitted successfully, please login to your candidate portal at Amazon.jobs. Amazon works with a high volume of applicants so we appreciate your patience as we review applications.
+Paid time off based on employee grade (A-F), defined by policy: Vacation: 12-25 days, depending on grade, Company paid holidays, Personal Days, Sick Leave
+Medical, dental, and vision coverage (or provincial healthcare coordination in Canada)
+Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)
+Life and disability insurance
+Employee assistance programs
+Other benefits as provided by local policy and eligibility
+Important Notice: Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini’s discretion, consistent with applicable laws. The Company reserves the right to amend or withdraw compensation programs at any time, within the limits of applicable legislation.
 
+ 
 
-Key job responsibilities
-• Collaborate and communicate effectively with experienced cross-disciplinary Amazonians to design, build, and operate innovative products and services that delight our customers, while participating in technical discussions to drive solutions forward.
-• Design and develop scalable solutions using cloud-native architectures and microservices in a large distributed computing environment.
-• Participate in code reviews and contribute to technical documentation.
-• Build and maintain resilient distributed systems that are scalable, fault-tolerant, and cost-effective.
-• Leverage and contribute to the development of GenAI and AI-powered tools to enhance development productivity while staying current with emerging technologies.
-• Write clean, maintainable code following best practices and design patterns.
-• Work in an agile environment practicing CI/CD principles while participating in operational responsibilities including on-call duties.
-• Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues.
+Disclaimers
 
-Basic Qualifications
-- Experience with at least one general-purpose programming language such as Java, Python, C++, C#, Go, Rust, or TypeScript
-- Experience with data structure implementation, basic algorithm development, and/or object-oriented design principles
-- Currently has, or is in the process of obtaining a bachelor’s degree in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields
-- Must be 18 years of age of older
+Capgemini is an Equal Opportunity Employer encouraging inclusion in the workplace. Capgemini also participates in the Partnership Accreditation in Indigenous Relations (PAIR) program which supports meaningful engagement with Indigenous communities across Canada by promoting fairness, accessibility, inclusion and respect.  We value the rich cultural heritage and contributions of Indigenous Peoples and actively work to create a welcoming and respectful environment. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.
 
-Preferred Qualifications
-- Experience from previous technical internship(s) or demonstrated project experience
-- Experience with one or more of the following: AI tools for development productivity, Cloud platforms (preferably AWS), Database systems (SQL and NoSQL), Contributing to open-source projects, Version control systems, Debugging and troubleshooting complex systems
-- Demonstrated ability to learn and adapt to new technologies quickly
-- Basic understanding of software development lifecycle (SDLC)
-- Strong problem-solving and analytical skills
-- Excellent written and verbal communication skills
+This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodation does not pose an undue hardship. Capgemini is committed to providing reasonable accommodation during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.
 
-Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+Please be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.
 
-Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+Click the following link for more information on your rights as an Applicant in the United States.  http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law
 
+ 
 
-The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.
