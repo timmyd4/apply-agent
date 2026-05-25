@@ -1,68 +1,79 @@
 ---
-company: Airbnb
-role: iOS_Software_Engineer
+company: Amazon
+role: Software_Development_Engineer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
+Description
+Do you want to solve real customer problems through innovative technology? Do you enjoy working on scalable services in a collaborative team environment? Do you want to see your code directly impact millions of customers worldwide?
 
- 
+At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. Customer obsession is part of our company DNA, which has made us one of the world's most beloved brands.
 
-The Community You Will Join:
+Our Software Development Engineers (SDEs) use modern technology to solve complex problems while seeing their work's impact first-hand. The challenges SDEs solve at Amazon are meaningful and influence millions of customers, sellers, and products globally. We seek individuals passionate about creating new products, features, and services while managing ambiguity in an environment where development cycles are measured in weeks, not years.
 
-The Quality Reputation team is dedicated to building exceptional customer-facing products that enhance trip quality and user reputation. We build systems that define and improve quality on Airbnb: collecting quality signals that elevate the best supply while protecting users through proactive intervention and enforcement. Our mission is to build delightful user products and intelligent capabilities that raise the supply quality on the Airbnb platform. The team is highly collaborative with its partners in design, product, data science, legal, and marketing to deliver features and experiences used by millions of people.
+At Amazon, we believe in ownership at every level. As an SDE-I, you'll own the entire lifecycle of your code - from design through deployment and ongoing operations. This ownership mindset, combined with our commitment to operational excellence, ensures we deliver the highest quality solutions for our customers.
 
- 
+We're looking for curious minds who think big and want to define tomorrow's technology. At Amazon, you'll grow into the high-impact engineer you know you can be, supported by a culture of learning and mentorship. Every day brings exciting new challenges and opportunities for personal growth.
 
-The Difference You Will Make:
+We will take your location preferences into consideration. Preferences are based on business availability and are not guaranteed. Applicants will be considered at all locations in the United States including but not limited to:
 
-As a Software Engineer (New Grad) at Airbnb, you’ll play a vital role in building, supporting, and refining the products and systems that make Airbnb’s mission possible. Your work will directly contribute to high-quality, reliable experiences for our global community—whether you’re fixing bugs, launching well-defined features, or enhancing existing components. You'll also have the opportunity to contribute to AI-powered features, applying foundational knowledge of machine learning concepts and modern AI tools to build smarter, more personalized experiences for our hosts and guests. By clearly communicating challenges and collaborating with teammates across functions, you’ll help drive projects forward with transparency and trust.
+• AZ (Phoenix, Tempe)
+• CA (Berkeley, Culver City, Cupertino, East Palo Alto, Irvine, Los Angeles, Manhattan Beach, Palo Alto, San Diego, San Francisco, San Jose, San Luis Obispo, Santa Barbara, Santa Clara, Santa Cruz, Santa Monica, Sunnyvale)
+• CO (Boulder, Denver)
+• GA (Atlanta, Kennesaw)
+• IL (Chicago)
+• MA (Boston, Cambridge, Hudson, North Reading, Westborough)
+• MD (Baltimore)
+• MI (Detroit)
+• MN (Minneapolis)
+• NJ (Jersey City)
+• NY (New York)
+• OR (Portland)
+• PA (Philadelphia, Pittsburgh)
+• TN (Nashville)
+• TX (Austin, Dallas)
+• VA (Arlington, Herndon)
+• WI (Madison)
+• WA (Bellevue, Seattle, Redmond)
+***Locations are subject to change***
 
-You’ll foster a sense of belonging by actively seeking feedback, sharing your own learnings, and supporting the onboarding of new team members. You’ll help uphold Airbnb’s commitment to excellence by following best practices, delivering tasks autonomously, and continually improving your technical skills. Your curiosity, empathy, and commitment to candid communication will empower you to make a meaningful impact—on projects, teammates, and Airbnb’s inclusive culture.
+During your application, you will have the opportunity to highlight your expertise in one or more of these specialized areas:
 
- 
+• Machine Learning • Distributed Systems and Data Management • Database Systems • Quantum Computing • Network Development • Query Processing and Optimization • Automated Reasoning • Embedded Systems • Data Engineering • Mobile Development • Game Development
 
-A Typical Day: 
+While team placement is based on business needs, sharing your specific skills and interests helps us better align your experience with potential roles.
 
-Attend team syncs to discuss priorities, share progress, and surface any blockers with transparency.
-Dive into coding — fixing bugs, developing iOS features, or refining UI components —while applying best practices for code quality, error handling, and testability. Leverage AI-assisted development tools (e.g., Claude Code or similar) to accelerate your workflow and improve code quality.
-Participate in design or code reviews, ask clarifying questions, and apply feedback to improve your work. Work closely with cross-functional partners like product managers and designers to ensure your tasks align clearly with broader goals.
-Dedicate time to expanding your technical knowledge through documentation, mentorship, or internal knowledge-sharing sessions. This includes staying current on iOS platform developments or AI/ML topics relevant to your team's domain. Seek guidance from managers or tech leads when tackling unfamiliar problems.
-Contribute to team activities, such as onboarding new hires (e.g., being an onboarding buddy), sharing observations from the hiring process, or joining in cultural events focused on diversity, inclusion, and innovation.
-Share updates on your progress and next steps, highlighting challenges or learnings. 
- 
+Applications are reviewed on a rolling basis. For an update on your status or to confirm your application was submitted successfully, please login to your candidate portal at Amazon.jobs. Amazon works with a high volume of applicants so we appreciate your patience as we review applications.
 
-Your Expertise:
 
-This role is designed for recent graduates (Bachelor's or Master's) with less than 1 year of full-time professional experience who are ready to grow fast and make an impact.
+Key job responsibilities
+• Collaborate and communicate effectively with experienced cross-disciplinary Amazonians to design, build, and operate innovative products and services that delight our customers, while participating in technical discussions to drive solutions forward.
+• Design and develop scalable solutions using cloud-native architectures and microservices in a large distributed computing environment.
+• Participate in code reviews and contribute to technical documentation.
+• Build and maintain resilient distributed systems that are scalable, fault-tolerant, and cost-effective.
+• Leverage and contribute to the development of GenAI and AI-powered tools to enhance development productivity while staying current with emerging technologies.
+• Write clean, maintainable code following best practices and design patterns.
+• Work in an agile environment practicing CI/CD principles while participating in operational responsibilities including on-call duties.
+• Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues.
 
-Strong foundation in Computer Science fundamentals — data structures, algorithms, design patterns, and systems thinking
-Proficiency in Swift, with exposure to SwiftUI or UIKit for building iOS applications
-Foundational understanding of iOS development concepts — including networking, caching, client storage, accessibility, and asynchronous programming
-Familiarity with REST APIs; exposure to GraphQL is a plus
-Bonus points for leadership experience, community involvement, or teaching/mentoring — we love engineers who invest in others
- 
+Basic Qualifications
+- Experience with at least one general-purpose programming language such as Java, Python, C++, C#, Go, Rust, or TypeScript
+- Experience with data structure implementation, basic algorithm development, and/or object-oriented design principles
+- Currently has, or is in the process of obtaining a bachelor’s degree in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields
+- Must be 18 years of age of older
 
-Your Location:
+Preferred Qualifications
+- Experience from previous technical internship(s) or demonstrated project experience
+- Experience with one or more of the following: AI tools for development productivity, Cloud platforms (preferably AWS), Database systems (SQL and NoSQL), Contributing to open-source projects, Version control systems, Debugging and troubleshooting complex systems
+- Demonstrated ability to learn and adapt to new technologies quickly
+- Basic understanding of software development lifecycle (SDLC)
+- Strong problem-solving and analytical skills
+- Excellent written and verbal communication skills
 
-Preference for candidates based in San Francisco, California or Seattle, Washington with the ability to commute to the office three days per week. Additional in-person attendance for team meetings or offsites may be required as needed. Domestic Relocation support will be provided for candidates open to relocating.
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
 
- 
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
 
-Our Commitment To Inclusion & Belonging:
 
-Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
-
-We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodations@airbnb.com. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process. 
-
-We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application. 
-
- 
-
-How We'll Take Care of You:
-
-Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  
-
-Pay Range
-$128,000—$142,000 USD
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
