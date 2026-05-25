@@ -1,60 +1,74 @@
 ---
-company: SpaceX
-role: New_Graduate_Engineer_Software_Starlink
+company: Redfin
+role: Software_Developer_I
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Redmond, WA
-SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+Seattle, WA
+Description
+ForSaleByOwner.com, operated by Redfin, is a leading online platform dedicated to helping homeowners sell their properties without the need for traditional real estate agents. Our mission is to provide a seamless, user-friendly experience for sellers, enabling them to list, market, and sell their homes efficiently and effectively.
 
-NEW GRADUATE ENGINEER, SOFTWARE (STARLINK)
+We are seeking a talented and motivated Software Engineer to join our growing team. As a Software Engineer at ForSaleByOwner.com, you will play a crucial role in developing and maintaining our web applications, ensuring they are robust, scalable, and user-friendly. You will collaborate with cross-functional teams to design, implement, and improve our platform, contributing to our mission of empowering homeowners. You will also support our active users by troubleshooting why a listing may not be appearing on the website and help to provide resolution.
 
-At SpaceX we’re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world’s most advanced broadband internet system. Starlink is the world’s largest satellite constellation and is providing fast, reliable internet to millions of users worldwide. We design, build, test, and operate all parts of the system – thousands of satellites, consumer receivers that allow users to connect within minutes of unboxing, and the software that brings it all together. We’ve only begun to scratch the surface of Starlink’s potential global impact and are looking for best-in-class engineers to help maximize Starlink’s utility for communities and businesses around the globe.
 
-As arguably SpaceX's most complex software engineering challenge, Starlink offers a variety of areas within software engineering that you can focus. As a Software Engineer on the Starlink program, you will be solving challenges underpinning every aspect of the program’s growth. The teams and areas you could have an impact on could include, but are not limited to:
+About the Role
 
-Next generation networking technologies to direct data through an ever-changing network of satellites, ground stations, planes and users.
-Firmware, embedded and controls software running on custom hardware that flies the world’s largest fleet of spacecraft.
-Infrastructure and tools to enable rapid development and reliable deployment of our code to dynamic production environments.
-Measurement system software and hardware, supporting our in-house RF Silicon designs.
-Full life cycle development of Starlink.com and our Mobile/Enterprise platforms.
-Physic based software engineering to design and simulate the orbital life cycle of the Starlink constellation. 
-Our software engineers are responsible for the complete lifecycle of the software they create, including development, testing, and support. We expect our engineers to close the feedback loop between software design and real-world performance. In this role, your software will have a meaningful and measurable impact on the world.
+Architect, code, and maintain high-quality software solutions.
 
-RESPONSIBILITIES:
+Develop new features and improve existing functionalities on our platform.
 
-Develop highly reliable, real-time software.
-Participate in and lead architecture, design, and code reviews.
-Develop prototypes and manage experiments to prove out key design concepts.
-Collaborate with other engineers, from other engineering disciplines, to plan and organize the development of our products.
-BASIC QUALIFICATIONS:
+Work closely with product managers, designers, and other engineers to define and implement product requirements.
 
-Bachelor’s degree in computer science, engineering, math, or other STEM discipline.
-Professional development experience in C, C++, Python, C# or another object oriented language (internship experience is applicable).
-Graduating in the spring, summer, or fall of 2026
-PREFERRED SKILLS AND EXPERIENCE:
+Participate in code reviews and provide constructive feedback to team members.
 
-Strong professional/project experience writing software in a production environment.
-Developed, debugged and deployed software that has been used in real world applications/projects.
-Creative approach to problem solving, exceptional analytical skills and engineering fundamentals.
-Excellent communication skills both written and verbal.
-Ability to work effectively in a dynamic environment with changing needs and requirements.
-Experience with networking protocols (UDP, TCP/IP, etc) and distributed systems.
-Experience in security issues associated with distributed systems and internet services.
-ADDITIONAL REQUIREMENTS:
+Write and maintain automated tests to ensure the reliability and performance of our applications.
 
-Must be willing to work extended hours and weekends as needed.
-COMPENSATION AND BENEFITS:    
-    
-Pay range:    
-Software Engineer/Level I: $122,500.00 - $145,000.00/per year    
-    
-Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.
+Identify and resolve bugs and issues in a timely manner.
 
-Base salary is just one part of your total rewards package at SpaceX. You may also be eligible for long-term incentives, in the form of company stock, stock options, or long-term cash awards, as well as potential discretionary bonuses and the ability to purchase additional stock at a discount through an Employee Stock Purchase Plan. You will also receive access to comprehensive medical, vision, and dental coverage, access to a 401(k)-retirement plan, short and long-term disability insurance, life insurance, paid parental leave, and various other discounts and perks. You may also accrue 3 weeks of paid vacation and will be eligible for 10 or more paid holidays per year. Exempt employees are eligible for 5 days of sick leave per year. Company shuttles are offered to employees for round trip travel from select Seattle locations to the SpaceX Redmond office Monday to Friday. 
+Stay up-to-date with the latest industry trends and technologies.
 
-ITAR REQUIREMENTS:
+Contribute to the improvement of our development processes and tools.
 
-To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.  
-SpaceX is an Equal Opportunity Employer; employment with SpaceX is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other legally protected status.
+Experience using AI code generation tools tools such as GitHub CoPilot, Anthropic Claude Code, Cursor, or similar
+
+Create and maintain clear, concise documentation for code, APIs, and systems.
+
+Help users with their listings and respond to Right to Know, Right to Access, Right to Delete requests
+
+About You
+
+1-3 years of professional experience in software development.
+
+Proven experience with at least one modern programming language (e.g., JavaScript, Go, PHP).
+
+Strong understanding of software development principles and practices.
+
+Familiarity with backend technologies (Node.js, Go, PHP).
+
+Experience or willing to learn with web technologies (HTML, CSS, JavaScript).
+
+Experience with databases (SQL, NoSQL).
+
+Knowledge of version control systems (Git).
+
+Excellent problem-solving skills and attention to detail.
+
+Strong communication and collaboration skills.
+
+Ability to work independently and as part of a team.
+
+What you’ll get
+
+Our team members fuel our strategy, innovation and growth, so we ensure the health and well-being of not just you, but your family, too! We go above and beyond to give you the support you need on an individual level and offer all sorts of ways to help you live your best life. We are proud to offer eligible team members perks and health benefits that will help you have peace of mind. Simply put: We’ve got your back. Check out our full list of Benefits and Perks.
+
+On-Call Expectations
+This role may include participation in an on-call rotation to support production systems and ensure service reliability. On-call responsibilities may include coverage during nights and weekends. If applicable, frequency and scheduling will be determined by team needs and communicated accordingly.
+
+About us
+
+Redfin is revolutionizing the $75 billion real estate industry. We use data, beautiful software, and innovative design to put customers first at every step in the home-buying and selling process. Get ready to dive headfirst into our award-winning website and mobile apps, solving complex business problems in a highly visible, customer-centric way. If you value doing great work in a collaborative environment, join our team!
+
+This job description is an outline of the primary responsibilities of this position and may be modified at the discretion of the company at any time.  Decisions related to employment are not based on race, color, religion, national origin, sex, physical or mental disability, sexual orientation, gender identity or expression, age, military or veteran status or any other characteristic protected by state or federal law.  The company provides reasonable accommodations to qualified individuals with disabilities in accordance with applicable state and federal laws.  Applicants requiring reasonable accommodations in completing the application and/or participating in the application process should contact a member of the Human Resources team, at Careers@Rocket.com.
+
+The compensation information below is provided in compliance with all applicable job posting disclosure requirements. The compensation for this position is $118,800.00-$145,200.00. The position may also be eligible for an annual bonus, incentives, and other employment-related benefits including, but not limited to, medical, dental, and vision benefits, 401K retirement plan, and paid-time off. More information regarding these benefits and others can be found here. The information regarding compensation and other benefits included in this paragraph is the company’s current, good faith estimate at the time of posting. [Compensation and benefits are subject to modification from time to time as the Company, in its sole and exclusive discretion, deems appropriate.] The Company may determine during its future reviews of the proposed compensation and benefits provided for this position, that the compensation and benefits for such position should be reduced. In no event will the Company reduce the compensation for the position to a level below the applicable jurisdictional minimum wage rate for the position. Los Angeles County and San Francisco Candidates only: qualified applicants with arrest or conviction records will be considered for employment per the Fair Chance Ordinance and the Fair Chance Initiative for Hiring.
