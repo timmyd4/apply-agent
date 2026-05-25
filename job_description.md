@@ -1,74 +1,72 @@
 ---
-company: Redfin
-role: Software_Developer_I
+company: Nordstrom
+role: Engineer_1_Customer_Experience
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Seattle, WA
-Description
-ForSaleByOwner.com, operated by Redfin, is a leading online platform dedicated to helping homeowners sell their properties without the need for traditional real estate agents. Our mission is to provide a seamless, user-friendly experience for sellers, enabling them to list, market, and sell their homes efficiently and effectively.
+1600 7th Avenue, Seattle, Washington 98101
+As an Engineer 1 in our Customer Experience Platform (CXP) organization, you will be a key member of a team of Nordstrom Technology professionals that applies scientific, mathematical and social principles to design, build, and maintain technology products, devices, systems and solutions. These technology products and solutions provide amazing customer experiences while meeting the needs of the business. The scope, responsibility and accountability are at the individual unit level of work under direct supervision.
 
-We are seeking a talented and motivated Software Engineer to join our growing team. As a Software Engineer at ForSaleByOwner.com, you will play a crucial role in developing and maintaining our web applications, ensuring they are robust, scalable, and user-friendly. You will collaborate with cross-functional teams to design, implement, and improve our platform, contributing to our mission of empowering homeowners. You will also support our active users by troubleshooting why a listing may not be appearing on the website and help to provide resolution.
+We want to give customers a compelling and relevant experience in any place they engage with us (like in our stores, our websites and our apps) that leave them happy and excited to come back. You will part of an agile team that is responsible for creating these experiences by building and maintaining systems.
 
+This role is offered as hybrid in Seattle, WA. Candidates must be available to work in office at the Nordstrom corporate headquarters a minimum of 4 days/week to be considered for this position.
 
-About the Role
+A day in the life…
+Contributes to code, design, collaborates with local team and has scope/accountability
+Tests all scenarios and conforms to quality standards
+Measures and understand local scope
+Conforms to secure coding practices and secure system fundamentals
+Displays knowledge of Computer Science fundamentals related to own work
 
-Architect, code, and maintain high-quality software solutions.
+We’d love it if you have…
+Bachelor’s or Master’s degree in Computer Science, Engineering or equivalent degree required
+Background in data & technology
+Familiarity with Object-Oriented programming languages, such as Java, Python, Go, NodeJs, Javascript/Typescript
+Familiarity with RESTful architecture and micro services
+Familiarity with Cloud technologies like AWS and GCP
+Ability to write Unit and Integration Tests
+Experience leveraging AI‑assisted development thoughtfully, validating generated code against requirements, security guidelines, and quality standards before integration into production systems.
+Good communication skills (verbal and written)
+Comfortable working on team projects and collaborating via version control tools such as GitHub and GitLab.
+Professional experience in engineering or related field (preferred), may be recent grad
 
-Develop new features and improve existing functionalities on our platform.
+How we work...
+With others. We have remote pairing tools where engineers often work together, as well as virtual collaboration tools for building out architecture solutions.
+With transparency. We encourage open dialog and discourse. We don’t encourage silos.
+With agility. We don’t believe in following a process for process’s sake. We ship frequently and focus on delivering incremental value.
+With open minds. We are committed to building a diverse team of people with unique perspectives. This encourages a healthy and inclusive environment that builds a more sustainable, successful company.
+With pride. We value our people most of all. We invest in ourselves by applying our own strengths and interests to company
+We’ve got you covered…
 
-Work closely with product managers, designers, and other engineers to define and implement product requirements.
+Our employees are our most important asset and that’s reflected in our benefits. Nordstrom is proud to offer a variety of benefits to support employees and their families, including:
 
-Participate in code reviews and provide constructive feedback to team members.
+Medical/Vision, Dental, Retirement and Paid Time Away
 
-Write and maintain automated tests to ensure the reliability and performance of our applications.
+Life Insurance and Disability
 
-Identify and resolve bugs and issues in a timely manner.
+Merchandise Discount and EAP Resources
 
-Stay up-to-date with the latest industry trends and technologies.
+A few more important points...
 
-Contribute to the improvement of our development processes and tools.
+The job posting highlights the most critical responsibilities and requirements of the job. It’s not all-inclusive. There may be additional duties, responsibilities and qualifications for this job.
 
-Experience using AI code generation tools tools such as GitHub CoPilot, Anthropic Claude Code, Cursor, or similar
+For Los Angeles or San Francisco applicants: Nordstrom is required to inform you that we conduct background checks after conditional offer and consider qualified applicants with criminal histories in a manner consistent with legal requirements per Los Angeles, Cal. Muni. Code 189.04 and the San Francisco Fair Chance Ordinance. For additional state and location specific notices, please refer to the Legal Notices document within the FAQ section of the Nordstrom Careers site.
 
-Create and maintain clear, concise documentation for code, APIs, and systems.
+Applicants with disabilities who require assistance or accommodation should contact the nearest Nordstrom location, which can be identified at www.nordstrom.com. 
 
-Help users with their listings and respond to Right to Know, Right to Access, Right to Delete requests
+Please be mindful that there may be legal notices and requirements related to this job posting that are specific to your state. Review the Career Site FAQ’s for relevant information and guidelines.
 
-About You
+© 2022 Nordstrom, Inc  
 
-1-3 years of professional experience in software development.
+Current Nordstrom employees: To apply, log into Workday, click the Careers button and then click Find Jobs.
 
-Proven experience with at least one modern programming language (e.g., JavaScript, Go, PHP).
+Nordstrom keeps job postings open for at least one day after the posting date.
 
-Strong understanding of software development principles and practices.
+Pay Range Details
 
-Familiarity with backend technologies (Node.js, Go, PHP).
+The pay range(s) below has been provided in compliance with state specific laws. Pay ranges may be different for other locations. 
+Pay offers are dependent on the location, as well as job-related knowledge, skills, and experience.
 
-Experience or willing to learn with web technologies (HTML, CSS, JavaScript).
-
-Experience with databases (SQL, NoSQL).
-
-Knowledge of version control systems (Git).
-
-Excellent problem-solving skills and attention to detail.
-
-Strong communication and collaboration skills.
-
-Ability to work independently and as part of a team.
-
-What you’ll get
-
-Our team members fuel our strategy, innovation and growth, so we ensure the health and well-being of not just you, but your family, too! We go above and beyond to give you the support you need on an individual level and offer all sorts of ways to help you live your best life. We are proud to offer eligible team members perks and health benefits that will help you have peace of mind. Simply put: We’ve got your back. Check out our full list of Benefits and Perks.
-
-On-Call Expectations
-This role may include participation in an on-call rotation to support production systems and ensure service reliability. On-call responsibilities may include coverage during nights and weekends. If applicable, frequency and scheduling will be determined by team needs and communicated accordingly.
-
-About us
-
-Redfin is revolutionizing the $75 billion real estate industry. We use data, beautiful software, and innovative design to put customers first at every step in the home-buying and selling process. Get ready to dive headfirst into our award-winning website and mobile apps, solving complex business problems in a highly visible, customer-centric way. If you value doing great work in a collaborative environment, join our team!
-
-This job description is an outline of the primary responsibilities of this position and may be modified at the discretion of the company at any time.  Decisions related to employment are not based on race, color, religion, national origin, sex, physical or mental disability, sexual orientation, gender identity or expression, age, military or veteran status or any other characteristic protected by state or federal law.  The company provides reasonable accommodations to qualified individuals with disabilities in accordance with applicable state and federal laws.  Applicants requiring reasonable accommodations in completing the application and/or participating in the application process should contact a member of the Human Resources team, at Careers@Rocket.com.
-
-The compensation information below is provided in compliance with all applicable job posting disclosure requirements. The compensation for this position is $118,800.00-$145,200.00. The position may also be eligible for an annual bonus, incentives, and other employment-related benefits including, but not limited to, medical, dental, and vision benefits, 401K retirement plan, and paid-time off. More information regarding these benefits and others can be found here. The information regarding compensation and other benefits included in this paragraph is the company’s current, good faith estimate at the time of posting. [Compensation and benefits are subject to modification from time to time as the Company, in its sole and exclusive discretion, deems appropriate.] The Company may determine during its future reviews of the proposed compensation and benefits provided for this position, that the compensation and benefits for such position should be reduced. In no event will the Company reduce the compensation for the position to a level below the applicable jurisdictional minimum wage rate for the position. Los Angeles County and San Francisco Candidates only: qualified applicants with arrest or conviction records will be considered for employment per the Fair Chance Ordinance and the Fair Chance Initiative for Hiring.
+$104,500.00 - $162,500.00 Annual
+This position may be eligible for performance-based incentives/bonuses. Benefits include 401k, medical/vision/dental/life/disability insurance options, PTO accruals, Holidays, and more. Eligibility requirements may apply based on location, job level, classification, and length of employment. Learn more in the Nordstrom Benefits Overview by copying and pasting the following URL into your browser: https://careers.nordstrom.com/pdfs/Ben_Overview_15_Full_Time_ES-US.pdf
