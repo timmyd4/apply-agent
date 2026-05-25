@@ -1,62 +1,68 @@
 ---
-company: Affirm
-role: Software_Engineer_I_FullStack
+company: Airbnb
+role: iOS_Software_Engineer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Remote US
-Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.
-
-The Home and Search Experience team owns the end-to-end search and discovery experience in the Affirm app, spanning user experience, application-level APIs, and the underlying search and ranking systems. Our goal is to define and deliver meaningful initiatives that improve how users discover merchants, brands, and categories, and understand and engage with their available credit.
-
-We work closely with product, data science, design, and partner engineering teams to identify opportunities, ship new features, and continuously raise the quality, reliability, and scalability of these experiences in support of Affirm’s growth.
-
-We are looking for a highly motivated Software Engineer to help define and deliver critical experiences at the heart of Affirm’s marketplace. In this role, you will own high-leverage technical and product initiatives whose outcomes directly influence user discovery, credit engagement, and the growth of Affirm’s merchant network.
-
-We are only just getting started! Come join us as we build a beloved, lasting financial services brand predicated on honesty and trust. It’s going to be an amazing ride!
+Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.
 
  
 
-What You'll Do
-With the support of your team, you will work on tasks that contribute to the team's projects and goals.
-You will work collaboratively and proactively with your team and stakeholders, bringing them along for your work and helping to create visibility and dialog regarding the risks and trade-offs related to your work.
-You will strike the right balance of speed and quality in your work, ensuring that we hit our business goals while protecting our systems from downtime.
-You will contribute to a sense of community on your team by engaging in growth and development activities.
-What We Look For
-You have previous work or internship experience designing, developing and launching backend systems at scale and are experienced using one of Python or Kotlin.
-You are familiar with the building blocks of distributed systems, and the technologies like AWS, MySQL and Kubernetes.
-You have previous work or internship designing, developing and launching APIs at scale using languages like Python or Kotlin.
-You have mastered taking a simple problem or business scenario into a solution that interacts with multiple software components, and executing on it by writing clear, easily understood, well tested and extensible code.
-You are comfortable navigating a large code base, debugging others' code, and providing feedback to other engineers through code reviews.
-Your experience demonstrates that you take ownership of your growth, proactively seeking feedback from your team, your manager, and your stakeholders.
-You have strong verbal and written communication skills that support effective collaboration with our global engineering team.
-This position requires either equivalent practical experience or a Bachelor’s degree in a related field.
- 
+The Community You Will Join:
 
-Pay Grade - J
-
-Equity Grade - 5
-
-Employees new to Affirm typically come in at the start of the pay range. Affirm focuses on providing a simple and transparent pay structure which is based on a variety of factors, including location, experience and job-related skills.
-
-Base pay is part of a total compensation package that may include equity rewards, monthly stipends for health, wellness and tech spending, and benefits (including 100% subsidized medical coverage, dental and vision for you and your dependents.)
-
-USA base pay range (CA, WA, NY, NJ, CT) per year: $130,000 - $170,000
-USA base pay range (all other U.S. states) per year: $115,000 - $155,000
+The Quality Reputation team is dedicated to building exceptional customer-facing products that enhance trip quality and user reputation. We build systems that define and improve quality on Airbnb: collecting quality signals that elevate the best supply while protecting users through proactive intervention and enforcement. Our mission is to build delightful user products and intelligent capabilities that raise the supply quality on the Airbnb platform. The team is highly collaborative with its partners in design, product, data science, legal, and marketing to deliver features and experiences used by millions of people.
 
  
 
-#LI-Remote
+The Difference You Will Make:
 
-Affirm is proud to be a remote-first company! The majority of our roles are remote and you can work almost anywhere within the country of employment. Affirmers in proximal roles have the flexibility to work remotely, but will occasionally be required to work out of their assigned Affirm office. A limited number of roles remain office-based due to the nature of their job responsibilities.
+As a Software Engineer (New Grad) at Airbnb, you’ll play a vital role in building, supporting, and refining the products and systems that make Airbnb’s mission possible. Your work will directly contribute to high-quality, reliable experiences for our global community—whether you’re fixing bugs, launching well-defined features, or enhancing existing components. You'll also have the opportunity to contribute to AI-powered features, applying foundational knowledge of machine learning concepts and modern AI tools to build smarter, more personalized experiences for our hosts and guests. By clearly communicating challenges and collaborating with teammates across functions, you’ll help drive projects forward with transparency and trust.
 
-We’re extremely proud to offer competitive benefits that are anchored to our core value of people come first. Some key highlights of our benefits package include: 
+You’ll foster a sense of belonging by actively seeking feedback, sharing your own learnings, and supporting the onboarding of new team members. You’ll help uphold Airbnb’s commitment to excellence by following best practices, delivering tasks autonomously, and continually improving your technical skills. Your curiosity, empathy, and commitment to candid communication will empower you to make a meaningful impact—on projects, teammates, and Airbnb’s inclusive culture.
 
-Health care coverage - Affirm covers all premiums for all levels of coverage for you and your dependents 
-Flexible Spending Wallets - generous stipends for spending on Technology, Food, various Lifestyle needs, and family forming expenses
-Time off - competitive vacation and holiday schedules allowing you to take time off to rest and recharge
-ESPP - An employee stock purchase plan enabling you to buy shares of Affirm at a discount
-We believe It’s On Us to provide an inclusive interview experience for all, including people with disabilities. We are happy to provide reasonable accommodations to candidates in need of individualized support during the hiring process.
+ 
 
-[For U.S. positions that could be performed in Los Angeles or San Francisco] Pursuant to the San Francisco Fair Chance Ordinance and Los Angeles Fair Chance Initiative for Hiring Ordinance, Affirm will consider for employment qualified applicants with arrest and conviction records.
+A Typical Day: 
+
+Attend team syncs to discuss priorities, share progress, and surface any blockers with transparency.
+Dive into coding — fixing bugs, developing iOS features, or refining UI components —while applying best practices for code quality, error handling, and testability. Leverage AI-assisted development tools (e.g., Claude Code or similar) to accelerate your workflow and improve code quality.
+Participate in design or code reviews, ask clarifying questions, and apply feedback to improve your work. Work closely with cross-functional partners like product managers and designers to ensure your tasks align clearly with broader goals.
+Dedicate time to expanding your technical knowledge through documentation, mentorship, or internal knowledge-sharing sessions. This includes staying current on iOS platform developments or AI/ML topics relevant to your team's domain. Seek guidance from managers or tech leads when tackling unfamiliar problems.
+Contribute to team activities, such as onboarding new hires (e.g., being an onboarding buddy), sharing observations from the hiring process, or joining in cultural events focused on diversity, inclusion, and innovation.
+Share updates on your progress and next steps, highlighting challenges or learnings. 
+ 
+
+Your Expertise:
+
+This role is designed for recent graduates (Bachelor's or Master's) with less than 1 year of full-time professional experience who are ready to grow fast and make an impact.
+
+Strong foundation in Computer Science fundamentals — data structures, algorithms, design patterns, and systems thinking
+Proficiency in Swift, with exposure to SwiftUI or UIKit for building iOS applications
+Foundational understanding of iOS development concepts — including networking, caching, client storage, accessibility, and asynchronous programming
+Familiarity with REST APIs; exposure to GraphQL is a plus
+Bonus points for leadership experience, community involvement, or teaching/mentoring — we love engineers who invest in others
+ 
+
+Your Location:
+
+Preference for candidates based in San Francisco, California or Seattle, Washington with the ability to commute to the office three days per week. Additional in-person attendance for team meetings or offsites may be required as needed. Domestic Relocation support will be provided for candidates open to relocating.
+
+ 
+
+Our Commitment To Inclusion & Belonging:
+
+Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.
+
+We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodations@airbnb.com. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process. 
+
+We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application. 
+
+ 
+
+How We'll Take Care of You:
+
+Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.  
+
+Pay Range
+$128,000—$142,000 USD

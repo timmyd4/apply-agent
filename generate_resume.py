@@ -120,7 +120,7 @@ COVER_LETTER_TEMPLATE = r"""\documentclass[12pt]{{article}}
 
 \begin{{document}}
 
-\textbf{{Tim Williams}} \hfill timmywilliams4665@gmail.com
+\textbf{{Tim Williams}} \hfill timdwms.dev@gmail.com
 
 \vspace{{1em}}
 
