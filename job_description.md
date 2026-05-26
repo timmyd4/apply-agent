@@ -1,69 +1,80 @@
 ---
-company: Worldscape
-role: Junior_Game_Developer
+company: PACCAR
+role: Application_Software_Engineer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Location: Redmond
-About the job
-Worldscape is a cutting-edge platform designed to unify distributed data, sensors, and intelligent agents across cloud, on-prem, and edge environments. By combining geospatial intelligence, physics-based 3D simulation, and reward-driven AI, Worldscape enables organizations to build immersive digital twins for predictive modeling, scenario planning, and adaptive decision-making. With a zero-trust security framework, seamless integration with legacy systems, and robust developer tools, Worldscape empowers rapid deployment of agentic applications that drive resilience and efficiency in sectors like logistics, telecom, defense, and infrastructure.
+Date: May 4, 2026
 
-Worldscape is looking for a passionate and motivated Game Developer to join its expanding team. This role is ideal for someone early in their career who is eager to learn, contribute, and grow while working on interactive, high-quality game experiences built on modern engines and tools. We are at the forefront of AI decision making, working with the latest state-of-the-art distributed architecture and data management techniques, ensuring our platform can offer the right AI decision making for all our customers, from the individual app developer to large enterprise customers, and enable Agentic Integration across our AI fabric. 
+Location: Kirkland, WA, US, 98033
 
-As a Junior Game Developer, you will collaborate closely with senior engineers, designers, artists, and product partners to implement gameplay features, mechanics, and systems across the game stack. You will contribute to building reliable, performant code while developing your skills in game programming, debugging, and live collaboration within a fast-paced environment.
+Company: PACCAR
 
-This is an onsite role that will be located in Redmond, WA.
+Location: Kirkland, WA
 
-Responsibilities
+ 
 
- Implement gameplay features, mechanics, and systems under guidance from senior developers. 
- Assist in developing and maintaining core game logic, tools, and player-facing functionality. 
- Collaborate with designers and artists to translate creative ideas into working game features. 
- Debug and resolve gameplay, performance, and stability issues. 
- Participate in code reviews and incorporate feedback to improve code quality and maintainability. 
- Contribute to sprint planning, task estimation, and agile development workflows. 
- Write clear documentation for implemented features and systems. 
- Continuously learn and apply best practices in game development, performance optimization, and player experience. 
+About PACCAR
 
-Professional Qualifications
+PACCAR, Inc. is a Fortune 500 company established in 1905 and is recognized as a global leader in the commercial vehicle, financial, and customer service fields. PACCAR is a global technology leader in the design, manufacture, and customer support of high-quality light-, medium- and heavy-duty trucks under its internationally recognized brands Kenworth, Peterbilt and DAF nameplates. PACCAR designs and manufactures advanced diesel engines and provides customized financial services, information technology and truck parts related to its principal business.
 
- Bachelor’s degree (or equivalent practical experience) in Computer Science, Game Development, Software Engineering, or a related field. 
- 0–2 years of experience in game development, internships, academic projects, or personal/game jam projects. 
- Experience programming in C++, C#, or similar languages, ideally within a game engine environment (Unity, Unreal, or equivalent). 
- Basic understanding of game loops, gameplay mechanics, and real-time systems. 
- Familiarity with version control systems such as Git. 
- Ability to communicate clearly, ask questions, and collaborate effectively in a team environment. 
- Passion for games and a strong desire to grow as a game developer. 
+ 
 
-Preferred Qualifications
+About Global PACCAR Electronics
 
- Experience with Modern Game Engines through coursework, projects, or internships. 
- Exposure to areas such as physics, animation systems, UI implementation, or gameplay scripting. 
- Understanding of agile development practices and sprint-based delivery. 
- A portfolio, GitHub repository, or demo projects showcasing gameplay or technical contributions. 
+The Global PACCAR Electronics organization supports Kenworth, Peterbilt, and DAF by transforming how control systems and vehicle software are developed for commercial vehicle applications. GPE designs next‑generation vehicle controls, display systems, and autonomous technologies that raise the bar for customer productivity and safety.
 
-$90,000 - $120,000 a year
+Whether on highways, construction sites, urban centers, or forest roads, PACCAR trucks are recognized for exceptional quality and performance. PACCAR Electronics is central to these product identities—delivering innovations from advanced PTO functionality to intuitive, high‑value digital displays. Join us as we grow and deliver PACCAR’s future in connectivity, cybersecurity, electrification, and autonomous systems.
 
-Final compensation will be determined based on factors such as experience, skills, and qualifications. In addition to base salary, this role may be eligible for performance-based bonuses and equity awards.
+ 
 
-Why Worldscape?
+Position Summary
 
-There is nothing more important to Worldscape than our culture. It is the fundamental means by which we will succeed as an organization. Talent, ability, drive, experience, knowledge cannot be maximized without first embracing the culture we espouse and will live every single day.  Worldscape offers great benefits, opportunities for continued growth, and the ability to directly affect change in our organization and be part of a high-growth startup at a pivotal stage.
+PACCAR’s Embedded Engineering organization—supporting both Kenworth and Peterbilt—is seeking an Application Software Engineer to join a highly collaborative, fast-paced development environment. This role contributes to the design, development, validation, and release of embedded application software for next‑generation electronic control units (ECUs).The ideal candidate demonstrates strong technical fundamentals, learns quickly, and takes pride in delivering high-quality, production-ready software. You will support multiple vehicle programs, collaborate across disciplines, and help advance PACCAR’s global functional and system development processes.
 
-What We Offer
+ 
 
- Competitive salary and meaningful equity
- Attractive benefits package
- Flexible time off policy
- Medical, Dental and Vision insurance
- HSA health insurance options
- 401k plan
- Basic and Voluntary Life Insurance
- Fast paced environment with flexibility and ownership
+Key Responsibilities
 
-Worldscape is committed to creating a diverse and inclusive workplace and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, color, gender identity or expression, marital status, national origin, disability, protected veteran status, race, religion, pregnancy, sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.
+Maintain and enhance Jenkins CI/CD pipelines supporting multiple software baselines
+Manage Git and Azure DevOps repositories to support embedded software development and releases
+Integrate, execute, and maintain unit testing frameworks to ensure software quality and compliance
+Design, develop, and debug embedded application software using C++ and Microsoft Visual Studio in accordance with software architecture and design specifications
+Manage source control, versioning, and controlled software releases to meet schedule, budget, and functionality targets
+Plan, track, and support software validation, verification, and usability testing activities
+Analyze defects discovered during validation and testing, implement corrective software fixes, and support root cause analysis
+Lead and participate in technical and design reviews, ensuring adherence to industry best practices in embedded software development
+Collaborate with vehicle property owners, product developers, system architects, and software architects to develop and maintain software-level technical requirements
+Contribute to continuous improvement of development processes, tools, and standards to deliver high-quality, reliable software systems
+ 
 
-Employment is contingent upon successful completion of a background check.
+Qualifications & Skills
 
-We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+Required
+
+Bachelor’s degree in Software Engineering, Computer Science, Computer Engineering, or equivalent
+1–2 years of experience developing and releasing automotive, commercial vehicle, or embedded control software
+Proficiency in C++, Git, Java, Python, and embedded Linux
+Experience with software configuration management, build pipelines, and version control
+Familiarity with data structures, POSIX systems, and embedded software development principles
+Experience creating and maintaining technical documentation (e.g., software requirements specifications, engineering change notices)
+Strong problem-solving skills with the ability to learn and apply new tools, processes, and technologies
+Ability to work effectively in a cross-functional, team-based environment
+Preferred
+Experience with unit testing frameworks (e.g., Unity) and graphics technologies such as OpenGL
+Exposure to MATLAB/Simulink, logi.CAD, Rational Rhapsody, SVN, and requirements management tools
+Familiarity with Kanzi UX/UI development
+Knowledge of heavy-duty vehicle systems and applicable regulations
+Understanding of Design for Six Sigma / Six Sigma methodologies
+Experience supporting new product development and launch activities
+ 
+
+Additional Job Board Information
+
+At PACCAR, we value talent and promote growth and development. We carefully consider numerous compensation factors including your education, training, or experience. The salary range for this role is $ 77,700.00-$ 116,200.00 annually. This position is also eligible for a holiday gift. Additionally, this role is eligible for the full range of benefit options listed above.PACCAR promotes equal employment opportunities by implementing policies and practices that ensure employees and applicants are not discriminated against because of their race, color, religious creed, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, mental or physical disability, medical condition, genetic information, military or veteran status or other legally protected status. This applies to recruitment, selection, placement, promotion, termination, rates of pay, and other conditions of employment.
+
+
+Nearest Major Market: Seattle
+Nearest Secondary Market: Bellevue
+Job Segment: Test Engineer, Software Engineer, Embedded, Application Engineering, Six Sigma, Engineering, Technology, Management
