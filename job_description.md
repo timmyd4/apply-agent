@@ -1,51 +1,93 @@
 ---
-company: Starbucks
-role: Software_Engineer
+company: IBM
+role: Software_Development_Engineer_I
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Location: Seattle
-Now Brewing – Software Engineer! #tobeapartner 
+Location: Bellevue
+Introduction
+IBM Apptio is seeking a talented Software Engineer 1 to join our Data Platform team, a critical team that powers the data analytics and processing for Apptio's cost management solutions. The Compute Platform serves as the unified data warehouse layer, processing billions of records daily and supporting multiple product teams.
 
-From the beginning, Starbucks set out to be a different kind of company. One that not only celebrated coffee and the rich tradition, but that also brought a feeling of connection. We are known for developing extraordinary leaders who share this passion and are guided by their service to others. 
+ 
 
-As an Engineer, you’ll help deliver high-quality, reliable, and stable technologies and security capabilities that enable teams to build, release, and operate software with confidence. You’ll support critical engineering capabilities through installation, configuration, monitoring, analysis, maintenance, and technical support—while modeling Starbucks guiding principles. 
+Our team builds and maintains high-performance, scalable services that integrate with Snowflake, handling massive datasets for enterprise customers. You'll work on cutting-edge distributed systems, data processing pipelines, and automation frameworks that enable real-time analytics and reporting.
 
-As an Engineer, you will… 
+Your role and responsibilities
+Your Role and Responsibilities
+As a Software Engineer 1 on the Data Team, you will: 
 
-Enable fast, reliable delivery by supporting development teams, resolving developer issues, and engineering build and release processes. 
+   Develop and maintain microservices in Scala and Java
+   Build and optimize data pipelines processing terabytes of data daily using Spark
+   Write clean, well-tested code and participate in code reviews to ensure quality
+   Collaborate with senior engineers and product teams to deliver features and resolve production issues
+   Participate in Agile ceremonies and the on-call rotation for service reliability
+Required education
+Bachelor's Degree
+Required technical and professional expertise
+Education and Experience
+Bachelor's degree in Computer Science, Software Engineering, or related technical field
+1-2 years of professional software development experience
+Strong foundation in computer science fundamentals including data structures, algorithms, and object-oriented programming
+Programming Skills
 
-Strengthen reliability and observability by implementing service monitoring, deep telemetry, and high-availability operational support—automating solutions across the environment. 
+Proficiency in at least one JVM language (Java, Scala, or Kotlin)
+Experience with version control systems (Git) and collaborative development workflows
+Ability to write clean, maintainable code with proper error handling and logging
+Technical Knowledge
 
-Build secure and compliant foundations by implementing technologies aligned to information security principles, maintaining secure configurations/baselines, and upholding applicable policies and regulatory requirements. 
+Understanding of RESTful APIs
+Basic knowledge of SQL and relational databases
+Familiarity with build tools (Maven, Gradle) and dependency management
+Understanding of software testing principles and test-driven development
+Basic understanding of cloud computing concepts (AWS, Azure, or GCP)
+Soft Skills
 
-We’d love to hear from people with: 
+Strong problem-solving and analytical thinking abilities
+Excellent communication skills, both written and verbal
+Ability to work effectively in a team environment
+Eagerness to learn new technologies and take on challenges
+Self-motivated with good time management skills
+Comfortable asking questions and seeking help when needed
+Professional Attributes
 
-0–4 years of professional industry experience with software development 
+Attention to detail and commitment to code quality
+Ability to handle multiple tasks and prioritize effectively
+Willingness to participate in on-call rotation and handle production issues
+Strong work ethic and reliability
+Adaptability to changing requirements and technologies
+Preferred technical and professional experience
+Advanced Programming Experience
 
-Bachelor’s degree in Computer Science or related field 
+Professional experience with Scala programming language
+Knowledge of concurrent and asynchronous programming patterns
+Data Engineering
 
-Preferred qualifications  
+Experience with data warehouses (Snowflake, BigQuery, Redshift)
+Knowledge of data processing frameworks (Apache Spark, Hadoop)
+Understanding of columnar storage formats (Parquet, IceBerg)
+Experience with ETL/ELT pipelines and data transformation workflows
+Familiarity with data modeling and schema design
+Cloud and Infrastructure
 
-Systems & production operations: 1+ years in systems/network administration or systems engineering, plus hands-on production support (monitoring/telemetry, troubleshooting, incident response; 24x7/on-call a plus). 
+Hands-on experience with AWS services (S3, RDS, SQS, Lambda, Secrets Manager)
+Experience with Infrastructure-as-Code tools (Terraform, CloudFormation)
+Knowledge of containerization (Docker) and orchestration (Kubernetes)
+Experience with CI/CD pipelines (GitHub Actions, Jenkins, ArgoCD)
+Understanding of monitoring and observability tools (DataDog, Prometheus, Grafana)
+Database and Storage
 
-Automation & coding: 1+ years coding/scripting for automation in Python, Java, Go, or C/C++ (Ruby/Perl also welcome) with strong debugging skills. 
+Experience with PostgreSQL or other relational databases
+Knowledge of database optimization and query performance tuning
+Development Practices
 
-Cloud & delivery tooling: experience with AWS/Azure and exposure to CI/CD or build/release tooling and automation. 
+Experience with test frameworks (ScalaTest, JUnit, Mockito)
+Knowledge of design patterns and software architecture principles
+Understanding of microservices architecture and distributed systems
+Experience with API design and documentation (OpenAPI/Swagger)
+Familiarity with performance profiling and optimization techniques
+Tools and Technologies
 
-Core technical foundations: working knowledge of distributed systems, TCP/IP networking (DNS/routing), and databases/data stores (SQL/NoSQL). 
-
-As a Starbucks partner, you (and your family) will have access to medical, dental, vision, basic and supplemental life insurance, and other voluntary insurance benefits. Partners have access to short-term and long-term disability, paid parental leave, family expansion reimbursement, paid vacation from date of hire*, sick time (accrued at 1 hour for every 25 hours worked), eight paid holidays, and two personal days per year. Starbucks also offers eligible partners participation in a 401(k) retirement plan with employer match, a discounted company stock program (S.I.P.), Starbucks equity program (Bean Stock), incentivized emergency savings, and financial well-being tools. Additionally, Starbucks offers 100% upfront tuition coverage for a first-time bachelor’s degree through Arizona State University’s online program via the Starbucks College Achievement Plan, student loan management resources, and access to other educational opportunities. You will also have access to backup care and DACA reimbursement. Starbucks will comply with any applicable state and local laws regarding employee leave benefits, including, but not limited to providing time off pursuant to the Colorado Healthy Families and Workplaces Act, and in accordance with its plans and policies. This list is subject to change depending on collective bargaining in locations where partners have a certified bargaining representative. For additional information regarding partner perks and more detailed information about benefits, go to starbucksbenefits.com. 
-
-*If you are working in CA, CO, IL, LA, ME, MA, NE, ND or RI, you will accrue vacation up to a maximum of 120 hours (190 in CA) for roles below director and 200 hours (316 in CA) for roles at director or above. For roles in other states, you will be granted vacation time starting at 120 hours annually for roles below director and 200 hours annually for roles director and above. 
-
-The actual base pay offered to the successful candidate will be based on multiple factors, including but not limited to job-related knowledge/skills, experience, geographical location, and internal equity. At Starbucks, it is not typical for an individual to be hired at the high end of the range for their role, and compensation decisions are dependent upon the facts and circumstances of each position and candidate. 
-
-We believe we do our best work when we're together, which is why we're onsite four days a week. 
-
-Join us and inspire with every cup. Apply today! 
-
-Starbucks Coffee Company is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, disability, or protected veteran status, or any other characteristic protected by law. 
-
-Qualified applicants with criminal histories will be considered for employment in a manner consistent with all federal, state and local ordinances. Starbucks Coffee Company is committed to offering reasonable accommodations to job applicants with disabilities. If you need assistance or an accommodation due to a disability, please contact us at applicantaccommodation@starbucks.com or 1(888) 611-2258. 
+Experience with IntelliJ IDEA or similar IDEs
+Knowledge of Linux/Unix command line and shell scripting
+Familiarity with Postman or similar API testing tools
