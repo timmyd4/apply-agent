@@ -1,59 +1,51 @@
 ---
-company: CapGemini
+company: Starbucks
 role: Software_Engineer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Location: Bellevue
-Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.
+Location: Seattle
+Now Brewing – Software Engineer! #tobeapartner 
 
-Job Description
-Works in the area of Software Engineering, which encompasses the development, maintenance and optimization of software solutions/applications.
-1. Applies scientific methods to analyse and solve software engineering problems.
-2. He/she is responsible for the development and application of software engineering practice and knowledge, in research, design, development and maintenance.
-3. His/her work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.
-4. The software engineer builds skills and expertise of his/her software engineering discipline to reach standard software engineer skills expectations for the applicable role, as defined in Professional Communities.
-5. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
+From the beginning, Starbucks set out to be a different kind of company. One that not only celebrated coffee and the rich tradition, but that also brought a feeling of connection. We are known for developing extraordinary leaders who share this passion and are guided by their service to others. 
 
-Job Description - Grade Specific
-Has more than a year of relevant work experience. Solid understanding of programming concepts, software design and software development principles. Consistently works to direction with minimal supervision, producing accurate and reliable results. Individuals are expected to be able to work on a range of tasks and problems, demonstrating their ability to apply their skills and knowledge. Organises own time to deliver against tasks set by others with a mid term horizon. Works co-operatively with others to achieve team goals and has a direct and positive impact on project performance and make decisions based on their understanding of the situation, not just the rules.
-The base compensation range for this role in the posted location is: $53,580 - $122,400. 
+As an Engineer, you’ll help deliver high-quality, reliable, and stable technologies and security capabilities that enable teams to build, release, and operate software with confidence. You’ll support critical engineering capabilities through installation, configuration, monitoring, analysis, maintenance, and technical support—while modeling Starbucks guiding principles. 
 
-Capgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws. The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting. This range may be subject to change as permitted by law.
+As an Engineer, you will… 
 
-The actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction.
+Enable fast, reliable delivery by supporting development teams, resolving developer issues, and engineering build and release processes. 
 
-These may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity.
+Strengthen reliability and observability by implementing service monitoring, deep telemetry, and high-availability operational support—automating solutions across the environment. 
 
-It is not typical for candidates to be hired at or near the top of the posted compensation range.
+Build secure and compliant foundations by implementing technologies aligned to information security principles, maintaining secure configurations/baselines, and upholding applicable policies and regulatory requirements. 
 
-In addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws.
+We’d love to hear from people with: 
 
- 
+0–4 years of professional industry experience with software development 
 
-Capgemini offers a comprehensive, non-negotiable benefits package to all regular, full-time employees. In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include: 
+Bachelor’s degree in Computer Science or related field 
 
-Paid time off based on employee grade (A-F), defined by policy: Vacation: 12-25 days, depending on grade, Company paid holidays, Personal Days, Sick Leave
-Medical, dental, and vision coverage (or provincial healthcare coordination in Canada)
-Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)
-Life and disability insurance
-Employee assistance programs
-Other benefits as provided by local policy and eligibility
-Important Notice: Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini’s discretion, consistent with applicable laws. The Company reserves the right to amend or withdraw compensation programs at any time, within the limits of applicable legislation.
+Preferred qualifications  
 
- 
+Systems & production operations: 1+ years in systems/network administration or systems engineering, plus hands-on production support (monitoring/telemetry, troubleshooting, incident response; 24x7/on-call a plus). 
 
-Disclaimers
+Automation & coding: 1+ years coding/scripting for automation in Python, Java, Go, or C/C++ (Ruby/Perl also welcome) with strong debugging skills. 
 
-Capgemini is an Equal Opportunity Employer encouraging inclusion in the workplace. Capgemini also participates in the Partnership Accreditation in Indigenous Relations (PAIR) program which supports meaningful engagement with Indigenous communities across Canada by promoting fairness, accessibility, inclusion and respect.  We value the rich cultural heritage and contributions of Indigenous Peoples and actively work to create a welcoming and respectful environment. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.
+Cloud & delivery tooling: experience with AWS/Azure and exposure to CI/CD or build/release tooling and automation. 
 
-This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodation does not pose an undue hardship. Capgemini is committed to providing reasonable accommodation during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.
+Core technical foundations: working knowledge of distributed systems, TCP/IP networking (DNS/routing), and databases/data stores (SQL/NoSQL). 
 
-Please be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.
+As a Starbucks partner, you (and your family) will have access to medical, dental, vision, basic and supplemental life insurance, and other voluntary insurance benefits. Partners have access to short-term and long-term disability, paid parental leave, family expansion reimbursement, paid vacation from date of hire*, sick time (accrued at 1 hour for every 25 hours worked), eight paid holidays, and two personal days per year. Starbucks also offers eligible partners participation in a 401(k) retirement plan with employer match, a discounted company stock program (S.I.P.), Starbucks equity program (Bean Stock), incentivized emergency savings, and financial well-being tools. Additionally, Starbucks offers 100% upfront tuition coverage for a first-time bachelor’s degree through Arizona State University’s online program via the Starbucks College Achievement Plan, student loan management resources, and access to other educational opportunities. You will also have access to backup care and DACA reimbursement. Starbucks will comply with any applicable state and local laws regarding employee leave benefits, including, but not limited to providing time off pursuant to the Colorado Healthy Families and Workplaces Act, and in accordance with its plans and policies. This list is subject to change depending on collective bargaining in locations where partners have a certified bargaining representative. For additional information regarding partner perks and more detailed information about benefits, go to starbucksbenefits.com. 
 
-Click the following link for more information on your rights as an Applicant in the United States.  http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law
+*If you are working in CA, CO, IL, LA, ME, MA, NE, ND or RI, you will accrue vacation up to a maximum of 120 hours (190 in CA) for roles below director and 200 hours (316 in CA) for roles at director or above. For roles in other states, you will be granted vacation time starting at 120 hours annually for roles below director and 200 hours annually for roles director and above. 
 
- 
+The actual base pay offered to the successful candidate will be based on multiple factors, including but not limited to job-related knowledge/skills, experience, geographical location, and internal equity. At Starbucks, it is not typical for an individual to be hired at the high end of the range for their role, and compensation decisions are dependent upon the facts and circumstances of each position and candidate. 
 
-Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.
+We believe we do our best work when we're together, which is why we're onsite four days a week. 
+
+Join us and inspire with every cup. Apply today! 
+
+Starbucks Coffee Company is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, disability, or protected veteran status, or any other characteristic protected by law. 
+
+Qualified applicants with criminal histories will be considered for employment in a manner consistent with all federal, state and local ordinances. Starbucks Coffee Company is committed to offering reasonable accommodations to job applicants with disabilities. If you need assistance or an accommodation due to a disability, please contact us at applicantaccommodation@starbucks.com or 1(888) 611-2258. 
