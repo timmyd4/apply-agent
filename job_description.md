@@ -1,93 +1,69 @@
 ---
-company: IBM
-role: Software_Development_Engineer_I
+company: Worldscape
+role: Junior_Game_Developer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Location: Bellevue
-Introduction
-IBM Apptio is seeking a talented Software Engineer 1 to join our Data Platform team, a critical team that powers the data analytics and processing for Apptio's cost management solutions. The Compute Platform serves as the unified data warehouse layer, processing billions of records daily and supporting multiple product teams.
+Location: Redmond
+About the job
+Worldscape is a cutting-edge platform designed to unify distributed data, sensors, and intelligent agents across cloud, on-prem, and edge environments. By combining geospatial intelligence, physics-based 3D simulation, and reward-driven AI, Worldscape enables organizations to build immersive digital twins for predictive modeling, scenario planning, and adaptive decision-making. With a zero-trust security framework, seamless integration with legacy systems, and robust developer tools, Worldscape empowers rapid deployment of agentic applications that drive resilience and efficiency in sectors like logistics, telecom, defense, and infrastructure.
 
- 
+Worldscape is looking for a passionate and motivated Game Developer to join its expanding team. This role is ideal for someone early in their career who is eager to learn, contribute, and grow while working on interactive, high-quality game experiences built on modern engines and tools. We are at the forefront of AI decision making, working with the latest state-of-the-art distributed architecture and data management techniques, ensuring our platform can offer the right AI decision making for all our customers, from the individual app developer to large enterprise customers, and enable Agentic Integration across our AI fabric. 
 
-Our team builds and maintains high-performance, scalable services that integrate with Snowflake, handling massive datasets for enterprise customers. You'll work on cutting-edge distributed systems, data processing pipelines, and automation frameworks that enable real-time analytics and reporting.
+As a Junior Game Developer, you will collaborate closely with senior engineers, designers, artists, and product partners to implement gameplay features, mechanics, and systems across the game stack. You will contribute to building reliable, performant code while developing your skills in game programming, debugging, and live collaboration within a fast-paced environment.
 
-Your role and responsibilities
-Your Role and Responsibilities
-As a Software Engineer 1 on the Data Team, you will: 
+This is an onsite role that will be located in Redmond, WA.
 
-   Develop and maintain microservices in Scala and Java
-   Build and optimize data pipelines processing terabytes of data daily using Spark
-   Write clean, well-tested code and participate in code reviews to ensure quality
-   Collaborate with senior engineers and product teams to deliver features and resolve production issues
-   Participate in Agile ceremonies and the on-call rotation for service reliability
-Required education
-Bachelor's Degree
-Required technical and professional expertise
-Education and Experience
-Bachelor's degree in Computer Science, Software Engineering, or related technical field
-1-2 years of professional software development experience
-Strong foundation in computer science fundamentals including data structures, algorithms, and object-oriented programming
-Programming Skills
+Responsibilities
 
-Proficiency in at least one JVM language (Java, Scala, or Kotlin)
-Experience with version control systems (Git) and collaborative development workflows
-Ability to write clean, maintainable code with proper error handling and logging
-Technical Knowledge
+ Implement gameplay features, mechanics, and systems under guidance from senior developers. 
+ Assist in developing and maintaining core game logic, tools, and player-facing functionality. 
+ Collaborate with designers and artists to translate creative ideas into working game features. 
+ Debug and resolve gameplay, performance, and stability issues. 
+ Participate in code reviews and incorporate feedback to improve code quality and maintainability. 
+ Contribute to sprint planning, task estimation, and agile development workflows. 
+ Write clear documentation for implemented features and systems. 
+ Continuously learn and apply best practices in game development, performance optimization, and player experience. 
 
-Understanding of RESTful APIs
-Basic knowledge of SQL and relational databases
-Familiarity with build tools (Maven, Gradle) and dependency management
-Understanding of software testing principles and test-driven development
-Basic understanding of cloud computing concepts (AWS, Azure, or GCP)
-Soft Skills
+Professional Qualifications
 
-Strong problem-solving and analytical thinking abilities
-Excellent communication skills, both written and verbal
-Ability to work effectively in a team environment
-Eagerness to learn new technologies and take on challenges
-Self-motivated with good time management skills
-Comfortable asking questions and seeking help when needed
-Professional Attributes
+ Bachelor’s degree (or equivalent practical experience) in Computer Science, Game Development, Software Engineering, or a related field. 
+ 0–2 years of experience in game development, internships, academic projects, or personal/game jam projects. 
+ Experience programming in C++, C#, or similar languages, ideally within a game engine environment (Unity, Unreal, or equivalent). 
+ Basic understanding of game loops, gameplay mechanics, and real-time systems. 
+ Familiarity with version control systems such as Git. 
+ Ability to communicate clearly, ask questions, and collaborate effectively in a team environment. 
+ Passion for games and a strong desire to grow as a game developer. 
 
-Attention to detail and commitment to code quality
-Ability to handle multiple tasks and prioritize effectively
-Willingness to participate in on-call rotation and handle production issues
-Strong work ethic and reliability
-Adaptability to changing requirements and technologies
-Preferred technical and professional experience
-Advanced Programming Experience
+Preferred Qualifications
 
-Professional experience with Scala programming language
-Knowledge of concurrent and asynchronous programming patterns
-Data Engineering
+ Experience with Modern Game Engines through coursework, projects, or internships. 
+ Exposure to areas such as physics, animation systems, UI implementation, or gameplay scripting. 
+ Understanding of agile development practices and sprint-based delivery. 
+ A portfolio, GitHub repository, or demo projects showcasing gameplay or technical contributions. 
 
-Experience with data warehouses (Snowflake, BigQuery, Redshift)
-Knowledge of data processing frameworks (Apache Spark, Hadoop)
-Understanding of columnar storage formats (Parquet, IceBerg)
-Experience with ETL/ELT pipelines and data transformation workflows
-Familiarity with data modeling and schema design
-Cloud and Infrastructure
+$90,000 - $120,000 a year
 
-Hands-on experience with AWS services (S3, RDS, SQS, Lambda, Secrets Manager)
-Experience with Infrastructure-as-Code tools (Terraform, CloudFormation)
-Knowledge of containerization (Docker) and orchestration (Kubernetes)
-Experience with CI/CD pipelines (GitHub Actions, Jenkins, ArgoCD)
-Understanding of monitoring and observability tools (DataDog, Prometheus, Grafana)
-Database and Storage
+Final compensation will be determined based on factors such as experience, skills, and qualifications. In addition to base salary, this role may be eligible for performance-based bonuses and equity awards.
 
-Experience with PostgreSQL or other relational databases
-Knowledge of database optimization and query performance tuning
-Development Practices
+Why Worldscape?
 
-Experience with test frameworks (ScalaTest, JUnit, Mockito)
-Knowledge of design patterns and software architecture principles
-Understanding of microservices architecture and distributed systems
-Experience with API design and documentation (OpenAPI/Swagger)
-Familiarity with performance profiling and optimization techniques
-Tools and Technologies
+There is nothing more important to Worldscape than our culture. It is the fundamental means by which we will succeed as an organization. Talent, ability, drive, experience, knowledge cannot be maximized without first embracing the culture we espouse and will live every single day.  Worldscape offers great benefits, opportunities for continued growth, and the ability to directly affect change in our organization and be part of a high-growth startup at a pivotal stage.
 
-Experience with IntelliJ IDEA or similar IDEs
-Knowledge of Linux/Unix command line and shell scripting
-Familiarity with Postman or similar API testing tools
+What We Offer
+
+ Competitive salary and meaningful equity
+ Attractive benefits package
+ Flexible time off policy
+ Medical, Dental and Vision insurance
+ HSA health insurance options
+ 401k plan
+ Basic and Voluntary Life Insurance
+ Fast paced environment with flexibility and ownership
+
+Worldscape is committed to creating a diverse and inclusive workplace and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, color, gender identity or expression, marital status, national origin, disability, protected veteran status, race, religion, pregnancy, sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.
+
+Employment is contingent upon successful completion of a background check.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
