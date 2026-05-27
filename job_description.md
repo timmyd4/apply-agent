@@ -1,80 +1,102 @@
 ---
-company: PACCAR
-role: Application_Software_Engineer
+company: Boeing
+role: Software_Developer_Associate
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Date: May 4, 2026
+Location: Kent
+Job Description
 
-Location: Kirkland, WA, US, 98033
+At Boeing, we innovate and collaborate to make the world a better place. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
 
-Company: PACCAR
+Boeing SIWS Daybreak is hiring a hands-on engineer to develop and operate mission‑critical infrastructure and automated delivery for our software platform in Kent, WA. This role is responsible for designing, implementing, and maintaining repeatable, secure, and observable environments that support our production mission. You will write and test code that provisions infrastructure, pipelines, and deployment artifacts — be directly accountable for their reliability in production — and empower teams by delivering tooling as a service.
 
-Location: Kirkland, WA
+Core responsibilities
 
- 
+Design, implement, and maintain Infrastructure as Code using Terraform, CloudFormation, or CDK to provision AWS accounts, VPCs, networking, IAM, and other cloud resources in a repeatable and auditable manner. Supports the design, development, test, and maintenance of non-embedded software throughout the end-to-end lifecycle that meets industry, customer, safety, and regulation standards.
+Build, operate, and harden CI/CD pipelines to deploy services and serverless functions into development, staging, and production environments with automated testing and policy enforcement. Assists with review, analysis and translation of customer requirements into initial design of software products.
+Containerize applications using Docker and author/maintain Helm charts (or equivalent packaging) for reproducible deployments. Supports development, maintenance, enhancement and optimization of software products and functionalities for systems integrations.
+Implement environment bootstrapping and teardown automation so teams can create consistent, short‑lived test and integration environments. Supports development, documentation and maintenance of architectures, requirements, algorithms, interfaces and designs for software products.
+Deliver and operate internal developer-facing platforms and tooling as a service (TaaS): self-service infrastructure, deployment, observability, and security controls that let product teams move faster with confidence. Participates in handling user inquiries, troubleshooting technical issues and user feedback analysis.
+Define, collect, and improve delivery and reliability metrics (DORA metrics: lead time, deployment frequency, MTTR, change failure rate) and other KPIs; translate metrics into actionable improvements. Supports development, establishment, monitoring and improvement of software processes, tools and key performance metrics that align projects with organizational goals and industry benchmarks.
+Integrate security and compliance controls into the delivery pipeline and infrastructure (SAST/SCA/DAST, secrets management, IAM policies, auditing). Supports implementation of current and emerging technologies, tools, frameworks and changes in regulations relevant to software development.
+Operate and troubleshoot mission‑critical runtime and deployment issues; perform root cause analysis and implement preventive measures. Supports debugging and resolution of issues identified to ensure the reliability and efficiency of software products.
+Provide developer-facing support, documentation, training, and graduated access to the TaaS platform to enable teams to build, deliver, and operate systems confidently. Supports execution and documentation of software research and development projects.
+Engage directly with end users and stakeholders: gather feedback, present solutions to customers, and iterate on platform features based on real-world usage and needs. Assists with performing software project management activities and software supplier management functions.
+Evaluate and adopt tools, practices, and automation patterns that improve availability, resilience, security, and maintainability of production systems. Supports tracking and evaluation of software team and supplier performance to ensure product and process compliance to project plans and industry standards.
+What success looks like
 
-About PACCAR
+Mission‑critical systems provisioned and deployed reliably through automated pipelines and self-service platforms.
+Repeatable and auditable infrastructure lifecycle managed via code and version control.
+Measurable improvement in delivery performance and system reliability using DORA metrics.
+Security and compliance checks integrated into CI/CD and infrastructure automation.
+Clear documentation, and reduced time-to-resolution for production incidents.
+Product teams empowered to self-serve environments and deployments with measurable reductions in lead time and operational friction.
+Positive feedback from internal users and customers driven by TaaS improvements and direct engagement.
+Required qualifications
 
-PACCAR, Inc. is a Fortune 500 company established in 1905 and is recognized as a global leader in the commercial vehicle, financial, and customer service fields. PACCAR is a global technology leader in the design, manufacture, and customer support of high-quality light-, medium- and heavy-duty trucks under its internationally recognized brands Kenworth, Peterbilt and DAF nameplates. PACCAR designs and manufactures advanced diesel engines and provides customized financial services, information technology and truck parts related to its principal business.
+Bachelor’s Degree
+This role requires an Active U.S. Top Secret with SCI Clearance eligibility
+1+ years software development experience
+1+ years hands-on experience with cloud infrastructure (AWS or equivalent).
+1+ years practical experience with containerization.
+Familiarity with Infrastructure as Code concepts and at least introductory experience with tools like Terraform, CloudFormation, or CDK
+Basic experience with CI/CD systems
+Preferred qualifications
 
- 
+Bachelor of Science degree from an accredited course of study in engineering, engineering technology (includes manufacturing engineering technology), chemistry, physics, mathematics, data science, or computer science and 2+ years of related work experience OR Bachelor’s Degree and 6+ years of directly related work experience OR 10+ years of related, relevant experience
+Level 3: 5 or more years' related work experience or an equivalent combination of education and experience
+Experience with serverless or container orchestration
+Familiarity with observability and monitoring tools
+Prior exposure to regulated, safety-critical, or aerospace environments. teams.
+Understanding of delivery and reliability metrics (DORA or equivalent) and a desire to instrument and improve them.
+Good troubleshooting and incident response mindset for production systems.
+Clear communication skills and willingness to support teams and present to stakeholders and customers.
+Travel:  10%
 
-About Global PACCAR Electronics
+Union: Yes
 
-The Global PACCAR Electronics organization supports Kenworth, Peterbilt, and DAF by transforming how control systems and vehicle software are developed for commercial vehicle applications. GPE designs next‑generation vehicle controls, display systems, and autonomous technologies that raise the bar for customer productivity and safety.
+Drug Free Workplace:Boeing is a Drug Free Workplace (DFW) where post-offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
 
-Whether on highways, construction sites, urban centers, or forest roads, PACCAR trucks are recognized for exceptional quality and performance. PACCAR Electronics is central to these product identities—delivering innovations from advanced PTO functionality to intuitive, high‑value digital displays. Join us as we grow and deliver PACCAR’s future in connectivity, cybersecurity, electrification, and autonomous systems.
+CodeVue Coding Challenge:To be considered for this position you will be required to complete a technical assessment as part of the selection process.  Failure to complete the assessment will remove you from consideration.
 
- 
+Pay & Benefits: At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent.  Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.  The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.  The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.
 
-Position Summary
+Pay is based upon candidate experience and qualifications, as well as market and business considerations.  
 
-PACCAR’s Embedded Engineering organization—supporting both Kenworth and Peterbilt—is seeking an Application Software Engineer to join a highly collaborative, fast-paced development environment. This role contributes to the design, development, validation, and release of embedded application software for next‑generation electronic control units (ECUs).The ideal candidate demonstrates strong technical fundamentals, learns quickly, and takes pride in delivering high-quality, production-ready software. You will support multiple vehicle programs, collaborate across disciplines, and help advance PACCAR’s global functional and system development processes.
+Summary Pay Range/Experienced:
 
- 
+Associate: $112,500 - $137,500  
 
-Key Responsibilities
+Experienced: $143,100 - $174,900
 
-Maintain and enhance Jenkins CI/CD pipelines supporting multiple software baselines
-Manage Git and Azure DevOps repositories to support embedded software development and releases
-Integrate, execute, and maintain unit testing frameworks to ensure software quality and compliance
-Design, develop, and debug embedded application software using C++ and Microsoft Visual Studio in accordance with software architecture and design specifications
-Manage source control, versioning, and controlled software releases to meet schedule, budget, and functionality targets
-Plan, track, and support software validation, verification, and usability testing activities
-Analyze defects discovered during validation and testing, implement corrective software fixes, and support root cause analysis
-Lead and participate in technical and design reviews, ensuring adherence to industry best practices in embedded software development
-Collaborate with vehicle property owners, product developers, system architects, and software architects to develop and maintain software-level technical requirements
-Contribute to continuous improvement of development processes, tools, and standards to deliver high-quality, reliable software systems
- 
+Applications for this position will be accepted until Jun. 10, 2026
 
-Qualifications & Skills
+Export Control Requirements:
 
-Required
+This position must meet U.S. export control compliance requirements. To meet U.S. export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.62 is required. “U.S. Person” includes U.S. Citizen, U.S. National, lawful permanent resident, refugee, or asylee.
 
-Bachelor’s degree in Software Engineering, Computer Science, Computer Engineering, or equivalent
-1–2 years of experience developing and releasing automotive, commercial vehicle, or embedded control software
-Proficiency in C++, Git, Java, Python, and embedded Linux
-Experience with software configuration management, build pipelines, and version control
-Familiarity with data structures, POSIX systems, and embedded software development principles
-Experience creating and maintaining technical documentation (e.g., software requirements specifications, engineering change notices)
-Strong problem-solving skills with the ability to learn and apply new tools, processes, and technologies
-Ability to work effectively in a cross-functional, team-based environment
-Preferred
-Experience with unit testing frameworks (e.g., Unity) and graphics technologies such as OpenGL
-Exposure to MATLAB/Simulink, logi.CAD, Rational Rhapsody, SVN, and requirements management tools
-Familiarity with Kanzi UX/UI development
-Knowledge of heavy-duty vehicle systems and applicable regulations
-Understanding of Design for Six Sigma / Six Sigma methodologies
-Experience supporting new product development and launch activities
- 
+Export Control Details:
 
-Additional Job Board Information
+US based job, US Person required
 
-At PACCAR, we value talent and promote growth and development. We carefully consider numerous compensation factors including your education, training, or experience. The salary range for this role is $ 77,700.00-$ 116,200.00 annually. This position is also eligible for a holiday gift. Additionally, this role is eligible for the full range of benefit options listed above.PACCAR promotes equal employment opportunities by implementing policies and practices that ensure employees and applicants are not discriminated against because of their race, color, religious creed, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, mental or physical disability, medical condition, genetic information, military or veteran status or other legally protected status. This applies to recruitment, selection, placement, promotion, termination, rates of pay, and other conditions of employment.
+Relocation
 
+Relocation assistance is not a negotiable benefit for this position.
 
-Nearest Major Market: Seattle
-Nearest Secondary Market: Bellevue
-Job Segment: Test Engineer, Software Engineer, Embedded, Application Engineering, Six Sigma, Engineering, Technology, Management
+Security Clearance
+
+This position requires an active U.S. Top Secret Security Clearance (U.S. Citizenship Required). (A U.S. Security Clearance that has been active in the past 24 months is considered active)
+
+Visa Sponsorship
+
+Employer will not sponsor applicants for employment visa status.
+
+Shift
+
+This position is for 1st shift
+
+Equal Opportunity Employer:
+
+Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.
