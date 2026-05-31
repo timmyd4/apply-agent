@@ -1,60 +1,89 @@
 ---
-company: Truveta
-role: Software_Engineer
+company: TikTok
+role: Software_Engineer_Intern
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
 Location: Seattle
-Software Engineer - Core Platform Services
+Responsibilities
 
-Truveta is the world’s first health provider led data platform with a vision of Saving Lives with Data. Our mission is to enable researchers to find cures faster, empower every clinician to be an expert, and help families make the most informed decisions about their care. Achieving Truveta’ s ambitious vision requires an incredible team of talented and inspired people with a special combination of health, software and big data experience who share our company values.
+The TikTok Data Ecosystem Team has the vital role of crafting and implementing a storage solution for offline data in TikTok's recommendation system, which caters to more than a billion users. Their primary objectives are to guarantee system reliability, uninterrupted service, and seamless performance. They aim to create a storage and computing infrastructure that can adapt to various data sources within the recommendation system, accommodating diverse storage needs. Their ultimate goal is to deliver efficient, affordable data storage with easy-to-use data management tools for the recommendation, search, and advertising functions.
 
-This position is based out of our headquarters in the Greater Seattle area.  #LI-hybrid
+We are looking for talented individuals to join us for an internship in 2026. Internships at TikTok aim to offer students industry exposure and hands-on experience. Turn your ambitions into reality as your inspiration brings infinite opportunities at TikTok.
 
-Who We Need 
+Internships at TikTok aim to provide students with hands-on experience in developing fundamental skills and exploring potential career paths. A vibrant blend of social events and enriching development workshops will be available for you to explore. Here, you will utilize your knowledge in real-world scenarios while laying a strong foundation for personal and professional growth. It runs for 12 weeks.
 
-Truveta is rapidly building a talented and diverse team to tackle complex health and technical challenges. Beyond core capabilities, we are seeking problem solvers, passionate and collaborative teammates, and those willing to roll up their sleeves while making a difference. If you are interested in the opportunity to pursue purposeful work, join a mission-driven team, and build a rewarding career while having fun, Truveta may be the perfect fit for you. 
+Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis. We encourage you to apply as early as possible. Please state your availability clearly in your resume (Start date, End date).
 
-This Opportunity 
+Summer Start Dates:
+- May 11th, 2026
+- May 18th, 2026
+- May 26th, 2026
+- June 8th, 2026
+- June 22nd, 2026
 
-Patients, doctors, and medical researchers deserve the same cutting-edge technological innovations that have transformed other industries. We're on the lookout for passionate software engineers who are eager to apply their skills to revolutionize healthcare. If you're excited by the challenge of using technology to improve lives and drive real change, we’d love to have you join our team.  
+Responsibilities
+1. Design and implement real-time and offline data architecture for large-scale recommendation systems.
+2. Build scalable and high-performance streaming Lakehouse systems that power feature pipelines, model training, and real-time inference.
+3. Collaborate with ML platform teams to support PyTorch-based model training workflows and design efficient data formats and access patterns for large-scale samples and features.
+4. Own core components of our distributed storage and processing stack, from file format to stream compaction to metadata management.
 
-At Truveta, you’ll work on impactful projects in a dynamic startup environment, solving computing challenges that directly improve lives. This entry-level role offers mentorship, professional growth, and the chance to contribute to cutting-edge healthcare technology.
+Qualifications
 
-We are seeking a Software Engineer who: 
+Minimum Qualifications:
+• Currently pursuing an Undergraduate/Master in Computer Science or a related technical discipline
+• Able to commit to working for 12 weeks during Summer 2026
+• Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment.
+• Familiarity with modern Lakehouse technologies such as Apache Paimon, Iceberg, Delta Lake, or Hudi, especially around incremental ingestion, schema evolution, and snapshot isolation.
 
-Has proven experience building reliable, secure and scalable software solutions using modern cloud-based paradigms  
-Is a quick learner who knows how to iterate and evolve a distributed software solution while carefully balancing the needs of privacy, security and reliability against a changing product landscape  
-Has knowledge and experience in using and designing distributed systems, data pipelines, and APIs  
-Will adhere to Truveta principles in support of ethical innovation 
-Willingness to commit to ongoing training on key topics like privacy, ethics, and security   
-Key Qualifications
 
-3+ years of experience building production quality software in a team setting; experience working as part of distributed teams is a plus 
-Experience building cloud services in languages like C#, Python, or Java 
-Experience building systems for IaC and MLOps , running ML models in Production. 
-Building and supporting Kubernetes-hosted services across multiple-tenants. 
-3+ years of experience working on modern cloud-native platforms (AWS, GCP, Azure); InfraOps or DevOps experience a plus
-B.S. or M.S. in Computer Science or related field
-Prior work with Big Data technologies is a plus 
-Why Truveta?
+Preferred Qualifications
+• Experience in designing and optimizing Flink + Paimon architectures for unified batch/stream processing.
+• Familiarity with feature storage and training data pipelines, and their integration with PyTorch, especially for large-scale model training.
+• Knowledge of columnar file formats (Parquet, ORC, Lance) and how they are used in feature engineering or ML data loading.
+• Proficiency in Java/Scala/C++, and strong debugging/performance tuning ability.
+• Previous experience in Lakehouse metadata management, compaction scheduling, or data versioning is a plus.
+• Solid understanding of Apache Flink internals, with hands-on experience in state management, connectors, or UDFs.
 
-Be a part of building something special. Now is the perfect time to join Truveta. We have strong, established leadership with decades of success. We are well-funded. We are building a culture that prioritizes people and their passions across personal, professional, and everything in between. Join us as we build an amazing company together.
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy
 
-We Offer:
+Job Information
 
-Interesting and meaningful work for every career stage
-Great benefits package
-Comprehensive benefits with strong medical, dental and vision insurance plans
-401K plan
-Professional development & training opportunities for continuous learning
-Work/life autonomy via flexible work hours and flexible paid time off
-Generous parental leave
-Regular team activities (virtual and in-person)
-The base pay for this position is $110,000 to $145,000. The pay range reflects the minimum and maximum target. Pay is based on several factors including location and may vary depending on job-related knowledge, skills, and experience. Certain roles are eligible for additional compensation such as incentive pay and stock options.
-If you are based in California, we encourage you to read this important information for California residents linked here.
+【For Pay Transparency】Compensation Description (Hourly) - Campus Intern
 
-Truveta is committed to creating a diverse, inclusive, and empowering workplace. We believe that having employees, interns, and contractors with diverse backgrounds enables Truveta to better meet our mission and serve patients and health communities around the world. We recognize that opportunities in technology historically excluded and continue to disproportionately exclude Black and Indigenous people, people of color, people from working class backgrounds, people with disabilities, and LGBTQIA+ people. We strongly encourage individuals with these identities to apply even if you don’t meet all of the requirements.
+The hourly rate range for this position in the selected city is $42.75- $42.75. ​
 
-Please note that all applicants must be authorized to work in the United States for any employer as we are unable to sponsor work visas or permits (e.g. F-1 OPT, H1-B) at this time. We appreciate your interest in the position and encourage you to explore future opportunities with us.
+Benefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance, wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second half of year). Interns who are not working 100% remote may also be eligible for housing allowance.​
+
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.​
+
+For Los Angeles County (unincorporated) Candidates:​
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​
+
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​
+
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​
+
+3. Exercising sound judgment.​
+
+About TikTok
+
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.​
+
+Why Join Us
+
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.​
+
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
+
+​
+
+Diversity & Inclusion​
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
+
+TikTok Accommodation
+
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request
