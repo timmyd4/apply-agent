@@ -1,5 +1,5 @@
-%% Tim Williams — Master Resume
-%% Compile with: pdflatex master_resume.tex
+%% Tim Williams — GrandMaster Resume
+%% Compile with: pdflatex Tim_Williams_GrandMaster-Resume.tex
 
 \documentclass[10pt, letterpaper]{article}
 
@@ -89,11 +89,11 @@
 \begin{center}
   {\huge\bfseries\color{navy} Tim Williams}\\[4pt]
   {\small\color{light}
-    Fife, WA
-    ~\textbullet~
-    \href{https://linkedin.com/in/timothy-williams-hire}{linkedin.com/in/timothy-williams-hire}
+    \href{mailto:timdwms.dev@gmail.com}{timdwms.dev@gmail.com}
     ~\textbullet~
     \href{https://github.com/timmyd4}{github.com/timmyd4}
+    ~\textbullet~
+    \href{https://www.linkedin.com/in/timothy-williams-hire}{linkedin.com/in/timothy-williams-hire}
     ~\textbullet~
     \href{https://timyd.itch.io/dodgy}{timyd.itch.io/dodgy}
   }
@@ -105,101 +105,125 @@
 \section{Technical Skills}
 
 \begin{tabular}{@{}p{1.6in} p{5.2in}@{}}
-  \skillrow{Languages}{Java (Advanced),\ \ JavaScript (Proficient),\ \ Python (Proficient),\ \ C\# (Proficient),\ \ SQL (Basic),\ \ HTML (Advanced),\ \ CSS (Proficient)}
-  \skillrow{Frameworks \& Libs}{React,\ \ Next.js,\ \ Express.js,\ \ JUnit,\ \ Maven,\ \ TkinterBootstrap}
-  \skillrow{Tools \& Platforms}{Docker,\ \ Firebase,\ \ Git/GitHub,\ \ WSL/Ubuntu,\ \ Visual Studio Code,\ \ Blender,\ \ Unity}
+  \skillrow{Languages}{Java,\ \ Python,\ \ C\#,\ \ JavaScript,\ \ TypeScript,\ \ SQL,\ \ HTML,\ \ CSS}
+  \skillrow{Frameworks \& Libs}{Express.js,\ \ React,\ \ Next.js,\ \ JUnit,\ \ Maven}
+  \skillrow{Tools \& Platforms}{Docker,\ \ Git/GitHub,\ \ WSL/Ubuntu,\ \ Visual Studio Code,\ \ Unity,\ \ Blender}
+  \skillrow{Certifications}{AI-900 (Microsoft Azure AI Fundamental Training)}
 \end{tabular}
 
 % ── EXPERIENCE ────────────────────────────────────────────────────────────────
 \section{Experience}
 
+\jobhead{Software Intern}{EvoSports}{Remote}{Mar 2025 – Present}
+\begin{itemize}
+  \item Diagnosed and resolved a multi-layer filtering bug where query parameters were silently dropped across validation, type handling, and schema layers — restoring correct data results for users
+  \item Implemented a user engagement tracking feature with built-in deduplication logic, handling both authenticated and anonymous users to ensure accurate data collection
+  \item Identified and fixed a silent backend bug caused by field name casing mismatches, restoring a broken data feed that had been returning empty results undetected
+  \item Extended frontend navigation to surface a creator-facing tool for logged-in users with active channels, improving workflow access without disrupting existing navigation paths
+\end{itemize}
+
 \jobhead{Software Intern}{Code-Day}{Remote}{Feb 2025 – Mar 2025}
 \begin{itemize}
-  \item Developed and implemented new unit and integration test cases following established project conventions, improving code coverage
-  \item Researched and analyzed project architecture, dependencies, and tooling to understand the full tech stack before contributing
-  \item Collaborated with student teams on an active GitHub repository, submitting pull requests and participating in code review
+  \item Implemented unit and integration test cases, improving code coverage and product reliability
+  \item Analyzed project architecture and dependencies to inform design and maintainability
+  \item Collaborated on a GitHub repository with pull requests, active code review, and version control
 \end{itemize}
 
 \jobhead{Software Intern}{Vantage Radiology}{Federal Way, WA}{Jan 2024 – Jan 2025}
 \begin{itemize}
-  \item Assisted with gathering user requirements and implementing software features for internal healthcare applications
-  \item Completed per-request UI updates to improve efficiency and meet deadlines, resulting in higher user satisfaction
-  \item Worked within a legacy codebase (Pascal, dBase, Delphi), demonstrating ability to ramp up on unfamiliar technologies
+  \item Collaborated with teammates and internal users to gather requirements and deliver software features for internal healthcare apps
+  \item Delivered UI updates, improving user efficiency and satisfaction in a production environment
+  \item Adapted to unfamiliar legacy technologies (Pascal, dBase, Delphi) to support existing systems
 \end{itemize}
 
 \jobhead{Air Export Warehouse Agent}{Expeditors International of WA}{Kent, WA}{July 2021 – Apr 2023}
 \begin{itemize}
-  \item Managed high-value international air shipments under strict TSA regulations
-  \item Maintained client communication and ensured on-time delivery of freight exceeding \$100,000 in value
-  \item Operated heavy equipment and coordinated logistics across international supply chains
+  \item Managed high-value international shipments under strict regulations, ensuring compliance and reliability
+  \item Coordinated logistics for critical freight exceeding \$100K in value, ensuring on-time delivery
+  \item Operated equipment and coordinated logistics, demonstrating attention to operational detail
 \end{itemize}
 
 % ── PROJECTS ──────────────────────────────────────────────────────────────────
 \section{Projects}
 
-\projhead{Centroid-Finder}{https://github.com/xavierb117/centroid-finder}{Java, JavaScript, React, Next.js, Express.js, Docker, Firebase, JUnit, Maven}
+\projhead{Truffula}{https://github.com/timmyd4/truffula}{Java, JUnit}
 \begin{itemize}
-  \item Built a full-stack photo/video processing system using Java, FFmpeg, and JavaCV for real-time color-based detection and analysis
-  \item Developed a Dockerized React/Next.js front-end with an Express.js API to visualize and manage image processing in real time
-  \item Contributed to a client's private GitHub repository through a capstone course (NDA signed); utilized Firebase and WSL/Ubuntu
-\end{itemize}
-
-\projhead{Screw-Tape}{https://github.com/timmyd4/screwtape}{Java, JUnit}
-\begin{itemize}
-  \item Designed and built a Java-based compiler to interpret a minimal, symbol-driven programming language from scratch
-  \item Applied comprehensive JUnit testing to validate instruction handling, accuracy, and reliable program behavior
-\end{itemize}
-
-\projhead{Dodgy}{https://timyd.itch.io/dodgy}{C\#, Unity, Blender}
-\begin{itemize}
-  \item Developed an endless-runner game inspired by Temple Run and Subway Surfers, featuring obstacle avoidance and score tracking
-  \item Modeled and animated custom 3D assets in Blender, integrated them into Unity, and implemented gameplay logic in C\#
-\end{itemize}
-
-\projhead{Spend-Wiser}{https://github.com/JesseChum/w26-sdev372-spendwiser-finance-tracker}{TypeScript, Docker}
-\begin{itemize}
-  \item Collaborated in a sprint-based team to build a full-stack finance tracker web app with TypeScript on front and back end
-  \item Utilized Docker to host and run the project in an isolated, reproducible virtual environment
+  \item Created a directory helper that prints each file from a given file in the command line or terminal
+  \item Utilized core Java functions and methods, and collaborated with fellow students and professors
 \end{itemize}
 
 \projhead{Text-Trainer}{https://github.com/timmyd4/ramblebot}{Java, JUnit}
 \begin{itemize}
-  \item Built a command-line text generator that trains on input data to produce output patterns using core Java data structures
+  \item Built a command-line generator that trains on input text to produce output patterns
+  \item Applied core Java principles to manage input parsing, training logic, and output generation
 \end{itemize}
 
-\projhead{Truffula}{https://github.com/timmyd4/truffula}{Java, JUnit}
+\projhead{Screw-Tape}{https://github.com/timmyd4/screwtape}{Java, JUnit}
 \begin{itemize}
-  \item Created a directory helper that recursively prints file trees from the command line using core Java I/O methods
-  \item Collaborated with fellow students and instructors, following established coding conventions throughout
+  \item Built a Java-based compiler to interpret a minimal, symbol-driven programming language
+  \item Applied JUnit testing to validate instruction handling, ensure accuracy, and maintain reliable program behavior
 \end{itemize}
 
-\projhead{React-Idle-Game}{https://github.com/timmyd4/React-Idle-Game}{React, JavaScript, CSS, Vite}
+\projhead{Dodgy}{https://timyd.itch.io/dodgy}{C\#, Unity, Blender}
 \begin{itemize}
-  \item Challenged myself to build an incremental clicker game in React, implementing state-driven upgrade logic, passive resource accumulation, and real-time UI feedback using hooks
+  \item Developed an endless-runner-style game inspired by Temple Run and Subway Surfers, featuring obstacle avoidance and score tracking
+  \item Modeled and animated custom 3D assets in Blender, integrated them into Unity, and implemented gameplay logic using C\#
+\end{itemize}
+
+\projhead{Centroid-Finder}{https://github.com/xavierb117/centroid-finder}{Java, JavaScript, JUnit, Maven, React, Next.js, Express.js, Docker}
+\begin{itemize}
+  \item Developed a photo and video processing system using Java, FFmpeg, and JavaCV for color-based detection and analysis
+  \item Built a Dockerized React/Next.js front-end with an Express.js API to visualize and manage image processing in real time
+\end{itemize}
+
+\projhead{Spend-Wiser}{https://github.com/JesseChum/w26-sdev372-spendwiser-finance-tracker}{React, TypeScript, CSS, Docker, Jest, Supertest}
+\begin{itemize}
+  \item Conducted sprint-based programming weeks collaborating with fellow students to fulfill a project
+  \item Utilized TypeScript to build frontend and backend logic for communication within the web app
+  \item Utilized Docker to host and run the project in a protected virtual environment
+\end{itemize}
+
+\projhead{Apply-Agent}{https://github.com/timmyd4/apply-agent}{Python, TeX, Claude, Gemini}
+\begin{itemize}
+  \item Applied AI-assisted development techniques to improve productivity and problem-solving
+  \item Carefully crafted prompts to evaluate, write, and distinguish workability
+  \item Utilized software concepts to thoroughly develop and understand the project's workflow and design
+\end{itemize}
+
+\projhead{AI-Salamander-Tracker}{https://github.com/xavierb117/Salamander-Tracker-YOLO}{Label-Studio, Python, JavaScript, React, HTML, CSS}
+\begin{itemize}
+  \item Utilized Google's object detection on Label-Studio to draw bounding boxes around plastic salamanders for training data
+  \item Developed Python training and graphing scripts to visualize and manage data flow and balance
+  \item Collaborated with teammates to develop and deliver an end product detecting salamanders
+\end{itemize}
+
+\projhead{React-Idle-Game}{https://github.com/timmyd4/React-Idle-Game}{React, JavaScript, HTML, CSS}
+\begin{itemize}
   \item Practiced component decomposition and CSS styling to deliver a polished, interactive game-loop experience entirely from scratch
+  \item Challenged myself to build an incremental clicker game in React, implementing state-driven upgrade logic, passive resource accumulation, and real-time UI feedback using hooks
 \end{itemize}
 
-\projhead{API-Data-Display}{https://github.com/timmyd4/API-Data-Display}{React, JavaScript, CSS, Vite}
+\projhead{Calculator-App}{https://github.com/timmyd4/CalculatorApp-React-Fall2025}{React, JavaScript, HTML, CSS}
+\begin{itemize}
+  \item Built a React calculator with real-time arithmetic result updates, using useState for state management and CSS Grid for button layout
+\end{itemize}
+
+\projhead{API-Data-Display}{https://github.com/timmyd4/API-Data-Display}{React, JavaScript, HTML, CSS}
 \begin{itemize}
   \item Built a React application that fetches and renders live data from external APIs, practicing async data fetching, loading and error state management, and dynamic component rendering
   \item Styled the interface with custom CSS to present API-driven content clearly and responsively
 \end{itemize}
 
-\projhead{Dynamic-Collections}{https://github.com/timmyd4/Dynamic-Collections}{React, JavaScript, CSS, Vite}
+\projhead{Dynamic-Collections}{https://github.com/timmyd4/Dynamic-Collections}{React, JavaScript, HTML, CSS}
 \begin{itemize}
   \item Developed a data-driven React app to manage and display dynamic collections, using component composition and a centralized data file to practice scalable UI patterns
   \item Applied custom CSS to create an organized, interactive collection interface
 \end{itemize}
 
-\projhead{React-TodoList}{https://github.com/timmyd4/React-TodoList-Fall2025}{React, JavaScript, CSS, Vite}
+\projhead{React-ToDo-List}{https://github.com/timmyd4/React-TodoList-Fall2025}{React, JavaScript, HTML, CSS}
 \begin{itemize}
   \item Built a task management app in React with a modular component architecture (Header, Footer, TodoList, ListItems), practicing props handling and clean separation of concerns
   \item Implemented real-time state updates with useState and styled a responsive dark-themed UI from scratch
-\end{itemize}
-
-\projhead{Calculator-App}{https://github.com/timmyd4/CalculatorApp-React-Fall2025}{React, JavaScript, CSS, Vite}
-\begin{itemize}
-  \item Built a React calculator with real-time arithmetic result updates, using useState for state management and CSS Grid for button layout
 \end{itemize}
 
 % ── EDUCATION ─────────────────────────────────────────────────────────────────
