@@ -1,66 +1,135 @@
 ---
-company: Paccar
-role: Application_Software_Engineer
+company: Costco
+role: Quality_Assurance_Analyst
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Location: Kirkland
-About PACCAR
+Location: Issaquah
+Costco IT is responsible for the technical future of Costco Wholesale, the third largest retailer in the world with wholesale operations in fourteen countries. Despite our size and explosive international expansion, we continue to provide a family, employee centric atmosphere in which our employees thrive and succeed.
 
-PACCAR, Inc. is a Fortune 500 company established in 1905 and is recognized as a global leader in the commercial vehicle, financial, and customer service fields. PACCAR is a global technology leader in the design, manufacture, and customer support of high-quality light-, medium- and heavy-duty trucks under its internationally recognized brands Kenworth, Peterbilt and DAF nameplates. PACCAR designs and manufactures advanced diesel engines and provides customized financial services, information technology and truck parts related to its principal business.
+This is an environment unlike anything in the high-tech world and the secret of Costco’s success is its culture. The value Costco puts on its employees is well documented in articles from a variety of publishers including Bloomberg and Forbes. Our employees and our members come FIRST.  Costco is well known for its generosity and community service and has won many awards for its philanthropy. The company joins with its employees to take an active role in volunteering by sponsoring many opportunities to help others. 
+
+Come join the Costco Wholesale IT family. Costco IT is a dynamic, fast-paced environment, working through exciting transformation efforts. We are building the next generation retail environment where you will be surrounded by dedicated and highly professional employees.
+
+Quality Assurance Analysts are responsible for ensuring quality across team/domain specific applications. This is accomplished through: software/web testing; evaluating, and approving of development tasks as completed for their team/domain; developing, modifying and executing software strategies and test plans; analyzing and writing test standards and procedures; maintaining documentation of test results to assist in debugging; and modification of software.
+
+
+The Point of Sale Quality Assurance Analyst position is responsible for adhering to standardized QA process, policies and documentation standards, overseeing all aspects of project testing and test environment.  This position will work with a team consisting of Architect, System Analyst, Product Owner, Delivery Manager and the vendors.  In addition, this position will collaborate with teams across the enterprise.
+
+If you want to be a part of one of the worldwide BEST companies “to work for”, simply apply and let your career be reimagined.
+
+ROLE
+
+Designs, develops, and executes software test strategies, test plans and test scripts.  
+
+Confirms accuracy and completeness of functional, integration, system, end to end,  and acceptance test plans.
+
+Executes manual software tests of complex Point of sale hardware and software systems.
+
+Executes and validates payments test cases for contact and contactless EMV transactions with POS hardware.
+
+Participates in requirements & use case reviews.
+
+Participates in the defect triage process, provides reports on defect tracking, and escalates technical issues as needed.
+
+Responsible for creating and gaining project approval on project test plans.
+
+Responsible for overseeing or generating all QA-related documentation.
+
+Provides accurate estimates for QA resources and testing schedules.
+
+Ensures adherence to standardized QA policies, processes and documentation standards.
+
+Coordinates in-house, external and UAT testing and certification processes.
+
+Collaborates with the development teams to resolve defects uncovered during testing cycles.
+
+Attends daily stand up meetings and provides testing status.
+
+Creates weekly QA status reports.
+
+Seeks opportunities to automate, document, share, educate, and improve processes where appropriate.
+
+Works well independently and in a team environment.
+
+Follows standards in accordance with company policy and regulation.
+
+REQUIRED
+
+Minimum 5 years’ software quality assurance experience.
+
+Familiarity with test management tool such as HP Octance, Jira.
+
+Excellent troubleshooting, analytical, and problem-solving skills.
+
+Ability to produce effective software test plans and test cases.
+
+Strong knowledge of Agile, SDLC and SQA methodologies.
+
+Strong knowledge on EMV and POS testing.
+
+Ability to communicate and collaborate with others.
+
+Ability to learn quickly and independently.
+
+Excellent verbal and written communication skills.
+
+Able to work effectively and produce consistent results with a minimum of supervision. Self-motivated, responsible, conscientious, and detail-oriented.
+
+Able to work well under pressure and handle crisis situations professionally.
+
+Ability to easily adapt to a rapidly changing work environment.
+
+Scheduling flexibility to meet the needs of the business. 
+
+Recommended
+Strong understanding of evolving industry standards and technologies in the Point of Sale environment.
+
+Experience with:
+
+Fuel Buying Solutions (FuelQuest; Gravitate)
+
+Invenco iNFX
+
+Fipay Payment Engine
+
+Gilbarco SmartCRIND applications
+
+Gilbarco Insite360
+
+Gilbarco VeederRoot integration
+
+Experience testing in one or more of the following environments:
+
+Distributed system environment
+
+Windows base Point of Sale applications
+
+Familiarity with Windows SystemInternal tool set and powershell
+
+Degree in computer science or related technical field preferred
+
+Proficient in Google Workspace applications, including Sheets, Docs, Slides, and Gmail.
+
+Required Documents
+
+●      Cover Letter
+
+●      Resume 
 
  
 
-About Global PACCAR Electronics
-
-The Global PACCAR Electronics organization supports Kenworth, Peterbilt, and DAF by transforming how control systems and vehicle software are developed for commercial vehicle applications. GPE designs next‑generation vehicle controls, display systems, and autonomous technologies that raise the bar for customer productivity and safety.
-
-Whether on highways, construction sites, urban centers, or forest roads, PACCAR trucks are recognized for exceptional quality and performance. PACCAR Electronics is central to these product identities—delivering innovations from advanced PTO functionality to intuitive, high‑value digital displays. Join us as we grow and deliver PACCAR’s future in connectivity, cybersecurity, electrification, and autonomous systems.
+California applicants, please click here to review the Costco Applicant Privacy Notice.
 
  
 
-Position Summary
+Pay Ranges: 
 
-PACCAR’s Embedded Engineering organization—supporting both Kenworth and Peterbilt—is seeking an Application Software Engineer to join a highly collaborative, fast-paced development environment. This role contributes to the design, development, validation, and release of embedded application software for next‑generation electronic control units (ECUs).The ideal candidate demonstrates strong technical fundamentals, learns quickly, and takes pride in delivering high-quality, production-ready software. You will support multiple vehicle programs, collaborate across disciplines, and help advance PACCAR’s global functional and system development processes.
+Level 1  - $32.60 - 45.67
 
- 
+Level 2  - $85,000 - $115,000
 
-Key Responsibilities
+Level 3  - $105,000 - $135,000
 
-Maintain and enhance Jenkins CI/CD pipelines supporting multiple software baselines
-Manage Git and Azure DevOps repositories to support embedded software development and releases
-Integrate, execute, and maintain unit testing frameworks to ensure software quality and compliance
-Design, develop, and debug embedded application software using C++ and Microsoft Visual Studio in accordance with software architecture and design specifications
-Manage source control, versioning, and controlled software releases to meet schedule, budget, and functionality targets
-Plan, track, and support software validation, verification, and usability testing activities
-Analyze defects discovered during validation and testing, implement corrective software fixes, and support root cause analysis
-Lead and participate in technical and design reviews, ensuring adherence to industry best practices in embedded software development
-Collaborate with vehicle property owners, product developers, system architects, and software architects to develop and maintain software-level technical requirements
-Contribute to continuous improvement of development processes, tools, and standards to deliver high-quality, reliable software systems
- 
-
-Qualifications & Skills
-
-Required
-
-Bachelor’s degree in Software Engineering, Computer Science, Computer Engineering, or equivalent
-1–2 years of experience developing and releasing automotive, commercial vehicle, or embedded control software
-Proficiency in C++, Git, Java, Python, and embedded Linux
-Experience with software configuration management, build pipelines, and version control
-Familiarity with data structures, POSIX systems, and embedded software development principles
-Experience creating and maintaining technical documentation (e.g., software requirements specifications, engineering change notices)
-Strong problem-solving skills with the ability to learn and apply new tools, processes, and technologies
-Ability to work effectively in a cross-functional, team-based environment
-Preferred
-Experience with unit testing frameworks (e.g., Unity) and graphics technologies such as OpenGL
-Exposure to MATLAB/Simulink, logi.CAD, Rational Rhapsody, SVN, and requirements management tools
-Familiarity with Kanzi UX/UI development
-Knowledge of heavy-duty vehicle systems and applicable regulations
-Understanding of Design for Six Sigma / Six Sigma methodologies
-Experience supporting new product development and launch activities
- 
-
-Additional Job Board Information
-
-At PACCAR, we value talent and promote growth and development. We carefully consider numerous compensation factors including your education, training, or experience. The salary range for this role is $ 77,700.00-$ 116,200.00 annually. This position is also eligible for a holiday gift. Additionally, this role is eligible for the full range of benefit options listed above.PACCAR promotes equal employment opportunities by implementing policies and practices that ensure employees and applicants are not discriminated against because of their race, color, religious creed, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, mental or physical disability, medical condition, genetic information, military or veteran status or other legally protected status. This applies to recruitment, selection, placement, promotion, termination, rates of pay, and other conditions of employment.
+Level 4  - $125,000 - $160,000
