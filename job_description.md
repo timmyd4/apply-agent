@@ -1,135 +1,32 @@
 ---
-company: Costco
-role: Quality_Assurance_Analyst
+company: Microsoft
+role: Researcher_Intern
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Location: Issaquah
-Costco IT is responsible for the technical future of Costco Wholesale, the third largest retailer in the world with wholesale operations in fourteen countries. Despite our size and explosive international expansion, we continue to provide a family, employee centric atmosphere in which our employees thrive and succeed.
-
-This is an environment unlike anything in the high-tech world and the secret of Costco’s success is its culture. The value Costco puts on its employees is well documented in articles from a variety of publishers including Bloomberg and Forbes. Our employees and our members come FIRST.  Costco is well known for its generosity and community service and has won many awards for its philanthropy. The company joins with its employees to take an active role in volunteering by sponsoring many opportunities to help others. 
-
-Come join the Costco Wholesale IT family. Costco IT is a dynamic, fast-paced environment, working through exciting transformation efforts. We are building the next generation retail environment where you will be surrounded by dedicated and highly professional employees.
-
-Quality Assurance Analysts are responsible for ensuring quality across team/domain specific applications. This is accomplished through: software/web testing; evaluating, and approving of development tasks as completed for their team/domain; developing, modifying and executing software strategies and test plans; analyzing and writing test standards and procedures; maintaining documentation of test results to assist in debugging; and modification of software.
-
-
-The Point of Sale Quality Assurance Analyst position is responsible for adhering to standardized QA process, policies and documentation standards, overseeing all aspects of project testing and test environment.  This position will work with a team consisting of Architect, System Analyst, Product Owner, Delivery Manager and the vendors.  In addition, this position will collaborate with teams across the enterprise.
-
-If you want to be a part of one of the worldwide BEST companies “to work for”, simply apply and let your career be reimagined.
-
-ROLE
-
-Designs, develops, and executes software test strategies, test plans and test scripts.  
-
-Confirms accuracy and completeness of functional, integration, system, end to end,  and acceptance test plans.
-
-Executes manual software tests of complex Point of sale hardware and software systems.
-
-Executes and validates payments test cases for contact and contactless EMV transactions with POS hardware.
-
-Participates in requirements & use case reviews.
-
-Participates in the defect triage process, provides reports on defect tracking, and escalates technical issues as needed.
-
-Responsible for creating and gaining project approval on project test plans.
-
-Responsible for overseeing or generating all QA-related documentation.
-
-Provides accurate estimates for QA resources and testing schedules.
-
-Ensures adherence to standardized QA policies, processes and documentation standards.
-
-Coordinates in-house, external and UAT testing and certification processes.
-
-Collaborates with the development teams to resolve defects uncovered during testing cycles.
-
-Attends daily stand up meetings and provides testing status.
-
-Creates weekly QA status reports.
-
-Seeks opportunities to automate, document, share, educate, and improve processes where appropriate.
-
-Works well independently and in a team environment.
-
-Follows standards in accordance with company policy and regulation.
-
-REQUIRED
-
-Minimum 5 years’ software quality assurance experience.
-
-Familiarity with test management tool such as HP Octance, Jira.
-
-Excellent troubleshooting, analytical, and problem-solving skills.
-
-Ability to produce effective software test plans and test cases.
-
-Strong knowledge of Agile, SDLC and SQA methodologies.
-
-Strong knowledge on EMV and POS testing.
-
-Ability to communicate and collaborate with others.
-
-Ability to learn quickly and independently.
-
-Excellent verbal and written communication skills.
-
-Able to work effectively and produce consistent results with a minimum of supervision. Self-motivated, responsible, conscientious, and detail-oriented.
-
-Able to work well under pressure and handle crisis situations professionally.
-
-Ability to easily adapt to a rapidly changing work environment.
-
-Scheduling flexibility to meet the needs of the business. 
-
-Recommended
-Strong understanding of evolving industry standards and technologies in the Point of Sale environment.
-
-Experience with:
-
-Fuel Buying Solutions (FuelQuest; Gravitate)
-
-Invenco iNFX
-
-Fipay Payment Engine
-
-Gilbarco SmartCRIND applications
-
-Gilbarco Insite360
-
-Gilbarco VeederRoot integration
-
-Experience testing in one or more of the following environments:
-
-Distributed system environment
-
-Windows base Point of Sale applications
-
-Familiarity with Windows SystemInternal tool set and powershell
-
-Degree in computer science or related technical field preferred
-
-Proficient in Google Workspace applications, including Sheets, Docs, Slides, and Gmail.
-
-Required Documents
-
-●      Cover Letter
-
-●      Resume 
-
+Overview
+The Code|AI team is the Applied Research and Data for Github Copilot and VS Code, working on the future of AI for Developers! We are a diverse, entrepreneurial, and multi-disciplinary group of scientists, researchers, and engineers with a passion for using AI to improve the productivity of millions of developers around the world. We have released AI for code advancements in Github Copilot, VS Code, Visual Studio and Copilot extensions in other IDEs. Our team focuses on post-training code specific models like code completion, code embedding models and agentic research for Copilot Coding Agent, Copilot CLI and Copilot Code Review. We embrace the open source and continue to share our research and work with the developer and research community to advance AI in Developer tools.
  
-
-California applicants, please click here to review the Costco Applicant Privacy Notice.
-
+We are seeking entrepreneurial and creative Applied Researcher Interns to lead groundbreaking research projects, taking these from research into product. You will collaborate with scientists, engineers and designers across Microsoft Research, Microsoft product teams, and Github. You will have an opportunity to build and train state-of-the-art models, and opportunities to both apply and advance existing approaches of using LLMs for software engineering, from using RAG to evaluation. Most importantly, you will have an opportunity to work closely with several developer product teams to run experiments, evaluate, iterate, and improve your AI projects on a large scale. 
  
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees, we come together with a growth mindset, innovate to empower others and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
 
-Pay Ranges: 
 
-Level 1  - $32.60 - 45.67
+Responsibilities
+Contributes projects on the future of AI for developers.
+Collaborates across disciplines with product teams across Microsoft and Github.
+Stays up to date with the research literature and product advances in AI for software engineering.
+Creates new datasets from both the world's public code and Microsoft's internal data.
+Builds and manages large-scale ML experiments and models.
+Embodies our Culture and Values 
 
-Level 2  - $85,000 - $115,000
 
-Level 3  - $105,000 - $135,000
+Qualifications
+Required Qualifications: 
+Currently pursuing a Bachelors or Masters Degree in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field
+Must have at least one additional quarter/semester of school remaining following the completion of the internship
+Candidate must be enrolled in a full time bachelor's, masters, MBA, or PhD program in area relevant for the role during the academic term immediately before their internship.
+#Code|AI #CoreAI #DDJL #EiP
 
-Level 4  - $125,000 - $160,000
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
