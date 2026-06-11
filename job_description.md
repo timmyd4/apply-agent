@@ -1,48 +1,56 @@
 ---
-company: Truveta
+company: Rippling
 role: Software_Engineering_Intern
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Truveta is the world’s first health provider led data platform with a vision of Saving Lives with Data. Our mission is to enable researchers to find cures faster, empower every clinician to be an expert, and help families make the most informed decisions about their care. Achieving Truveta’ s ambitious vision requires an incredible team of talented and inspired people with a special combination of health, software and big data experience who share our company values.  
+About Rippling
+Rippling gives businesses one place to run HR, IT, and Finance. It brings together all of the workforce systems that are normally scattered across a company, like payroll, expenses, benefits, and computers. For the first time ever, you can manage and automate every part of the employee lifecycle in a single system.
 
-This role will be based in the Greater Seattle area and interns are asked to come into our office several days per week. #LI-hybrid
+Take onboarding, for example. With Rippling, you can hire a new employee anywhere in the world and set up their payroll, corporate card, computer, benefits, and even third-party apps like Slack and Microsoft 365—all within 90 seconds.
 
-Who We Need    
+Based in San Francisco, CA, Rippling has raised $1.4B+ from the world’s top investors—including Kleiner Perkins, Founders Fund, Sequoia, Greenoaks, and Bedrock—and was named one of America's best startup employers by Forbes.
 
-Truveta is rapidly building a talented and diverse team to tackle complex health and technical challenges. Beyond core capabilities, we are seeking problem solvers, passionate and collaborative teammates, and those willing to roll up their sleeves while making a difference. If you are interested in the opportunity to pursue purposeful work, join a mission-driven team, and build a rewarding career while having fun, Truveta may be the perfect fit for you.  
+We prioritize candidate safety. Please be aware that all official communication will only be sent from @Rippling.com addresses.
 
-Internship Details  
+About the role
+At Rippling, Engineering is at the heart of our business and culture.  We believe in our early talent’s potential, experience and aspirations. Our mission is to open the realm of possibilities and opportunities for students by fostering growth through mentorship and training, ownership through impactful and innovative projects, and, of course, fun through our diverse culture and work hard, play harder attitude. As an Engineering Intern, you will join one of our many teams in Winter 2027 (Middle of January-April) to develop robust, well-designed products, implement new updates and features, and solve complex problems that affect our business and our clients.  Rippling Interns gain the experience of full-time engineers with responsibilities, ownership, and opportunity.  Interns will be assigned projects that not only have an impact on the business, but that are also scoped to fit within the time constraints of their internship so they can see the full impact of their work. 
 
-Our Engineering Internship is designed for students pursuing an undergraduate or graduate degree. Candidates must be a sophomore, junior, or senior in college, enrolled in a graduate program, or have graduated within the past year.
 
-The internship is a minimum 10-week experience, with opportunities to extend based on company needs and mutual interest.
 
-This Opportunity:  
+We provide our interns exciting and innovative projects to work on that allow them to see the fruition of their work. During your 13 weeks at Rippling, we will provide all of the tools needed to be successful.  Your dedicated mentor and manager will provide support for your learning and development throughout your time with us. You will join your fellow interns in a variety of socials, talks with Rippling leaders, and more!
 
-We have exciting internship opportunities for undergraduate and graduate level students inspired by the opportunity to apply data in the development of real-world health solutions. As a Truveta intern, you will work alongside technology leaders possessing deep technical experience, helping to build real-world intelligence that is unlocking breakthrough discoveries and transforming medicine with unprecedented data and predictive AI.
+What you will do
+Utilize your software engineering experience to tackle important projects, solving problems, and developing quality code
+Think critically and apply your knowledge to real world, complex problems
+Actively participate in team meetings to scope, drive, and progress your projects
+Learn about the business, our clients’ needs, and the impact of your team and related projects
+Attend Meet & Greets with various executives and teams to gain a holistic view of what it takes to run a company like Rippling
+Foster relationships with your intern cohort and teams through both exclusive internship social events and company/office-wide events
+What you will need
+Previous internship/Co-op experience in software engineering utilizing Python
+Currently enrolled in a Bachelor’s or Master's degree in computer science or in a related field graduating after the internship's completion
+Excellent communication skills to work cross functionally and across departments
+Solid programming skills with an emphasis on backend experience and knowledge
+Ability to adapt and ask action-oriented questions to progress
+Passion and drive to constantly learn and develop your engineering skills
+Even if you don’t meet all of the requirements listed here, we still encourage you to apply. Skills can be used in lots of different ways and your life and professional experience may be relevant beyond what our list of requirements has outlined.
 
-Beyond core capabilities, we are seeking problem solvers, passionate and collaborative teammates who are interested in working on meaningful and impactful projects that make a difference.   
+About the team
+Here at Rippling, we have many teams that span across all different types of work varying from product development to platform enhancement.
 
-Preferred Qualifications  
 
-Experience using Java, Python, .net, C# or any other programming language   
-Currently pursuing bachelors' or masters' in engineering, computer science or STEM related field   
-Demonstrated skill in time management and completing projects in a collaborative team environment  
-Previous internship experience working in a technical or engineering environment  
-Good written and verbal communication, including presentation skills  
-Why Truveta?    
 
-Be a part of building something special. Now is the perfect time to join Truveta. We have strong, established leadership with decades of success. We are well-funded. We are building a culture that prioritizes people and their passions across personal, professional and everything in between. Join us as we build an amazing company together.    
+Our various product teams have a combination of both directly user-facing products as well as interfaces for other engineering teams. There are challenges for the team that range from building for usability to scaling for massive growth and a wide array of engineering requirements. 
 
-We offer:    
 
-Compensation of $20 per hour
-Company-issued laptop and equipment  
-Opportunities for future full-time positions  
-If you are based in California, we encourage you to read this important information for California residents linked here.
 
-Truveta is committed to creating a diverse, inclusive, and empowering workplace. We believe that having employees, interns, and contractors with diverse backgrounds enables Truveta to better meet our mission and serve patients and health communities around the world. We recognize that opportunities in technology historically excluded and continue to disproportionately exclude Black and Indigenous people, people of color, people from working class backgrounds, people with disabilities, and LGBTQIA+ people. We strongly encourage individuals with these identities to apply even if you don’t meet all of the requirements.
+Rippling’s platform engineering teams provide a layer of abstractions for every product team to build quickly and scale effortlessly. Providing a strong platform layer enables Rippling to build as a startup of startups. These teams are responsible for building the foundational software that powers the Rippling platform. 
 
-Please note that all applicants must be authorized to work in the United States for any employer as we are unable to sponsor work visas or permits (e.g. F-1 OPT, H1-B) at this time. We appreciate your interest in the position and encourage you to explore future opportunities with us.
+
+Additional Information
+
+Rippling is an equal opportunity employer. We are committed to building a diverse and inclusive workforce and do not discriminate based on race, religion, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, sexual orientation, veteran or military status, or any other legally protected characteristics, Rippling is committed to providing reasonable accommodations for candidates with disabilities who need assistance during the hiring process. To request a reasonable accommodation, please email accomodations@rippling.com
+
+Rippling highly values having employees working in-office to foster a collaborative work environment and company culture. For office-based employees (employees who live within a defined radius of a Rippling office), Rippling considers working in the office, at least three days a week under current policy, to be an essential function of the employee's role.
