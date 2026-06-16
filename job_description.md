@@ -1,56 +1,104 @@
 ---
-company: Rippling
-role: Software_Engineering_Intern
+company: Sonos
+role: Junior_Embedded_Software_Development_Engineer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-About Rippling
-Rippling gives businesses one place to run HR, IT, and Finance. It brings together all of the workforce systems that are normally scattered across a company, like payroll, expenses, benefits, and computers. For the first time ever, you can manage and automate every part of the employee lifecycle in a single system.
+At Sonos we want to create the ultimate listening experience for our customers and know that it starts by listening to each other. As part of the Sonos team, you’ll collaborate with people of all styles, skill sets, and backgrounds to realize our vision while fostering a community where everyone feels included and empowered to do the best work of their lives.
 
-Take onboarding, for example. With Rippling, you can hire a new employee anywhere in the world and set up their payroll, corporate card, computer, benefits, and even third-party apps like Slack and Microsoft 365—all within 90 seconds.
+At Sonos, we want to create the ultimate listening experience for our customers and connect them to the content they want, where they want it. As part of the Sonos team, you'll collaborate with people of all styles, skill sets, and backgrounds to realize our vision while fostering a community where everyone feels included and empowered to do the best work of their lives.
 
-Based in San Francisco, CA, Rippling has raised $1.4B+ from the world’s top investors—including Kleiner Perkins, Founders Fund, Sequoia, Greenoaks, and Bedrock—and was named one of America's best startup employers by Forbes.
+As a Junior Embedded Software Engineer, you'll contribute to the software that powers Sonos products and experiences. Working alongside experienced engineers, you'll develop and maintain embedded software that helps deliver reliable playback, seamless device interaction, and high-quality customer experiences across the Sonos ecosystem.
 
-We prioritize candidate safety. Please be aware that all official communication will only be sent from @Rippling.com addresses.
+You'll gain exposure to a variety of technical domains including embedded systems, APIs and integrations, distributed device communication, music playback, and consumer electronics software development. Through hands-on development, debugging, and cross-functional collaboration, you'll grow your technical skills while helping deliver products and features used by millions of listeners worldwide.
 
-About the role
-At Rippling, Engineering is at the heart of our business and culture.  We believe in our early talent’s potential, experience and aspirations. Our mission is to open the realm of possibilities and opportunities for students by fostering growth through mentorship and training, ownership through impactful and innovative projects, and, of course, fun through our diverse culture and work hard, play harder attitude. As an Engineering Intern, you will join one of our many teams in Winter 2027 (Middle of January-April) to develop robust, well-designed products, implement new updates and features, and solve complex problems that affect our business and our clients.  Rippling Interns gain the experience of full-time engineers with responsibilities, ownership, and opportunity.  Interns will be assigned projects that not only have an impact on the business, but that are also scoped to fit within the time constraints of their internship so they can see the full impact of their work. 
+In this role, you may be aligned to teams focused on areas such as Player software, APIs and controls, partner integrations, platform capabilities, or future product development based on business needs and individual strengths.
 
+This is a hybrid position, allowing for a combination of remote work and in-office collaboration. Qualified applicants must live within commuting distance of a Sonos office location and should expect to be in office a minimum of 3 days per week.
 
+What You'll Do
+Contribute to embedded firmware development in C/C++ on Sonos products.
 
-We provide our interns exciting and innovative projects to work on that allow them to see the fruition of their work. During your 13 weeks at Rippling, we will provide all of the tools needed to be successful.  Your dedicated mentor and manager will provide support for your learning and development throughout your time with us. You will join your fellow interns in a variety of socials, talks with Rippling leaders, and more!
+Implement well-scoped features and bug fixes with guidance from senior engineers.
 
-What you will do
-Utilize your software engineering experience to tackle important projects, solving problems, and developing quality code
-Think critically and apply your knowledge to real world, complex problems
-Actively participate in team meetings to scope, drive, and progress your projects
-Learn about the business, our clients’ needs, and the impact of your team and related projects
-Attend Meet & Greets with various executives and teams to gain a holistic view of what it takes to run a company like Rippling
-Foster relationships with your intern cohort and teams through both exclusive internship social events and company/office-wide events
-What you will need
-Previous internship/Co-op experience in software engineering utilizing Python
-Currently enrolled in a Bachelor’s or Master's degree in computer science or in a related field graduating after the internship's completion
-Excellent communication skills to work cross functionally and across departments
-Solid programming skills with an emphasis on backend experience and knowledge
-Ability to adapt and ask action-oriented questions to progress
-Passion and drive to constantly learn and develop your engineering skills
-Even if you don’t meet all of the requirements listed here, we still encourage you to apply. Skills can be used in lots of different ways and your life and professional experience may be relevant beyond what our list of requirements has outlined.
+Debug issues in embedded environments using logs, traces, and reproduction steps while developing root-cause analysis skills.
 
-About the team
-Here at Rippling, we have many teams that span across all different types of work varying from product development to platform enhancement.
+Collaborate with teammates across software, hardware, QA, product, and other cross-functional teams to deliver reliable releases.
 
+Participate in code reviews and learn Sonos development and quality practices.
 
+Help improve maintainability and reliability through testing, tooling, automation, and incremental refactoring.
 
-Our various product teams have a combination of both directly user-facing products as well as interfaces for other engineering teams. There are challenges for the team that range from building for usability to scaling for massive growth and a wide array of engineering requirements. 
+Contribute to APIs, software integrations, and platform capabilities that support Sonos products and services.
 
+Support the development of new features and enhancements across the Sonos ecosystem.
 
+Learn and contribute to systems that enable music playback, device communication, partner integrations, and customer-facing experiences.
 
-Rippling’s platform engineering teams provide a layer of abstractions for every product team to build quickly and scale effortlessly. Providing a strong platform layer enables Rippling to build as a startup of startups. These teams are responsible for building the foundational software that powers the Rippling platform. 
+What You'll Need
+Basic Qualifications
+Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent experience.
 
+Hands-on experience with C/C++ through coursework, internships, co-ops, or professional experience.
 
-Additional Information
+Exposure to embedded systems or firmware development through projects, internships, lab work, or early-career roles.
 
-Rippling is an equal opportunity employer. We are committed to building a diverse and inclusive workforce and do not discriminate based on race, religion, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, sexual orientation, veteran or military status, or any other legally protected characteristics, Rippling is committed to providing reasonable accommodations for candidates with disabilities who need assistance during the hiring process. To request a reasonable accommodation, please email accomodations@rippling.com
+Familiarity with embedded concepts such as memory constraints, concurrency, and real-time behaviors.
 
-Rippling highly values having employees working in-office to foster a collaborative work environment and company culture. For office-based employees (employees who live within a defined radius of a Rippling office), Rippling considers working in the office, at least three days a week under current policy, to be an essential function of the employee's role.
+Curiosity and strong learning aptitude with the ability to ramp up on unfamiliar systems and technologies.
+
+Experience with version control systems such as Git or Perforce.
+
+Willingness to engage with AI tools to support day-to-day workflows.
+
+Preferred Qualifications
+Experience debugging on-device software using logs, tracing, and performance investigation techniques.
+
+Comfort working with APIs, SDKs, and protocol-level interactions.
+
+Basic understanding of networking concepts.
+
+Interest in audio, music, and consumer electronics.
+
+Experience working in a collaborative development environment using code reviews and CI/CD tooling.
+
+Visa Sponsorship
+Sonos is unable to sponsor or take over sponsorship of an employment visa for this role at this time. Applicants must be authorized to work for any U.S. employer now and in the future.
+
+Your profile will be reviewed and you'll hear from us once we have an update. At Sonos we take the time to hire right and appreciate your patience.
+
+The base pay range for this role based off geographic location is:
+
+$93,000 and $115,900
+The specific pay offered will depend on the candidate’s geographic location, as well as qualifications and experience. We apply geographic pay differentials based on the cost of labor in the market.  Employees in high-cost locations may be compensated at the upper end of the range, while those in medium or low cost markets may be compensated at the lower end of  the range. Your recruiter can provide more details about the specific salary range for your location during the hiring process. 
+
+Please note that compensation details listed in US job postings reflect the base salary only, and do not include bonus, equity, or benefits.
+
+We also offer a comprehensive benefits program with choice and flexibility in mind to help support the health, wealth, and overall well-being of our employees. Regular full time employees in the US are eligible for benefits on day one, including:
+
+Medical, Dental, and Vision Insurance
+
+A 401(k) plan with company matching and immediate vesting
+
+An Open Time Off policy (OTO) so you have maximum opportunity to disconnect and recharge, with no tenure-based vacation accruals required
+
+80 hours of sick time upon hire, refreshed annually
+
+Up to 12 paid holidays per calendar year
+
+Sonos offers a generous paid leave program for new parents or to care for a family member with a serious health condition, as well as short- and long-term disability for your own medical condition
+
+Company-paid Disability, Life, and AD&D Insurance
+
+Voluntary benefits, including Voluntary Life, AD&D, Accident, and Pet Insurance
+
+Mental health benefits to support your holistic well-being
+
+A generous employee discount program & Sonos Radio HD - on us!
+
+Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.
+
+Notice to U.S. Job Applicants: Sonos is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics.
+
+Sonos is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to accommodations@sonos.com and let us know the nature of your request and your contact information.
