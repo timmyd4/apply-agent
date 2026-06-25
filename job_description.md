@@ -1,121 +1,78 @@
 ---
-company: Universal Language Services
-role: IT_Help_Desk_Technician_1
+company: nexHealth
+role: Software_Engineer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Position Objective:
-The IT Helpdesk Technician I provides first-level technical support to end users for hardware, software, and network-related issues. This entry-level role is responsible for responding to service requests, troubleshooting problems, and ensuring prompt resolution or escalation. Maintain the hardware (HW) and software (SW) systems and toolsets that allow company staff, customers and Interpreters to operate an Interpretation Services business. The Help Desk position will utilize excellent communications skills to interact with both internal and external customers and Interpreters to troubleshoot IT issues and ensure business continuity. Must act with professional work ethic and awareness of security policies, given the access to confidential and proprietary company information. Requires work outside of normal business hours for systems maintenance and troubleshooting of 24x7 operation. The ideal candidate is customer-focused, detail-oriented, and eager to grow their IT knowledge in a fast-paced environment.
- 
-Key Responsibilities:
-Serve as the first point of contact for users seeking technical assistance via phone, email, or ticketing system.
-Diagnose and resolve basic hardware, software, and network issues.
-Escalate complex problems to higher-level support as needed.
-Install, configure, and maintain desktop systems, laptops, printers, and mobile devices.
-Support software rollouts, updates, and routine maintenance.
-Assist both internal and external users with system access, usage and business process issues.
-Document support activities, resolutions, and updates in the helpdesk ticketing system.
-Update documentation and processes.
-Maintain inventory of IT equipment and supplies.
-Assist with user account management using Active Directory and Azure Entra ID, activate/deactivate users and reset passwords, as needed.
-Address printer needs: install, change toners, troubleshoot errors, etc.
-Maintain a work schedule at a minimum of 40 hours per work week (not including afterhours work) of Monday through Friday, 8:00 AM to 5:00, in the Bellevue Corporate Office, unless otherwise required by the Company.
-Other duties and special projects, as assigned.
- 
-Regular Ongoing Tasks:
-Help Desk – Internal User Support
-Prepare workstations for new employees, including deployment of HW and SW as required.
-Setup and removal of user’s accounts for IT systems as needed.
-Troubleshoot systems including HW and SW as needed.
-Work with external Vendors on support ticket escalations.
-Generate or prepare reports for management as needed.
-Manage Windows updates and other security updates to user workstations.
-Assist with system maintenance and testing as needed outside of regular business hours.
-Participate in “on call” scheduling to support the business’s IT needs 24x7.
-Gather feedback from users and recommend changes or solutions to management that can utilize technology to improve business process workflow.
-Help Desk – External Customer Support
-Assist external customers with password resets and other access issues.
-Troubleshoot customer issues related to company business processes.
-Gather feedback from users and recommend changes or solutions to management that can utilize technology to improve business process workflow.
-Set up, configure, and deploy iPads to clinical and administrative departments.
-Ensure iPads are connected to secure Wi-Fi networks and troubleshoot connectivity issues.
-Provide on-site technical assistance to staff, including basic iPad functionality and app support.
-Monitor device performance and escalate hardware or software issues as necessary.
-Document technical procedures and maintain asset inventory.
-Work collaboratively with IT and clinical teams to ensure devices meet compliance and security standards.
-Support periodic updates, reconfiguration, and re-deployment of mobile devices as needed.
-QA – Internal Application Support
-Execute manual and/or automated test cases under guidance from senior QA staff.
-Document and report test results clearly and accurately.
-Identify, document, and track software defects using tools like Jira, Bugzilla, or Azure DevOps.
-Re-test fixes and verify resolution of defects.
-Review functional and technical requirements to ensure testability.
-Assist in identifying unclear or incomplete specifications.
-Work closely with developers, business analysts, and other QA team members.
-Participate in agile ceremonies such as daily stand-ups, sprint planning, and retrospectives.
-Create and maintain test cases, test scripts, and test data.
-Update documentation based on changes in application features or requirements.
-Assist in setting up and maintaining QA test environments.
-Ensure test systems mirror production conditions where applicable.
-Promote QA best practices and contribute to continuous improvement of testing processes.
-Stay informed about tools and trends in software testing.
-Support QA automation efforts by maintaining test scripts or executing them as directed.
-Learn and use basic automation frameworks and tools.
-Perform regression testing to validate functionality after code changes.
-Ensure previously working features remain stable.
-Conduct basic UI/UX checks to identify inconsistencies, broken elements, or usability issues.
- 
- 
- 
- 
- 
- 
-Qualifications:
-High school diploma or equivalent required; Associate’s degree or IT certifications (e.g., CompTIA A+/Network+) preferred.
-0–2 years of experience in a technical support or IT helpdesk role.
-Basic understanding of Windows and Mac operating systems.
-Familiar with basic server and network concepts and possess the ability to boot/restart servers/network devices and perform similar technical network services of low technical complexity.
-Expert level familiarity with Windows OS.
-Familiarity with Microsoft Office 365, Active Directory, and common business applications.
-Experience with Active Directory and/or Azure Entra ID
-Basic understanding of PC troubleshooting.
-Basic printer knowledge and troubleshooting
-Experience supporting Apple iOS devices in an enterprise or healthcare setting preferred.
-Familiarity with Bluetooth and wired audio device pairing.
-Strong communication and customer service skills.
-Ability to work independently and respond quickly to on-site support needs.
-Comfortable working in a hospital environment, including patient-facing areas.
-Demonstrate professional work ethic and high level of integrity dealing with confidential company and user information.
-Ability to prioritize tasks and work efficiently under pressure.
-Willingness to learn and adapt in a dynamic environment.
-Experience with Mobile Device Management (MDM) systems (e.g., Jamf, Intune) preferred.
-Knowledge of HIPAA and healthcare data handling best practices preferred.
-Previous experience in a hospital or clinical support role preferred.
-Experience with scripting and process automation.
-Familiarity with Git version control.
-Basic understanding of APIs, SQL, and cloud technologies.
-Experience supporting software deployments and application troubleshooting.
- 
-Physical Requirements:
-The physical requirements described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
- 
-While performing the duties of this job:
-The employee is regularly required to talk or hear.
-The employee is regularly required to work on a computer and to read from a computer screen for long periods of time.
-The employee is frequently required to stand, walk, use hands-to-finger, handle or feel, reach with hands and arms, and kneel, squat, and crawl in confined spaces.
-The employee may be required to lift and carry computer components up to 50 pounds on a frequent basis, with or without assistance.
- 
-Benefits:
-We value our employees and are committed to supporting their health, well-being, financial security, and work-life balance. Eligible employees have access to a comprehensive benefits package, including:
+About NexHealth
 
-Competitive Paid Time Off (PTO) program
-Paid Sick Leave
-Paid Holidays
-Bereavement Leave
-Jury Duty Leave
-Medical, Dental, and Vision Insurance
-Voluntary Benefits, including supplemental insurance options
-401(k) Retirement Plan with discretionary company match)
-Opportunities for professional development and career growth
-Our benefits are designed to help employees thrive both personally and professionally while supporting a healthy balance between work and life.
+Our healthcare system remains frustratingly analog. When you live in a world of one-tap car rides, instant meal delivery, and unlimited streaming, why do you still have to call to schedule a doctor’s appointment and fill out a clipboard in the waiting room?
+
+NexHealth’s mission is to accelerate innovation in healthcare by connecting patients, providers, and developers. We’re building the infrastructure layer for modern healthcare, connecting thousands of fragmented, on-premise, and closed EHR systems into a single, modern platform that powers software, APIs, payments, and patient experiences across the ecosystem.
+
+Founded: 2017
+Headquarters: San Francisco, CA
+Funding: $177M Series C 
+Employees: 200+
+Trusted by tens of thousands of providers and hundreds of health-tech developers — forging the infrastructure layer that modern healthcare needs
+About the Role
+
+This is a rare chance to get in early on a company redefining what healthcare infrastructure looks like. As a Software Engineer I at NexHealth, you'll work on meaningful, real-world problems from day one - not toy features, not endless ticket queues. You'll write production code that touches the lives of patients and providers across tens of thousands of practices.
+
+We're looking for engineers who are early in their careers but sharp, curious, and ready to grow fast. You'll be embedded in a small, senior team, which means a high learning curve, real ownership, accelerated mentorship and direct exposure to the kind of systems design and architectural thinking that usually takes years to encounter elsewhere.
+
+This role focuses primarily on back-end development, contributing to our core platform - no-permission integrations with the EHRs, high throughput data ingestion pipelines, scaled storage and low latency data serving that connect healthcare's fragmented ecosystem. You don't need to have done this before at scale; you just need the fundamentals, the drive to figure it out and learn from the best.
+
+What You'll Do
+
+Build and ship features across NexHealth's core platform, including our healthcare integration API and provider-facing SaaS product, with guidance from senior engineers.
+Write clean, well-tested, production-ready code - and learn what that actually means in a fast-moving, high-stakes environment.
+Participate in code reviews, technical discussions, and architecture conversations - we want your questions and your perspective from the start.
+Debug and investigate issues in distributed systems, developing the pattern recognition that comes from working on real infrastructure.
+Contribute to indirect integrations with electronic health record (EHR) systems - one of the most technically complex and impactful parts of what we build.
+Collaborate closely with product managers, designers, and other engineers to scope, plan, and deliver projects end to end.
+Grow. We invest in our engineers - through mentorship, technical stretch assignments, and the kind of exposure you'd normally have to wait years for.
+What You'll Bring
+
+A degree in Computer Science, Software Engineering, or a related field - or equivalent practical experience that demonstrates strong CS fundamentals.
+0–2 years of professional software engineering experience. Internships, co-ops, and meaningful open-source contributions count.
+Solid grasp of data structures, algorithms, and object-oriented or functional programming concepts.
+Proficiency in at least one backend language; experience with Ruby, Python, Go, or Java is a plus. We primarily use Ruby on Rails.
+Comfort working with relational databases - you understand what a query is doing and why it might be slow.
+Ability to communicate clearly in writing and in conversation. You ask good questions and can explain your thinking.
+Intellectual curiosity and a bias toward figuring things out. Healthcare infrastructure is niche and complex - we'll teach you the domain, but you need to want to learn it.
+Bonus Points For
+
+Exposure to cloud platforms (AWS, GCP, or Azure) or containerization tools like Docker or Kubernetes.
+Experience with API design, webhooks, or third-party integrations.
+Any background in healthcare technology, HL7, or FHIR standards - though definitely not required.
+Prior experience working in a startup or fast-paced product environment.
+Compensation
+
+Actual salaries will vary depending on factors including but not limited to location, experience, and performance. The range listed is just the base salary component of NexHealth’s total compensation package for employees. Other benefits may include stock options, an unlimited paid time off policy, and up to 100% coverage on medical, vision and dental insurance.
+
+NexHealth Compensation Range
+
+$128,600 - $189,500 USD
+
+Benefits
+
+Full Medical, Dental, and Vision (up to 100% covered)
+401K and commuter benefits
+Flexible PTO
+High-impact work that directly improves the healthcare experience for millions
+Our Values
+
+Solve the customer’s problems, not yours
+When making decisions, think from the perspective of the customer. It’s easy to make decisions that make our lives simpler, but not the customers.
+Do the things others are not willing to do
+As a Nexer, always go after the hardest problems. Pursue things at the highest quality. Move at the fastest pace. 
+Take ownership
+Act like a founder. Own your roles, destinies, mistakes, behavior, and our mission. The buck stops with each of us - no blaming or excuses.
+Say what’s on your mind, with positive intent
+Be direct, proactive, transparent, and frequent in your communication.
+Default trust
+As a Nexer, you do not have to earn trust, trust is given to you by default. If we by default trust each other, our speed of communication, feedback, information sharing, and overall improvements will be a lot faster.
+Think in first principles
+We first identify the problem and then break it down to its fundamentals before diving into solutions. We constantly ask “why” to validate our assumptions.

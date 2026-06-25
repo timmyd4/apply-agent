@@ -1,3 +1,6 @@
+%% Tim Williams — Tailored Resume for NexHealth
+%% Compile with: pdflatex Tim_Williams_NexHealth-Resume.tex
+
 \documentclass[10pt, letterpaper]{article}
 
 % ── Packages ──────────────────────────────────────────────────────────────────
@@ -102,9 +105,9 @@
 \section{Technical Skills}
 
 \begin{tabular}{@{}p{1.6in} p{5.2in}@{}}
-  \skillrow{Languages}{Python,\ \ SQL,\ \ JavaScript,\ \ TypeScript,\ \ Java,\ \ C\#,\ \ HTML,\ \ CSS}
-  \skillrow{Frameworks \& Libs}{React,\ \ Express.js,\ \ Next.js,\ \ JUnit,\ \ Maven}
-  \skillrow{Tools \& Platforms}{Git/GitHub,\ \ Docker,\ \ WSL/Ubuntu,\ \ Visual Studio Code,\ \ Unity,\ \ Blender}
+  \skillrow{Languages}{Java,\ \ Python,\ \ JavaScript,\ \ TypeScript,\ \ SQL,\ \ C\#,\ \ HTML,\ \ CSS}
+  \skillrow{Frameworks \& Libs}{Express.js,\ \ JUnit,\ \ Maven,\ \ React,\ \ Next.js}
+  \skillrow{Tools \& Platforms}{Docker,\ \ Git/GitHub,\ \ WSL/Ubuntu,\ \ Visual Studio Code,\ \ Unity,\ \ Blender}
   \skillrow{Certifications}{AI-900 (Microsoft Azure AI Fundamental Training)}
 \end{tabular}
 
@@ -113,47 +116,47 @@
 
 \jobhead{Software Intern}{EvoSports}{Remote}{Mar 2025 – Present}
 \begin{itemize}
-  \item Diagnosed and resolved complex filtering bugs across validation and schema layers to restore data accuracy.
-  \item Implemented user engagement tracking with deduplication, handling both authenticated and anonymous users.
-  \item Identified and fixed silent backend bugs from field name casing, restoring critical data feeds.
+  \item Diagnosed and resolved a multi-layer filtering bug, restoring correct data results for users
+  \item Implemented user engagement tracking with built-in deduplication, ensuring accurate data collection
+  \item Fixed a silent backend bug caused by field name casing mismatches, restoring a broken data feed
 \end{itemize}
 
 \jobhead{Software Intern}{Code-Day}{Remote}{Feb 2025 – Mar 2025}
 \begin{itemize}
-  \item Implemented unit and integration tests to improve software reliability and stability.
-  \item Analyzed project architecture and dependencies, informing system design and maintainability.
-  \item Collaborated on GitHub, utilizing pull requests and code review for version control.
+  \item Implemented unit and integration test cases, improving code coverage and product reliability
+  \item Analyzed project architecture and dependencies to inform design and maintainability
+  \item Collaborated on a GitHub repository with pull requests, active code review, and version control
 \end{itemize}
 
 \jobhead{Software Intern}{Vantage Radiology}{Federal Way, WA}{Jan 2024 – Jan 2025}
 \begin{itemize}
-  \item Collaborated with internal users to gather requirements and deliver software features for healthcare apps.
-  \item Delivered UI updates that enhanced user efficiency and satisfaction in production.
-  \item Adapted to unfamiliar legacy technologies (Pascal, dBase, Delphi) to support existing systems.
+  \item Collaborated with internal users to gather requirements and deliver software features
+  \item Delivered UI updates, improving user efficiency and satisfaction in a production environment
+  \item Adapted to unfamiliar legacy technologies (Pascal, dBase, Delphi) to support existing systems
 \end{itemize}
 
 % ── PROJECTS ──────────────────────────────────────────────────────────────────
 \section{Projects}
 
-\projhead{Spend-Wiser}{https://github.com/JesseChum/w26-sdev372-spendwiser-finance-tracker}{React, TypeScript, CSS, Docker, Jest, Supertest}
-\begin{itemize}
-  \item Collaborated in sprint-based programming, contributing to a full-stack finance tracker web app.
-  \item Built frontend and backend logic using TypeScript, ensuring robust web app communication.
-  \item Leveraged Docker to containerize and host the project, ensuring a consistent environment.
-\end{itemize}
-
 \projhead{Centroid-Finder}{https://github.com/xavierb117/centroid-finder}{Java, JavaScript, JUnit, Maven, React, Next.js, Express.js, Docker}
 \begin{itemize}
-  \item Developed a Java-based photo and video processing system for color detection and analysis.
-  \item Built a Dockerized React/Next.js frontend with an Express.js API for real-time visualization.
-  \item Implemented Docker for isolated deployment, supporting both frontend and backend services.
+  \item Developed photo/video processing system using Java, FFmpeg, and JavaCV for color analysis
+  \item Built a Dockerized React/Next.js front-end with Express.js API for real-time visualization
+  \item Utilized Docker for containerization, ensuring reproducible development and deployment environments
 \end{itemize}
 
-\projhead{Apply-Agent}{https://github.com/timmyd4/apply-agent}{Python, TeX, Claude, Gemini}
+\projhead{Tekken-Win-Predictor}{}{Python, Neural Networks, Groq LLM, REST API}
 \begin{itemize}
-  \item Applied AI-assisted techniques to improve development productivity and problem-solving.
-  \item Crafted detailed prompts to evaluate, generate, and refine technical solutions.
-  \item Utilized software concepts to develop and understand project workflow and design.
+  \item Built an end-to-end ML pipeline ingesting live Tekken 8 match data to predict win probabilities
+  \item Integrated a Groq LLM to translate model predictions into natural-language explanations
+  \item Designed a modular pipeline spanning data collection through LLM output over a 500M+ record dataset
+\end{itemize}
+
+\projhead{Spend-Wiser}{https://github.com/JesseChum/w26-sdev372-spendwiser-finance-tracker}{React, TypeScript, CSS, Docker, Jest, Supertest}
+\begin{itemize}
+  \item Conducted sprint-based programming weeks collaborating with fellow students to fulfill a project
+  \item Utilized TypeScript to build frontend and backend logic for communication within the web app
+  \item Utilized Docker to host and run the project in a protected virtual environment
 \end{itemize}
 
 % ── EDUCATION ─────────────────────────────────────────────────────────────────
