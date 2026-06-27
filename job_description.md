@@ -1,72 +1,60 @@
 ---
-company: salesforce
-role: Software_Engineer
+company: Pinterest
+role: Software_Engineer_I
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-About Futureforce University Recruiting
 
-Our Futureforce University Recruiting program is dedicated to attracting, retaining and cultivating talent. Our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. With offices all over the world, our recruits have the chance to collaborate and connect with fellow employees on a global scale. We offer job shadowing, mentorship programs, talent development courses, and much more.
+About Pinterest:
 
-Job Category
+Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
 
-Software Engineering
-Job Details
+Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.
 
-About Salesforce
+At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.
 
-Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn’t a buzzword — it’s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping Salesforce's core values at the heart of it all.
+Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.
 
-Ready to level-up your career at the company leading workforce transformation in the agentic era? You’re in the right place! Agentforce is the future of AI, and you are the future of Salesforce.
+We are looking for inquisitive, well-rounded Backend engineers to join our Monetization engineering teams. Working closely with product managers, designers, data scientists, and backend engineers, you’ll play an important role in enabling the newest technologies and experiences as we scale and evolve. You will build robust frameworks & features. You will accelerate velocity for one of the world’s largest public cloud workloads. You will empower both developers and Pinners alike. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.
 
-The Experience
+What you’ll do:
 
-Want your line of code to have a significant and measurable positive impact for users, the company's bottom line, and industry? Join Salesforce and define the future of cloud computing. We deliver a scalable, high performance cloud computing platform that delights our customers, and is used by millions of people around the world each day for their business. You will be working with a group of world-class engineers to build breakthrough features that our customers will love, adopt and use while keeping our trusted platform stable and scalable. The software engineer role at Salesforce encompasses architecture, design, implementation, and testing to ensure we build products right and release them with high quality.
+Build out the backend for Pinner-facing features to power the future of inspiration on Pinterest
+Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users
+Partner with design, product, and backend teams to build end-to-end functionality
+Put on your Pinner hat to suggest new product ideas and features
+Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features you develop
+Grow as an engineer by working with world-class peers on varied and high impact projects
+Design, develop, and operate large scale, distributed systems and networks
+Work with Engineering customers to understand new requirements and address them in a scalable and efficient manner
+Actively work to improve the developer process and experience in all phases from coding to operation
+What we’re looking for:
 
-We are looking for the best and brightest college graduates to join our team of world class, highly motivated software engineers and cloud computing experts. You will have a chance to be mentored and network with senior levels at Salesforce, and be a part of a year long graduate program with various targeted events throughout the year.
+1+ years of industry backend development experience, building consumer or business facing products
+Proficiency in common backend tech stacks for RESTful API, online service, storage, caching and data processing
+Experience building & operating large scale distributed systems and/or networks. Bonus points if you enjoy deploying and operating large scale workloads on a public cloud footprint
+Experience in Python, Java, C++, or Go or another language and a willingness to learn
+Experience in following best practices in writing reliable and maintainable code that may be used by many other engineers
+Ability to keep up-to-date with new technologies to understand what should be incorporated
+Strong collaboration and communication skills
+Bachelor’s/Master’s degree in a relevant field such as Computer Science, or equivalent experience
+Relocation Statement:
 
-From Marketing Cloud to Service Cloud, Platform to IoT, Einstein Platform, Security and everything in between we have many opportunities available across various applications and platforms. Apply now and we look forward to reaching out to you with opportunities that fit your background and interests!
+This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.
+In-Office Requirement Statement:
 
-What You'll Actually Be Doing
- 
-Architect, design, implement, test and deliver highly scalable products
-Master our development process, culture and code base, then improve it
-Work closely with a team of engineers, product managers, user experience experts and performance engineers to build new features our customers will love, adopt and use while keeping our trusted platform stable and scalable
-Develop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metrics
-Analyze, design and develop test cases and implement automated test suites
+We let the type of work you do guide the collaboration style. That means we're not always working in an office, but we continue to gather for key moments of collaboration and connection.
+This role will need to be in the office for in-person collaboration [1x per week] and therefore needs to be in a commutable distance from one of the following offices in Seattle.
+#LI-HYBRID
 
+At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
 
-You're Our Person If...
- 
-Strong background in Computer Science or a related engineering discipline.
-Must be located in North America
-Academic, professional or internship experience working in a professional coding setting environment
-Fluency in object-oriented programming/design
-Academic, professional or internship experience in one of Java, Python, Javascript, HTML, SQL or C++
+Information regarding the culture at Pinterest and benefits available for this position can be found here.
 
+US based applicants only
+$120,753—$211,318 USD
+Our Commitment to Inclusion:
 
-Even Better If...
-
-Experience using and critically reviewing code and artifacts generated by large language model (LLM) coding assistants and agentic tools
-Ability to effectively guide AI tools to achieve desired outcomes
-Experience using Copilot, Cursor, Claude Code, Gemini or other agent-based frameworks
-Strong analytical and problem-solving skills
-Team-player with the ability to work effectively and efficiently with others
-Be a self-starter and possess strong sense of self-motivation
-Experience using telemetry and metrics to drive operational excellence
-Unleash Your Potential
-
-When you join Salesforce, you’ll be limitless in all areas of your life. Our benefits and resources support you to find balance and be your best, and our AI agents accelerate your impact so you can do your best. Together, we’ll bring the power of Agentforce to organizations of all sizes and deliver amazing experiences that customers love. Apply today to not only shape the future — but to redefine what’s possible — for yourself, for AI, and the world.
-
-Accommodations
-
-If you need a reasonable accommodation during the application or the recruiting process, please submit a request via this Accommodations Request Form.
-
-Please note that Salesforce uses artificial intelligence (AI) tools to help our recruiters assess and evaluate candidates’ resumes and qualifications throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options.
-
-Posting Statement
-
-Salesforce is an equal opportunity employer and maintains a policy of non-discrimination with all employees and applicants for employment. What does that mean exactly? It means that at Salesforce, we believe in equality for all. And we believe we can lead the path to equality in part by creating a workplace that’s inclusive, and free from discrimination. Know your rights: workplace discrimination is illegal. Any employee or potential employee will be assessed on the basis of merit, competence and qualifications – without regard to race, religion, color, national origin, sex, sexual orientation, gender expression or identity, transgender status, age, disability, veteran or marital status, political viewpoint, or other classifications protected by law. This policy applies to current and prospective employees, no matter where they are in their Salesforce employment journey. It also applies to recruiting, hiring, job assignment, compensation, promotion, benefits, training, assessment of job performance, discipline, termination, and everything in between. Recruiting, hiring, and promotion decisions at Salesforce are fair and based on merit. The same goes for compensation, benefits, promotions, transfers, reduction in workforce, recall, training, and education.
-
-In the United States, compensation offered will be determined by factors such as location, job level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, and benefits.  Salesforce offers a variety of benefits to help you live well including: time off programs, medical, dental, vision, mental health support, paid parental leave, life and disability insurance, 401(k), and an employee stock purchasing program. More details about company benefits can be found at the following link: https://www.salesforcebenefits.com.Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.
+By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.
