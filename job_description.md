@@ -1,41 +1,45 @@
 ---
-company: FinPilot
+company: Amazon
 role: Software_Engineer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
 Job description
-We've built an AI platform for finance and investment professionals that integrates with critical applications to create a unified intelligence layer. Our platform serves as the central nervous system for financial organizations, connecting disparate systems and workflows through a sophisticated AI layer. 
+Amazon Leo is Amazon’s low Earth orbit satellite network. Our mission is to deliver fast, reliable internet connectivity to customers beyond the reach of existing networks. From individual households to schools, hospitals, businesses, and government agencies, Amazon Leo will serve people and organizations operating in locations without reliable connectivity.
 
-Our platform empowers investment management professionals to streamline complex workflows through AI agents and intelligent automation, enabling better decision making and operational efficiency. We've solved two of the most complex problems applying AI to financial organizations. First is precision and accuracy which are non-negotiable in this industry. Second is building an AI system that deeply understands the entire organization, their data and workflows—both essential for building the modern investment office with AI.
+Export Control Requirement:
+Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.
 
-We’re a seed-stage company funded by Madrona Venture Group. We work with some of the world's largest asset managers who manage trillions of dollars. We are a team with deep expertise in finance and technology and are growing fast. Our team brings decades of financial industry experience and has previously built fintech companies acquired by Nasdaq and ADP. 
+This is a full-time position, meaning candidates should expect to work in office, Monday-Friday, up to 40 hours per week typically between 8am-5pm. Specific team norms around working hours will be communicated by your manager.
 
- 
+NOTE: By applying to this position, your application will be considered for all Application-Specific Integrated Circuit roles at all locations we hire for in the United States including but not limited to: Greater Seattle Area (Seattle, Bellevue, Redmond), Greater Bay Area (San Francisco, Sunnyvale, Santa Clara), Greater DMV (DC, MD, VA), Austin (TX), New York City (NY), Minneapolis (MN).
 
-As a Software Engineer You'll
+At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The intense focus we have on our customers is why we are one of the world’s most beloved brands. Customer obsession is part of our company DNA.
 
-Drive core product development across our full stack (Python, React/TypeScript, AWS, PostgreSQL, MongoDB)
-Build systems where financial accuracy is non-negotiable
-Improve retrieval and context systems to efficiently process financial information at enterprise scale
-Design agent architectures to coordinate complex financial tasks with high reliability
-Develop verification and auditability systems for AI outputs
-Build the central integration layer that connects with critical financial applications across the enterprise
- 
+As part of a project team you will work alongside Senior ASIC Engineers; supporting the design, debug, validation and optimization of the products. You will be involved in projects from concept through production, gaining exposure to the complete design lifecycle. You will also support engineering builds gaining experience with high volume manufacturing. Some positions may require international travel.
 
-What we're looking for
+Key job responsibilities
+As an ASIC Engineer you will engage with an experienced cross-disciplinary staff to conceive and design innovative consumer products. You will work closely with an internal inter-disciplinary team, and outside partners to drive key aspects of product definition, execution, and verification. You must be responsive, flexible and able to succeed within an open collaborative peer environment.
+Responsibilities:
+● Participate in logic design, verification and post-silicon validation as part of Amazon custom silicon solutions.
+● Work with physical design teams to achieve performance and area requirements.
+● Develop a deep understanding of the end customer requirements, including software applications, use models, system architecture and the SoC architecture/micro-architecture of our solutions.
+● Develop and execute design automation mechanisms and flows.
 
-Strong programming skills across the full stack
-Proven track record building impactful projects or production code
-Experience with our tech stack: Python, React/TypeScript, AWS, PostgreSQL, MongoDB
- 
+A day in the life
+We’re on the lookout for the curious, those who think big and want to define the world of tomorrow.
+At Amazon, you will grow into the high impact, visionary person you know you’re ready to be. Every day will be filled with exciting new challenges, developing new skills, and achieving personal growth.
+How often can you say that your work changes the world? At Amazon, you’ll say it often. Join us and define tomorrow.
 
-What we offer
+Basic qualifications
 
-Competitive salary with fully covered health benefits (including dental and vision)
-Above-market equity
-Opportunity to shape AI products for the asset management industry
- 
+Currently has, or is in the process of obtaining, a Bachelor's degree or above in Electrical Engineering, Computer Engineering, or related fields
+Experience troubleshooting and debugging technical systems, or experience demonstrating software engineering skills in a previous intership, work experience, coding competitions, or publications and experience that includes strong analytical skills, attention to detail, and effective communication abilities
+Experience in RTL coding and debug, as well as performance, power, area analysis and trade-offs
+Experience in C/C++ and system Verilog coding
+Experience working closely with physical design teams to develop highly optimized ASICs with excellent power, performance and area
+Experience with modern ASIC/FPGA design and verification tools
+Preferred qualifications
 
-You'll be joining our small and talent dense team where your contributions will directly impact the future of our company. This is a chance to solve unique technical challenges at the intersection of AI and finance—building systems that serve as the operational backbone for large financial enterprises with their complex, interconnected infrastructures. You'll tackle problems where complete accuracy is essential and help define the next generation of financial systems powered by AI
+Experience that includes strong analytical skills, attention to detail, and effective communication abilities
