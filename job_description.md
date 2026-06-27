@@ -1,67 +1,108 @@
 ---
-company: Anduril
+company: DAT
 role: Software_Engineer_I
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
+About DAT
 
-Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
-
-ABOUT THE JOB
-We are looking for Software Engineers to join our rapidly growing team! These roles are targeted to start on a quarterly basis beginning in 2026. We hire self-motivated people, those who hold a higher bar for themselves than anyone else could hold for them. If you are eager to solve tough problems, then this role might be for you! 
-
-WHAT YOU’LL DO
-Support the software solutions that are deployed to customers and key stakeholders.
-Write code to improve products and scale the mission capability to more customers.
-Collaborate across multiple teams to plan, build, and test complex functionality.
-Create and analyze metrics that are leveraged for debugging and monitoring.
-Triage issues, root cause failures, and coordinate next-steps.
-Work on real, meaningful projects and learn from experienced professionals along the way.
-REQUIRED QUALIFICATIONS
-Must be pursuing or have completed a Bachelor’s or Master’s degree in Computer Science, Computer/Software Engineering, Mathematics, Physics, or a related field.
-3 months - 2 years of technical work to include technical internship and able to start full time in 2026. 
-Familiarity with algorithms, data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.
-Proficiency in a variety of programming languages such as C++, Go, Rust, Java, and Python.
-A desire to work on software and applications that have real-world impact.
-Must be a U.S. Person due to required access to U.S. export controlled information or facilities; U.S. clearance eligibility may be required depending on program.
-PREFERRED QUALIFICATIONS
-Have a bias for action. If you see a problem, you want to solve and fix it.
-Be naturally curious about the technologies and tools you use.
-Low-ego, high ownership, and mission oriented.
-Anduril is an equal-opportunity employer, and we encourage candidates from all backgrounds to apply. If you are someone passionate to work on problems that matter, we’d love to hear from you!
-
-US Salary Range
-
-$115,000 - $135,000 USD
-
-The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including: 
+DAT is an award-winning employer of choice and a next-generation SaaS technology company that has been at the leading edge of innovation in transportation supply chain logistics for 45 years. We continue to transform the industry year over year, by deploying a suite of software solutions to millions of customers every day - customers who depend on DAT for the most relevant data and most accurate insights to help them make smarter business decisions and run their companies more profitably. We operate the largest marketplace of its kind in North America, with 400 million freights posted in 2022, and a database of $150 billion of annual global shipment market transaction data. Our headquarters are in Denver, CO, and Beaverton, OR, with additional offices in Seattle, WA; Springfield, MO; and Bangalore, India. For additional information, see www.DAT.com/company
 
  
 
-Benefits
-At Anduril, we invest in our people. Our comprehensive, competitive benefits package (available at little to no cost to employees) ensures you’re supported in health, recovery, and whatever comes next. For more information, Explore Our Benefits.
+Job Application Deadline: 07/31/2026
 
  
 
-Protecting Yourself from Recruitment Scams
-Anduril is committed to maintaining the integrity of our Talent acquisition process and the security of our candidates. We've observed a rise in sophisticated phishing and fraudulent schemes where individuals impersonate Anduril representatives, luring job seekers with false interviews or job offers. These scammers often attempt to extract payment or sensitive personal information.
+The Opportunity
 
-To ensure your safety and help you navigate your job search with confidence, please keep the following critical points in mind:
+Broker Tech builds products for the Convoy Platform at DAT, enabling brokers to match and execute shipments while they work seamlessly within their Transportation Management Systems (TMS). We partner with brokers to transform how they work, grow, and succeed by:
 
-No Financial Requests: Anduril will never solicit payment or demand personal financial details (such as banking information, credit card numbers, or social security numbers) at any stage of our hiring process. Our legitimate recruitment is entirely free for candidates.
+Empowering Matching: Building smarter tools and visibility that boost broker match rates and strengthen carrier connections.
+Fueling Growth: Enabling brokers to expand through better pricing, new freight categories, and integrations.
+Ensuring Payments: Strengthening and automating broker payment processes to reduce risk and ensure reliability.
+Enabling Ideal Experiences: Delivering seamless workflows via APIs and webhooks between the Convoy Platform and TMSs, with self-service configuration and onboarding tools.
+We care as much about how software runs in production as what it does. If you like understanding the full path from a code change to a healthy, observable, safely-deployed service, you'll fit in here.
 
-Please always verify communications:
-Direct from Anduril: If you receive an email from one of our recruiters, it will only come from an @anduril.com address.
-Via Agency Partner: If contacted by a recruiting agency for an Anduril role, their email will clearly identify their agency. If you suspect any suspicious activity, please verify the agency's authenticity by reaching out to contact@anduril.com. 
-Exercise Caution with Unsolicited Outreach: If you receive any communication that appears suspicious, contains grammatical errors, or makes unusual requests, do not engage. Always confirm the sender's email domain is @anduril.com before providing any personal information or clicking on links.
+What You'll Do
 
-What to Do If You Suspect Fraud: Should you encounter any questionable or fraudulent outreach claiming to be from Anduril, please report it immediately to contact@anduril.com. Your proactive caution is invaluable in protecting your personal information and upholding the security and trustworthiness of our recruitment efforts.
+Hands-On Development
+
+Write, test, and deploy production-quality code with guidance from senior engineers.
+Build and maintain backend services in Node.js/TypeScript and contribute to React frontends as needed.
+Implement and support message-driven workflows (Kafka/RabbitMQ) using existing patterns and reusable components.
+Improve code quality and maintainability as you deliver features (tests, refactors, documentation).
+Infrastructure & Reliability
+
+Learn how our services are built, deployed, and operated (containers with Docker, orchestration with Kubernetes, and infrastructure-as-code with Terraform) and make changes to them with mentorship.
+Add and improve observability (logs, metrics, traces, dashboards, alerts) so the systems you touch are easy to reason about in production.
+Contribute to CI/CD pipelines and safe deployment practices (feature flags, staged rollouts, rollbacks).
+Treat operational health as a feature: help tune alerts, reduce toil, and harden the services in your area.
+Collaboration & Growth
+
+Partner with product and business stakeholders to clarify requirements in a complex domain.
+Participate in code reviews (both receiving and giving) and incorporate feedback quickly.
+Learn the team's operational practices: monitoring, alerts, on-call support, and incident follow-ups.
+Grow ownership over time: take on increasingly complex tickets, then small projects, including the infrastructure that supports them.
+What Excites Us About This Role
+
+As the Convoy platform expands into a critical marketplace for brokers, this team shapes outcomes that matter for broker workflows and reliability.
+High ownership with support: you'll ship meaningful work while learning from senior engineers in a complex, real-world domain.
+Lots of surface area: integrations, workflows, payments, messaging, partner-facing APIs, and the cloud infrastructure, pipelines, and observability that keep it all running.
+What We're Looking For
+
+1 to 5 years of professional software engineering experience (or equivalent).
+Solid engineering fundamentals: debugging, testing, code quality, and clear written communication.
+Familiarity with TypeScript/Node.js/JavaScript (or strong Java/C#/Go experience with willingness to ramp).
+Familiarity with SQL databases (schema basics, writing queries, migrations with guidance).
+Curiosity about how systems run in production (deployment, monitoring, and reliability) and a willingness to dig in.
+Willingness to participate in on-call rotation and incident follow-ups (with support and training).
+Bonus Skills
+
+Hands-on exposure to cloud platforms (AWS preferred) and infrastructure-as-code (Terraform, CloudFormation, or similar).
+Docker/Kubernetes familiarity.
+CI/CD experience (tests in pipeline, safe deploy patterns, feature flags).
+Experience with observability tooling (Datadog, OpenSearch/ELK, Prometheus/Grafana, or similar): dashboards, alerts, tracing.
+Experience with microservices in production.
+Hands-on exposure to Kafka/RabbitMQ/SQS patterns (retries, DLQs, idempotency), or willingness to learn.
+Comfort working with APIs (REST preferred; GraphQL a plus) and collaborating on contracts.
+Familiarity with React and modern frontend development fundamentals.
+Background in transportation/logistics or complex B2B integrations.
+ 
+
+Why DAT?
+DAT is an award winning employer of choice.
+
+For starters, we have a hybrid work environment, but we also know what makes a great workplace. We have a time-tested and resolute set of operating values predicated on integrity, mutual respect, open communication, and executing with excellence. These values inform our strategic vision as much as any one of our products does. We’ve been an employer of choice in the Portland metropolitan area for four decades, and within one year of opening our Denver office, DAT was #26 on Built In Colorado’s 100 Best Places to Work In Colorado.
+
+Medical, Dental, Vision, Life, and AD&D insurance
+Parental Leave
+Flexible Vacation Time (FVT)
+An additional 10 holidays of paid time off per calendar year
+401k matching (immediately vested)
+Employee Stock Purchase Plan
+Short- and Long-term disability sick leave
+Flexible Spending Accounts
+Health Savings Accounts
+Employee Assistance Program
+Additional programs - Employee Referral, Internal Recognition, and Wellness
+Free TriMet transit pass (Beaverton Office)
+Competitive salary and benefits package
+Work on impactful projects in a cutting-edge environment
+Collaborative and supportive team culture
+Opportunity to make a real difference in the trucking industry
+Employee Resource Groups
+ 
+
+**This position is not eligible for visa sponsorship**
+
+For Washington-based candidates, in compliance with the Washington State Pay Transparency Law, the salary range for this role is $122,000.00 - $157,000.00 + Target Bonus. DAT considers factors such as scope and responsibilities of the position, candidate's work experience, education and training, core skills, internal equity, and market and business elements when extending an offer.
 
  
-Data Privacy
-To view Anduril's candidate data privacy policy, please visit https://anduril.com/applicant-privacy-notice/. 
 
- 
+DAT embraces the value of a diverse workforce, and believes it is a core strength of our company that we encourage those values in every DAT employee, at every level of our organization, regardless of tenure or rank. We provide equal employment opportunities (EEO) to all employees and applicants without regard to race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state, and local laws.
 
-By submitting your application, you consent to Anduril Industries using a third-party service provider to conduct pre-employment risk, integrity, and due diligence screening and assessing potential risks as part of your application process. This third-party service provider provides risk-intelligence services that may include analysis of sanctions and watchlists, adverse media, public-record information, and other lawful open-source or commercial data sources. This third-party service provider does not act as a consumer reporting agency. Use of this provider helps to ensure compliance with applicable laws and protect technology, intellectual property, and organizational security.
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)
