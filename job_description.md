@@ -1,64 +1,70 @@
 ---
-company: ISoftStone
-role: Associate_AI_Developer
+company: Carbon_Robotics
+role: Jr_Software_Engineer_Mobile
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Description
+The Carbon Robotics LaserWeeder™ leverages advanced robotics, computer vision, AI/deep learning, and lasers to eliminate weeds with sub-millimeter accuracy—all without herbicides. This innovative solution reduces environmental impact, promotes soil health, and helps farmers address labor shortages and rising costs. Designed in Seattle and built at our cutting-edge manufacturing facility in Richland, Washington, the LaserWeeder is setting a new standard for automated weed control. With $157 million in funding from prominent investors such as BOND, NVentures (NVIDIA’s venture arm), Anthos Capital, Fuse Venture Capital, Ignition Partners, Revolution, Sozo Ventures, and Voyager Capital, Carbon Robotics is driving innovation.
 
-iSoftStone, Inc. is seeking an Associate AI Developer to join our Team
+As a no-nonsense team with a bias for action, we take pride in executing our ideas. Whether it’s designing transformative technology or visiting farms to ensure our products are reliable and safe, we do whatever it takes to deliver for our customers. 
 
-In New York, NY, Seattle, WA or Dallas, TX (Hybrid opportunity)
+Working here means tackling big problems with big impact. You’ll find opportunities to grow professionally, solve complex challenges, and make meaningful contributions to a mission that matters. At Carbon Robotics, we trust our team to act independently and make practical, real-world decisions. 
 
+Join us as we innovate, execute, and build the future of farming together.
 
+YouTube | X | Instagram | LinkedIn | News
 
-
-**Applicants must be authorized to work for ANY employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.**
-
+As a Junior Mobile Software Engineer at Carbon Robotics, you will learn from world-class engineers across software, mechanical, and electrical disciplines. You will get immediate, hands-on mentorship and play a key role in designing and implementing the mobile applications our customers use to control advanced robotic systems. We are looking for an ambitious builder who does whatever it takes to deliver safe, reliable software. That might include leaving your desk, heading out to the farm, and watching your code drive cutting edge robotics in the field. 
  
+What you’ll do:
 
-Summary: 
+Partner with Engineering teams and Product Managers to build our mobile farmer facing applications to ensure farmers have a great experience.
+Quickly build and troubleshoot mobile applications that are simple, yet elegant using Flutter.
+What you’ll build delivers critical information to farmers about the efficacy of their weeding and the health of their crops around the globe, as well as enable seamless operations of their robots.
+Knowledge, Skills, and Abilities for Success:
 
-iSoftStone, Inc. is seeking an Associate AI Developer to help build and ship production-grade AI services. This training-based, early-career role is ideal for recent graduates eager to grow into hands-on AI engineers, working alongside senior developers on real client projects spanning agentic applications, orchestration, observability, and computer vision—across a cloud-agnostic stack.
- 
+Experience building mobile applications. 
+Experience with cross platform development using tools like Flutter or React Native.
+Knowledge of interacting with a backend service, APIs and publishing to App Store
+Effective verbal and written communication skills and a desire to work in multidisciplinary teams.
+BS+ in Computer Science or related field.
+Willing to work in the Seattle office 4 days per week.
+Qualified applicants will receive a short survey after applying to help the team learn more about you.
 
-Responsibilities:
+Carbon Robotics follows equitable hiring practices. Flexibility in our hiring process allows hiring of talent at levels different from what are posted.  The compensation range outlined is based on a target budgeted base salary. Individual base pay depends on various factors such as relevant experience and skill, Interview assessments and responsibility of role, job duties/requirements. Offers are determined using our equitable hiring practices. Carbon Robotics offers additional compensation in the form of benefits premiums, pre-IPO stock options and On Target Earning commissions for appropriate positions. Base pay ranges are reviewed each year. We are committed to the principle of pay equity – paying employees equitably for similar work.
 
-Build AI services: Develop and help deploy services and microservices that integrate LLMs and classical ML (real-time APIs, batch, and event-driven workloads).
-Agentic & orchestration: Contribute to agent workflows and tool-use orchestration using frameworks such as LangChain, with structured I/O via Pydantic.
-Vision & deep learning: Help develop and integrate CNNs and vision models (classification, detection, OCR) into production pipelines.
-Observability: Instrument services with logging, tracing, and evaluation hooks; help monitor quality, latency, cost, and drift.
-Cloud-agnostic delivery: Build AI integrations on AWS, Azure, or NVIDIA tooling—and with open-source models—favoring portable, well-tested code.
-Quality & collaboration: Write tests from specs, join code reviews and design discussions, and respond constructively to feedback.
- 
-Qualifications:
+Carbon Robotics' base salary pay range:
 
-Education: Recently graduated from, a degree/certificate program in Computer Science, AI/ML, Data Science, Engineering, or a related field.
-Experience: Up to 2 years of practical experience (internships, co-ops, or substantial academic/personal projects) developing software or AI applications.
-AI cloud services: Hands-on exposure building AI services and integrations with one or more of: AWS (Bedrock, SageMaker), Azure (AI Foundry/AI Studio, Azure OpenAI), NVIDIA (CUDA, NIM, Triton), or open-source (LangChain, Pydantic, Python).
-Programming: Solid Python foundation plus software engineering fundamentals (version control, testing, APIs, clean code).
-Mindset: Cloud-agnostic and portability-minded; strong problem-solver; open to learning and feedback in a fast-paced environment.
- 
-Preferred Skills
+$120,000 - $135,000 USD
 
-Familiarity with agentic patterns, tool-use orchestration, or the Model Context Protocol (MCP); RAG and vector search (Pinecone, Weaviate, FAISS).
-Exposure to deep learning frameworks (PyTorch, TensorFlow), MLOps/observability (MLflow, OpenTelemetry), containers (Docker, Kubernetes), or CI/CD.
-Prior internship, capstone, or project work involving AI, data, or cloud services
-Education
-• BS/MS/certificate program in Computer Science, Engineering, AI/ML, Data Science or related field; equivalent experience considered.
- 
+Why would you join Carbon Robotics?
 
-Primary Location Pay Range: $20 per hour
+Passion for building teams capable of solving uniquely interesting problems. Innovation while disrupting the market is what we do.  Profiled in WSJ and Forbes, Carbon Robotics is poised to become the next billion dollar company in the rapidly growing worldwide Ag-Tech industry.
 
- 
+We offer competitive compensation and benefits to our full time US based* employees, including:
 
-iSoftStone is a global IT service and consulting company that creates value and drives success through technology solutions, service excellence, and digital innovation. We specialize in web and application development, software testing and support, data and content management, digital experience, accessibility, and data for machine learning and AI. With 20 delivery centers and more than 90,000 employees worldwide, iSoftStone is proud to serve some of the world’s most well-known businesses, including 90+ Fortune Global 500 companies.
+Competitive salaries
+Pre-IPO Stock Options
+Generous Benefits:
+Fully-paid medical, dental, and vision insurance premiums for you and all dependents
+Choice of PPO or HDHP/HSA
+Virtual Care - Doctor on Demand
+Employee Assistance Program
+Mental Health HRA
+Restricted Healthcare Travel support
+Menopause Support
+Life Insurance
+Long Term Disability
+Flexible PTO
+401(k) plan
+Pet Insurance
+Commuter Benefits
+Work Culture: Be a part of an inclusive and tight-knit company culture that values innovation and mission-driven success.
+*Internationally based employees benefits varies & Contractors are not eligible for Carbon Robotics Benefits or Stock
 
- 
+Carbon Robotics is building a culture of diversity and inclusion for all.  We welcome everyone’s voice and believe in open and transparent communication. We believe the best products, services, and companies are built by strong teams that include a diversity of backgrounds, perspectives, ideas, and experiences. We are committed to supporting and enabling growth and opportunity for every employee at every level. This is the foundation to which we will build a truly unique environment.
 
-Visit us at https://www.isoftstoneinc.com.
+We are equally committed to equal employment opportunity, and it is foundational to how we recruit and hire our talented team. Employment is determined based upon capabilities and qualifications without discrimination on the basis of race, creed, color, religion, sex, gender identification and expression, marital status, military status or status as an honorably discharge/veteran, pregnancy (including potential pregnancy, pregnancy-related conditions, and childbearing), sexual orientation, age (40 and over), national origin, ancestry, citizenship or immigration status, physical, mental, or sensory disability , HIV/AIDS or hepatitis C status, genetic information, status as an actual or perceived victim of domestic violence, sexual assault, or stalking, or any other protected class as established by law.
 
- 
-
-iSoftStone is committed to the practice of equal opportunity for all its employees and applicants in employment, and does not discriminate on the basis of race or ethnicity, color, age, national origin, religion, creed, marital status, sex, pregnancy, gender, gender identity, sexual orientation, status as an honorably discharged veteran or disabled veteran or military status, political affiliation or belief, citizenship/status as a lawfully admitted immigrant authorized to work in the United States, or presence of any physical, sensory, or mental disability. In addition, reasonable accommodation will be made for known physical or mental limitations for all otherwise qualified persons with disabilities.
+#talentacquisition #laserweeding #laserweeder #weedcontrol #agtech #agtechnology #farmtech #robotics #lasers #lasersandrobots #missiondriven #AI #startup #wearehiring #computervision #machinelearning #carbonrobotics
