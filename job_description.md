@@ -1,60 +1,75 @@
 ---
-company: Pinterest
+company: ByteDance
 role: Software_Engineer_I
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
 
-About Pinterest:
+The Compute Infrastructure team uses Kubernetes and Serverless technologies to build a large, reliable, and efficient compute infrastructure. This infrastructure powers hundreds of large-scale clusters globally, with over millions of online containers and offline jobs daily, including AI and LLM workloads. The team is dedicated to building cutting-edge, industry-leading infrastructure that empowers AI innovation, ensuring high performance, scalability, and reliability to support the most demanding AI/LLM workloads.The team is also dedicated to open-sourcing key infrastructure technologies, including projects in the K8s portfolio such as kubewharf (KubeBrain, Katalyst, Godel, etc)..
 
-Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
+At ByteDance, as we expand and innovate, powering global platforms like TikTok and various AI/ML & LLM initiatives, we face the challenge of enhancing resource cost efficiency on a massive scale within our rapidly growing compute infrastructure. We're seeking talented software engineers excited to optimize our infrastructure for AI & LLM models. Your expertise can drive solutions to better utilize computing resources (including CPU, GPU, power, etc.), directly impacting the performance of all our AI services and helping us build the future of computing infrastructure. Also, with the goal of growing compute infrastructure in overseas regions, including North America, Europe, and Asia Pacific, you will have the opportunities of working closely with leaders from ByteDance’s global business units to ensure that we continue to scale and optimize our infrastructure globally.
 
-Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.
+We are looking for talented individuals to join our team in 2026. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth. Launch your career where inspiration is infinite at ByteDance.
 
-At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we’re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we’ll explore your foundational skills and how you collaborate with AI.
+Successful candidates must be able to commit to an onboarding date by end of year 2026. Please state your availability and graduation date clearly in your resume.
 
-Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process here.
+Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to ByteDance and its affiliates' jobs globally. Applications will be reviewed on a rolling basis. We encourage you to apply as early as possible.
 
-We are looking for inquisitive, well-rounded Backend engineers to join our Monetization engineering teams. Working closely with product managers, designers, data scientists, and backend engineers, you’ll play an important role in enabling the newest technologies and experiences as we scale and evolve. You will build robust frameworks & features. You will accelerate velocity for one of the world’s largest public cloud workloads. You will empower both developers and Pinners alike. You’ll have the opportunity to find creative solutions to thought-provoking problems. Even better, because we covet the kind of courageous thinking that’s required in order for big bets and smart risks to pay off, you’ll be invited to create and drive new initiatives, seeing them from inception through to technical design, implementation, and release.
+Responsibilities
+- Assist in analyzing and supporting enhancements to Hyper-Scale AI Infrastructure platforms, focusing on improving performance, scalability, and resilience for both traditional workloads and large language model (LLM) applications.
+- Contribute to performance optimization efforts for Kubernetes-based infrastructure, including monitoring pod lifecycle, tracking resource utilization, and analyzing system behavior under varying load conditions—working closely with senior engineers to identify improvement opportunities.
+- Lead small-scale development tasks related to resource management and scheduling in Kubernetes clusters, such as testing configuration updates, automating routine resource allocation workflows, or contributing to tooling for efficiency tracking.
+- Engage actively in team discussions on AI infrastructure design and optimization strategies, leveraging academic knowledge and personal projects to propose fresh insights and potential solutions.
+- Develop and maintain clear technical documentation, including runbooks, architecture diagrams, and process guides, to strengthen knowledge sharing and operational efficiency across the team.
 
-What you’ll do:
+Qualifications
 
-Build out the backend for Pinner-facing features to power the future of inspiration on Pinterest
-Contribute to and lead each step of the product development process, from ideation to implementation to release; from rapidly prototyping, running A/B tests, to architecting and building solutions that can scale to support millions of users
-Partner with design, product, and backend teams to build end-to-end functionality
-Put on your Pinner hat to suggest new product ideas and features
-Employ automated testing to build features with a high degree of technical quality, taking responsibility for the components and features you develop
-Grow as an engineer by working with world-class peers on varied and high impact projects
-Design, develop, and operate large scale, distributed systems and networks
-Work with Engineering customers to understand new requirements and address them in a scalable and efficient manner
-Actively work to improve the developer process and experience in all phases from coding to operation
-What we’re looking for:
+Minimum Qualifications
+- Individuals who are completing or have recently completed a [Bachelor’s/ Master’s] degree in Software Development, Computer Science, Computer Engineering, or a related technical discipline.
+- Proficiency in at least one major programming language such as Python, Go, C++, Rust, and Java.
+- Solid understanding of at least one of the following fields: Unix/Linux environments, distributed and parallel systems, high-performance networking systems, developing large scale software systems
 
-1+ years of industry backend development experience, building consumer or business facing products
-Proficiency in common backend tech stacks for RESTful API, online service, storage, caching and data processing
-Experience building & operating large scale distributed systems and/or networks. Bonus points if you enjoy deploying and operating large scale workloads on a public cloud footprint
-Experience in Python, Java, C++, or Go or another language and a willingness to learn
-Experience in following best practices in writing reliable and maintainable code that may be used by many other engineers
-Ability to keep up-to-date with new technologies to understand what should be incorporated
-Strong collaboration and communication skills
-Bachelor’s/Master’s degree in a relevant field such as Computer Science, or equivalent experience
-Relocation Statement:
+Preferred Qualifications
+- Hands-on project experience with container and orchestration technologies such as Docker and Kubernetes through internships, coursework, or personal projects.
+- Experience in developing or contributing to cloud-native open-source projects.
 
-This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.
-In-Office Requirement Statement:
+Job Information
 
-We let the type of work you do guide the collaboration style. That means we're not always working in an office, but we continue to gather for key moments of collaboration and connection.
-This role will need to be in the office for in-person collaboration [1x per week] and therefore needs to be in a commutable distance from one of the following offices in Seattle.
-#LI-HYBRID
+【For Pay Transparency】Compensation Description (Annually)
 
-At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
+The base salary range for this position in the selected city is $124717 - $243200 annually.​
 
-Information regarding the culture at Pinterest and benefits available for this position can be found here.
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​
 
-US based applicants only
-$120,753—$211,318 USD
-Our Commitment to Inclusion:
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​
 
-Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.
-By submitting this application, I certify that all information submitted in my application and throughout the hiring process is true, accurate, and complete to the best of my knowledge. I understand that any false statement, omission, or misrepresentation may disqualify me from employment consideration or result in termination if discovered after hire.
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.​
+
+For Los Angeles County (unincorporated) Candidates:​
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​
+
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​
+
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​
+
+3. Exercising sound judgment.​
+
+About Us
+
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.​
+
+Why Join ByteDance
+
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.​
+
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
+
+Diversity & Inclusion​
+
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
+
+Reasonable Accommodation
+
+ByteDance is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request
