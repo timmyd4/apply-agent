@@ -1,60 +1,57 @@
 ---
-company: Twitch
+company: Microsoft
 role: Software_Engineer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-About Us
-Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day.
-
-We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X,  and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our interview process.
-
-About the Role
-Join Twitch’s Memberships team within the Commerce Engineering organization, where we’re building rewarding experiences allowing creators to make a living doing what they love. We’re the team behind our continuous patronage features including channel Subscriptions, Gifting, and Turbo.
-
-As a member of our team, you’ll work alongside our highly engaged and collaborative team to design, build and maintain systems that scale to millions of concurrent users. We actively seek to improve our experiences and are looking for members that are passionate about our end users.  
-
-Our team is based in San Francisco, CA and Seattle, WA
-
-You Will:
-Create interactive experiences that are rewarding for both viewers and creators 
-Architect and build robust, scalable applications that can handle millions of concurrent users
-Participate in Operational Excellence work to maintain and support our live services
-Collaborate with fellow engineers, product managers and designers to build new products and solutions
-You Have:
-1+ years of professional software development experience with a focus on building scalable systems
-Excellent proficiency in modern programming languages (Python, Java, Go) and distributed system technologies
-A track record of building product experiences that users love
-Sharp problem-solving skills with a focus on algorithms, data structures, and distributed system design
-Bachelor's degree in Computer Science, Engineering, or equivalent real-world experience
-Bonus Points
-Familiarity with Twitch's tech stack: Golang, TypeScript/React
-Experience working with mobile development, either native or hybrid
-Experience with AWS technologies like ECS, DynamoDB, Lambda, SQS, and Step Functions
-A passion for gaming, streaming, or the Twitch platform
-Perks
-Medical, Dental, Vision & Disability Insurance
-401(k)
-Maternity & Parental Leave
-Flexible PTO
-Amazon Employee Discount
+Overview
+Come build community, explore your passions, and do your best work at Microsoft. This opportunity as a Software Engineer will allow you to bring your aspirations, talent, potential and excitement for the journey ahead. 
  
+Microsoft is dedicated to transforming Azure into a global AI supercomputer, enabling the responsible development of cutting-edge foundational AI. This includes large language models (LLMs) designed to empower people to harness the world's knowledge, revolutionize interactions with technology, and enhance user experiences. 
+ 
+To solidify our leadership in AI, Microsoft has launched a groundbreaking program to develop the next generation of leaders in this field. Over the course of two years, participants will work in interdisciplinary project teams to provide AI as a service to engineering teams across Microsoft and solve some of our most exciting and challenging problems. In addition, you will have mentors, exposure to leaders, and access to numerous AI applied scientists, researchers, and engineers across the company. After completing the program, participants have the opportunity to join one of the sponsoring product teams and further accelerate their careers at Microsoft. 
+MAIDAP Software Engineers have the opportunity to leverage and implement cutting-edge AI technology to meet product needs, advancing the state-of-the-art both internally and externally. They act as the bridge between research and development (R&D), blending techniques from both domains to drive data-driven, research-based innovation from theory into practice. This role involves close collaboration with product managers and applied scientists in MAIDAP, and partnering product and technology teams across Microsoft. 
+ 
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond. 
+ 
+Please note that this position has a single start date in July 2026, candidates must be available to start full-time in July 2026. Unfortunately, we cannot accommodate earlier start dates. 
+#EiP #Maidap
 
-Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. 
 
-Job ID: TW9214
+Responsibilities
+Participate in the design and the implementation of AI solutions for Microsoft’s products and services.
+Test and review all new and modified code and data pipelines.
+Build out new API infrastructure, endpoints, and data pipelines, as necessary.
+Build reporting and monitoring mechanisms into our solutions.
+Analyze technology industry and market trends and choose their potential impact on the solutions.
+Develop patterns, standards, and guidelines necessary to uphold our design principles and maintain integrity of the product architecture.
+Participate in key project design reviews.
+Collaborate with partner teams for code integration and with product managers to translate functional requirements into working solutions.
+Patent and publish relevant IP and scientific research.
 
-The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
 
-US, WA, Seattle - Annually
+Qualifications
+Required Qualifications:
 
-$110,500 - $160,000 USD
+Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+OR equivalent experience
+Candidates must be available to start full-time in July 2026. 
+Preferred Qualifications:
 
-US, CA, San Francisco - Annually
+Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+OR Bachelor's Degree in Computer Science or related technical field AND 1+ year(s) technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+OR equivalent experience
+Experience in database systems and systems engineering.
+Experience in designing and developing high-scale distributed systems is a plus.
+Knowledge of cloud environments, machine learning, data visualization, and AI is a plus.
+Energized by creating AI solutions that can positively impact the work and lives of millions of people and excited by the prospect of working on a wide variety of datasets and AI applications, across many products and engineering teams.
 
-$127,100 - $185,000 USD
 
-Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+Software Engineering IC2 - The typical base pay range for this role across the U.S. is USD $85,400 - $168,100 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $111,100 - $183,700 per year.
 
-Twitch values your privacy. Please consult our Candidate Privacy Notice, for information about how we collect, use, and disclose personal information of our candidates.
+Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here:
+https://careers.microsoft.com/us/en/us-corporate-pay
+
+
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
