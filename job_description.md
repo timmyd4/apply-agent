@@ -1,70 +1,60 @@
 ---
-company: Carbon_Robotics
-role: Jr_Software_Engineer_Mobile
+company: Twitch
+role: Software_Engineer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-The Carbon Robotics LaserWeeder™ leverages advanced robotics, computer vision, AI/deep learning, and lasers to eliminate weeds with sub-millimeter accuracy—all without herbicides. This innovative solution reduces environmental impact, promotes soil health, and helps farmers address labor shortages and rising costs. Designed in Seattle and built at our cutting-edge manufacturing facility in Richland, Washington, the LaserWeeder is setting a new standard for automated weed control. With $157 million in funding from prominent investors such as BOND, NVentures (NVIDIA’s venture arm), Anthos Capital, Fuse Venture Capital, Ignition Partners, Revolution, Sozo Ventures, and Voyager Capital, Carbon Robotics is driving innovation.
+About Us
+Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day.
 
-As a no-nonsense team with a bias for action, we take pride in executing our ideas. Whether it’s designing transformative technology or visiting farms to ensure our products are reliable and safe, we do whatever it takes to deliver for our customers. 
+We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X,  and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our interview process.
 
-Working here means tackling big problems with big impact. You’ll find opportunities to grow professionally, solve complex challenges, and make meaningful contributions to a mission that matters. At Carbon Robotics, we trust our team to act independently and make practical, real-world decisions. 
+About the Role
+Join Twitch’s Memberships team within the Commerce Engineering organization, where we’re building rewarding experiences allowing creators to make a living doing what they love. We’re the team behind our continuous patronage features including channel Subscriptions, Gifting, and Turbo.
 
-Join us as we innovate, execute, and build the future of farming together.
+As a member of our team, you’ll work alongside our highly engaged and collaborative team to design, build and maintain systems that scale to millions of concurrent users. We actively seek to improve our experiences and are looking for members that are passionate about our end users.  
 
-YouTube | X | Instagram | LinkedIn | News
+Our team is based in San Francisco, CA and Seattle, WA
 
-As a Junior Mobile Software Engineer at Carbon Robotics, you will learn from world-class engineers across software, mechanical, and electrical disciplines. You will get immediate, hands-on mentorship and play a key role in designing and implementing the mobile applications our customers use to control advanced robotic systems. We are looking for an ambitious builder who does whatever it takes to deliver safe, reliable software. That might include leaving your desk, heading out to the farm, and watching your code drive cutting edge robotics in the field. 
- 
-What you’ll do:
-
-Partner with Engineering teams and Product Managers to build our mobile farmer facing applications to ensure farmers have a great experience.
-Quickly build and troubleshoot mobile applications that are simple, yet elegant using Flutter.
-What you’ll build delivers critical information to farmers about the efficacy of their weeding and the health of their crops around the globe, as well as enable seamless operations of their robots.
-Knowledge, Skills, and Abilities for Success:
-
-Experience building mobile applications. 
-Experience with cross platform development using tools like Flutter or React Native.
-Knowledge of interacting with a backend service, APIs and publishing to App Store
-Effective verbal and written communication skills and a desire to work in multidisciplinary teams.
-BS+ in Computer Science or related field.
-Willing to work in the Seattle office 4 days per week.
-Qualified applicants will receive a short survey after applying to help the team learn more about you.
-
-Carbon Robotics follows equitable hiring practices. Flexibility in our hiring process allows hiring of talent at levels different from what are posted.  The compensation range outlined is based on a target budgeted base salary. Individual base pay depends on various factors such as relevant experience and skill, Interview assessments and responsibility of role, job duties/requirements. Offers are determined using our equitable hiring practices. Carbon Robotics offers additional compensation in the form of benefits premiums, pre-IPO stock options and On Target Earning commissions for appropriate positions. Base pay ranges are reviewed each year. We are committed to the principle of pay equity – paying employees equitably for similar work.
-
-Carbon Robotics' base salary pay range:
-
-$120,000 - $135,000 USD
-
-Why would you join Carbon Robotics?
-
-Passion for building teams capable of solving uniquely interesting problems. Innovation while disrupting the market is what we do.  Profiled in WSJ and Forbes, Carbon Robotics is poised to become the next billion dollar company in the rapidly growing worldwide Ag-Tech industry.
-
-We offer competitive compensation and benefits to our full time US based* employees, including:
-
-Competitive salaries
-Pre-IPO Stock Options
-Generous Benefits:
-Fully-paid medical, dental, and vision insurance premiums for you and all dependents
-Choice of PPO or HDHP/HSA
-Virtual Care - Doctor on Demand
-Employee Assistance Program
-Mental Health HRA
-Restricted Healthcare Travel support
-Menopause Support
-Life Insurance
-Long Term Disability
+You Will:
+Create interactive experiences that are rewarding for both viewers and creators 
+Architect and build robust, scalable applications that can handle millions of concurrent users
+Participate in Operational Excellence work to maintain and support our live services
+Collaborate with fellow engineers, product managers and designers to build new products and solutions
+You Have:
+1+ years of professional software development experience with a focus on building scalable systems
+Excellent proficiency in modern programming languages (Python, Java, Go) and distributed system technologies
+A track record of building product experiences that users love
+Sharp problem-solving skills with a focus on algorithms, data structures, and distributed system design
+Bachelor's degree in Computer Science, Engineering, or equivalent real-world experience
+Bonus Points
+Familiarity with Twitch's tech stack: Golang, TypeScript/React
+Experience working with mobile development, either native or hybrid
+Experience with AWS technologies like ECS, DynamoDB, Lambda, SQS, and Step Functions
+A passion for gaming, streaming, or the Twitch platform
+Perks
+Medical, Dental, Vision & Disability Insurance
+401(k)
+Maternity & Parental Leave
 Flexible PTO
-401(k) plan
-Pet Insurance
-Commuter Benefits
-Work Culture: Be a part of an inclusive and tight-knit company culture that values innovation and mission-driven success.
-*Internationally based employees benefits varies & Contractors are not eligible for Carbon Robotics Benefits or Stock
+Amazon Employee Discount
+ 
 
-Carbon Robotics is building a culture of diversity and inclusion for all.  We welcome everyone’s voice and believe in open and transparent communication. We believe the best products, services, and companies are built by strong teams that include a diversity of backgrounds, perspectives, ideas, and experiences. We are committed to supporting and enabling growth and opportunity for every employee at every level. This is the foundation to which we will build a truly unique environment.
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. 
 
-We are equally committed to equal employment opportunity, and it is foundational to how we recruit and hire our talented team. Employment is determined based upon capabilities and qualifications without discrimination on the basis of race, creed, color, religion, sex, gender identification and expression, marital status, military status or status as an honorably discharge/veteran, pregnancy (including potential pregnancy, pregnancy-related conditions, and childbearing), sexual orientation, age (40 and over), national origin, ancestry, citizenship or immigration status, physical, mental, or sensory disability , HIV/AIDS or hepatitis C status, genetic information, status as an actual or perceived victim of domestic violence, sexual assault, or stalking, or any other protected class as established by law.
+Job ID: TW9214
 
-#talentacquisition #laserweeding #laserweeder #weedcontrol #agtech #agtechnology #farmtech #robotics #lasers #lasersandrobots #missiondriven #AI #startup #wearehiring #computervision #machinelearning #carbonrobotics
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
+
+US, WA, Seattle - Annually
+
+$110,500 - $160,000 USD
+
+US, CA, San Francisco - Annually
+
+$127,100 - $185,000 USD
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Twitch values your privacy. Please consult our Candidate Privacy Notice, for information about how we collect, use, and disclose personal information of our candidates.
