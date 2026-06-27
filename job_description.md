@@ -1,75 +1,67 @@
 ---
-company: ByteDance
+company: Anduril
 role: Software_Engineer_I
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
 
-The Compute Infrastructure team uses Kubernetes and Serverless technologies to build a large, reliable, and efficient compute infrastructure. This infrastructure powers hundreds of large-scale clusters globally, with over millions of online containers and offline jobs daily, including AI and LLM workloads. The team is dedicated to building cutting-edge, industry-leading infrastructure that empowers AI innovation, ensuring high performance, scalability, and reliability to support the most demanding AI/LLM workloads.The team is also dedicated to open-sourcing key infrastructure technologies, including projects in the K8s portfolio such as kubewharf (KubeBrain, Katalyst, Godel, etc)..
+Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
 
-At ByteDance, as we expand and innovate, powering global platforms like TikTok and various AI/ML & LLM initiatives, we face the challenge of enhancing resource cost efficiency on a massive scale within our rapidly growing compute infrastructure. We're seeking talented software engineers excited to optimize our infrastructure for AI & LLM models. Your expertise can drive solutions to better utilize computing resources (including CPU, GPU, power, etc.), directly impacting the performance of all our AI services and helping us build the future of computing infrastructure. Also, with the goal of growing compute infrastructure in overseas regions, including North America, Europe, and Asia Pacific, you will have the opportunities of working closely with leaders from ByteDance’s global business units to ensure that we continue to scale and optimize our infrastructure globally.
+ABOUT THE JOB
+We are looking for Software Engineers to join our rapidly growing team! These roles are targeted to start on a quarterly basis beginning in 2026. We hire self-motivated people, those who hold a higher bar for themselves than anyone else could hold for them. If you are eager to solve tough problems, then this role might be for you! 
 
-We are looking for talented individuals to join our team in 2026. As a graduate, you will get opportunities to pursue bold ideas, tackle complex challenges, and unlock limitless growth. Launch your career where inspiration is infinite at ByteDance.
+WHAT YOU’LL DO
+Support the software solutions that are deployed to customers and key stakeholders.
+Write code to improve products and scale the mission capability to more customers.
+Collaborate across multiple teams to plan, build, and test complex functionality.
+Create and analyze metrics that are leveraged for debugging and monitoring.
+Triage issues, root cause failures, and coordinate next-steps.
+Work on real, meaningful projects and learn from experienced professionals along the way.
+REQUIRED QUALIFICATIONS
+Must be pursuing or have completed a Bachelor’s or Master’s degree in Computer Science, Computer/Software Engineering, Mathematics, Physics, or a related field.
+3 months - 2 years of technical work to include technical internship and able to start full time in 2026. 
+Familiarity with algorithms, data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.
+Proficiency in a variety of programming languages such as C++, Go, Rust, Java, and Python.
+A desire to work on software and applications that have real-world impact.
+Must be a U.S. Person due to required access to U.S. export controlled information or facilities; U.S. clearance eligibility may be required depending on program.
+PREFERRED QUALIFICATIONS
+Have a bias for action. If you see a problem, you want to solve and fix it.
+Be naturally curious about the technologies and tools you use.
+Low-ego, high ownership, and mission oriented.
+Anduril is an equal-opportunity employer, and we encourage candidates from all backgrounds to apply. If you are someone passionate to work on problems that matter, we’d love to hear from you!
 
-Successful candidates must be able to commit to an onboarding date by end of year 2026. Please state your availability and graduation date clearly in your resume.
+US Salary Range
 
-Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to ByteDance and its affiliates' jobs globally. Applications will be reviewed on a rolling basis. We encourage you to apply as early as possible.
+$115,000 - $135,000 USD
 
-Responsibilities
-- Assist in analyzing and supporting enhancements to Hyper-Scale AI Infrastructure platforms, focusing on improving performance, scalability, and resilience for both traditional workloads and large language model (LLM) applications.
-- Contribute to performance optimization efforts for Kubernetes-based infrastructure, including monitoring pod lifecycle, tracking resource utilization, and analyzing system behavior under varying load conditions—working closely with senior engineers to identify improvement opportunities.
-- Lead small-scale development tasks related to resource management and scheduling in Kubernetes clusters, such as testing configuration updates, automating routine resource allocation workflows, or contributing to tooling for efficiency tracking.
-- Engage actively in team discussions on AI infrastructure design and optimization strategies, leveraging academic knowledge and personal projects to propose fresh insights and potential solutions.
-- Develop and maintain clear technical documentation, including runbooks, architecture diagrams, and process guides, to strengthen knowledge sharing and operational efficiency across the team.
+The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including: 
 
-Qualifications
+ 
 
-Minimum Qualifications
-- Individuals who are completing or have recently completed a [Bachelor’s/ Master’s] degree in Software Development, Computer Science, Computer Engineering, or a related technical discipline.
-- Proficiency in at least one major programming language such as Python, Go, C++, Rust, and Java.
-- Solid understanding of at least one of the following fields: Unix/Linux environments, distributed and parallel systems, high-performance networking systems, developing large scale software systems
+Benefits
+At Anduril, we invest in our people. Our comprehensive, competitive benefits package (available at little to no cost to employees) ensures you’re supported in health, recovery, and whatever comes next. For more information, Explore Our Benefits.
 
-Preferred Qualifications
-- Hands-on project experience with container and orchestration technologies such as Docker and Kubernetes through internships, coursework, or personal projects.
-- Experience in developing or contributing to cloud-native open-source projects.
+ 
 
-Job Information
+Protecting Yourself from Recruitment Scams
+Anduril is committed to maintaining the integrity of our Talent acquisition process and the security of our candidates. We've observed a rise in sophisticated phishing and fraudulent schemes where individuals impersonate Anduril representatives, luring job seekers with false interviews or job offers. These scammers often attempt to extract payment or sensitive personal information.
 
-【For Pay Transparency】Compensation Description (Annually)
+To ensure your safety and help you navigate your job search with confidence, please keep the following critical points in mind:
 
-The base salary range for this position in the selected city is $124717 - $243200 annually.​
+No Financial Requests: Anduril will never solicit payment or demand personal financial details (such as banking information, credit card numbers, or social security numbers) at any stage of our hiring process. Our legitimate recruitment is entirely free for candidates.
 
-Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​
+Please always verify communications:
+Direct from Anduril: If you receive an email from one of our recruiters, it will only come from an @anduril.com address.
+Via Agency Partner: If contacted by a recruiting agency for an Anduril role, their email will clearly identify their agency. If you suspect any suspicious activity, please verify the agency's authenticity by reaching out to contact@anduril.com. 
+Exercise Caution with Unsolicited Outreach: If you receive any communication that appears suspicious, contains grammatical errors, or makes unusual requests, do not engage. Always confirm the sender's email domain is @anduril.com before providing any personal information or clicking on links.
 
-Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​
+What to Do If You Suspect Fraud: Should you encounter any questionable or fraudulent outreach claiming to be from Anduril, please report it immediately to contact@anduril.com. Your proactive caution is invaluable in protecting your personal information and upholding the security and trustworthiness of our recruitment efforts.
 
-The Company reserves the right to modify or change these benefits programs at any time, with or without notice.​
+ 
+Data Privacy
+To view Anduril's candidate data privacy policy, please visit https://anduril.com/applicant-privacy-notice/. 
 
-For Los Angeles County (unincorporated) Candidates:​
+ 
 
-Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​
-
-1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​
-
-2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​
-
-3. Exercising sound judgment.​
-
-About Us
-
-Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.​
-
-Why Join ByteDance
-
-Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.​
-
-As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
-
-Diversity & Inclusion​
-
-ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
-
-Reasonable Accommodation
-
-ByteDance is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request
+By submitting your application, you consent to Anduril Industries using a third-party service provider to conduct pre-employment risk, integrity, and due diligence screening and assessing potential risks as part of your application process. This third-party service provider provides risk-intelligence services that may include analysis of sanctions and watchlists, adverse media, public-record information, and other lawful open-source or commercial data sources. This third-party service provider does not act as a consumer reporting agency. Use of this provider helps to ensure compliance with applicable laws and protect technology, intellectual property, and organizational security.
