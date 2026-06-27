@@ -1,57 +1,53 @@
 ---
-company: Microsoft
+company: Amazon
 role: Software_Engineer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Overview
-Come build community, explore your passions, and do your best work at Microsoft. This opportunity as a Software Engineer will allow you to bring your aspirations, talent, potential and excitement for the journey ahead. 
- 
-Microsoft is dedicated to transforming Azure into a global AI supercomputer, enabling the responsible development of cutting-edge foundational AI. This includes large language models (LLMs) designed to empower people to harness the world's knowledge, revolutionize interactions with technology, and enhance user experiences. 
- 
-To solidify our leadership in AI, Microsoft has launched a groundbreaking program to develop the next generation of leaders in this field. Over the course of two years, participants will work in interdisciplinary project teams to provide AI as a service to engineering teams across Microsoft and solve some of our most exciting and challenging problems. In addition, you will have mentors, exposure to leaders, and access to numerous AI applied scientists, researchers, and engineers across the company. After completing the program, participants have the opportunity to join one of the sponsoring product teams and further accelerate their careers at Microsoft. 
-MAIDAP Software Engineers have the opportunity to leverage and implement cutting-edge AI technology to meet product needs, advancing the state-of-the-art both internally and externally. They act as the bridge between research and development (R&D), blending techniques from both domains to drive data-driven, research-based innovation from theory into practice. This role involves close collaboration with product managers and applied scientists in MAIDAP, and partnering product and technology teams across Microsoft. 
- 
-Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond. 
- 
-Please note that this position has a single start date in July 2026, candidates must be available to start full-time in July 2026. Unfortunately, we cannot accommodate earlier start dates. 
-#EiP #Maidap
+AWS Glue is the backbone of data integration for tens of thousands of AWS customers — from fast-growing startups to Fortune 500 enterprises. As a Software Development Engineer on the AWS Glue team, you won't just write code: you'll shape how the world's most data-driven organizations move, transform, and make sense of their data at massive scale.
+
+This is a rare opportunity to work on a fully managed, serverless data integration service that processes petabytes of data every day. If you're excited by distributed systems, large-scale data pipelines, and building infrastructure that developers and data engineers rely on globally — this is your team.
+Your code will run inside pipelines that power critical business decisions for thousands of customers simultaneously. You'll tackle challenges in distributed query execution, fault-tolerant pipeline orchestration, and low-latency data processing — problems that don't have easy answers.
+
+Glue‘s connectivity services team, allows service teams like Athena, QuickSight, SageMaker Unified Studio and external customers like Adobe, SAP and Workday to develop customer facing products that interact with third party data sources by giving them access to a large catalog of data source options without having to write or maintain new integrations. Our team provides a platform that any team in AWS can use to discover and use existing connectors. Once onboarded to the service, integrating partners are provided with a consistent way to render the tile of data source options, create or retrieve connections (with OAuth support) , configure a connector (including VPC setup) and interact with underlying data sources.
+
+Key job responsibilities
+Collaborate with experienced cross-disciplinary Amazonians to conceive, design, and bring innovative products and services to market.
+Design and build innovative technologies in a large distributed computing environment and help lead fundamental changes in the industry.
+Create solutions to run predictions on distributed systems with exposure to innovative technologies at incredible scale and speed.
+Build distributed storage, index, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use.
+Design and code the right solutions starting with broadly defined problems.
+Work in an agile environment to deliver high-quality software.
 
 
-Responsibilities
-Participate in the design and the implementation of AI solutions for Microsoft’s products and services.
-Test and review all new and modified code and data pipelines.
-Build out new API infrastructure, endpoints, and data pipelines, as necessary.
-Build reporting and monitoring mechanisms into our solutions.
-Analyze technology industry and market trends and choose their potential impact on the solutions.
-Develop patterns, standards, and guidelines necessary to uphold our design principles and maintain integrity of the product architecture.
-Participate in key project design reviews.
-Collaborate with partner teams for code integration and with product managers to translate functional requirements into working solutions.
-Patent and publish relevant IP and scientific research.
+A day in the life
+The challenges SDEs solve for at Amazon are big and influence millions of customers, sellers, and products around the world. We are looking for individuals who are passionate about creating new products, features, and services from scratch while managing ambiguity and the pace of a company where development cycles are measured in weeks, not years.
+
+About the team
+AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+Why AWS? Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+
+Inclusive Team Culture Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon conferences, inspire us to never stop embracing our uniqueness.
+
+Mentorship & Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
 
 
-Qualifications
-Required Qualifications:
+Basic Qualifications
+- Experience programming with at least one software programming language
+- 1+ years of non-internship professional software development experience
+- 1+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
 
-Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
-OR equivalent experience
-Candidates must be available to start full-time in July 2026. 
-Preferred Qualifications:
+Preferred Qualifications
+- Bachelor's degree in computer science or equivalent
+- 1+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
 
-Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
-OR Bachelor's Degree in Computer Science or related technical field AND 1+ year(s) technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
-OR equivalent experience
-Experience in database systems and systems engineering.
-Experience in designing and developing high-scale distributed systems is a plus.
-Knowledge of cloud environments, machine learning, data visualization, and AI is a plus.
-Energized by creating AI solutions that can positively impact the work and lives of millions of people and excited by the prospect of working on a wide variety of datasets and AI applications, across many products and engineering teams.
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
 
 
-Software Engineering IC2 - The typical base pay range for this role across the U.S. is USD $85,400 - $168,100 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $111,100 - $183,700 per year.
-
-Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here:
-https://careers.microsoft.com/us/en/us-corporate-pay
-
-
-This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
