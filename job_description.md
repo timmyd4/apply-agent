@@ -1,80 +1,71 @@
 ---
-company: Kaiser Permanente
-role: IT Consultant
+company: Palantir
+role: Software_Engineer_Intership
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Our KP HealthConnect Solution Consulting team works primarily in the Revenue Cycle space to deliver solutions across all of Kaiser Permanente’s markets on large investment projects, programs, and enhancements.  As an IT consultant, you will participate in all aspects of the investment project lifecycle, which includes estimating, requirements gathering, solution design, documentation, application build, testing support, deployment, and go-live support.  Utilizing your certification(s) and expertise in Epic Revenue Cycle applications (Resolute Professional Billing, Resolute Hospital Billing, Prelude, Grand Central, etc.), you will have primary responsibility for ensuring the KP HealthConnect components of the solutions we provide our Revenue Cycle business partners meet and exceed their needs.  As an IT Consultant working in a team environment, you will collaborate with business and IT professionals across Kaiser Permanente to deliver solutions and configuration for KP HealthConnect’s Revenue Cycle modules and integrate with other applications/systems outside of Epic to drive value for our Revenue Cycle business partners.
+A World-Changing Company
+ 
+Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.
 
+The Role
  
-Job Summary:
-In addition to the responsibilities listed below, this position is responsible for providing support for customers (users), and assigned applications and/or information systems, including software implementation, cross-functional integration, complex configuration, and testing. Additional responsibilities also include leading solution design support efforts and research initiatives for translating requirements into workable technical solutions, and supporting the evaluation of third-party vendors as directed.
+Software Engineers at Palantir drive large-scale transformation through data, AI and world-leading infrastructure that supports mission-critical workloads. As a Software Engineer Intern, you’ll have an opportunity to grow more quickly than you ever envisioned as you contribute high-quality code directly to:
+ 
+• Rubix and Apollo, platforms deployed at the most important institutions across the public and private sectors.
+• Shaping Mission Manager, our new internal-infrastructure business line, used by advanced civil and defense agencies worldwide to power their infrastructure in highly sensitive environments
+• Building the core capabilities used by advanced civil and defense agencies worldwide to power their infrastructure
+• Providing the substrate on which Palantir deploys its other platforms, Foundry and Gotham, which power workflows for research scientists, aerospace engineers, intelligence analysts and economic forecasters.
+ 
+You’ll join our Production Infrastructure organization, made up of small teams of engineers working on:
+ 
+• Environment Platform: a Kubernetes-based PaaS spanning hundreds of production clusters
+• Apollo: secure, fleet-wide deployment and change-management for complex microservice suites
+• Signals: our full suite of observability and alerting tools
+ 
+ 
+Core Responsibilities
+ 
+As a Software Engineer Intern at Palantir, you’ll own every phase of the product lifecycle—from generating ideas and designing prototypes to executing features and shipping releases—while being paired with a dedicated mentor who champions your growth. You’ll work hand-in-hand with both technical and non-technical colleagues to uncover real customer problems and deliver solutions that address them. To gain firsthand insight, you might sit side-saddle at a military exercise or partner directly with vendors using Palantir’s Apollo & Rubix to put our software into the hands of warfighters and government workers.
+ 
+SWE principles include:
+ 
+• Ownership: We see projects through from beginning to end in spite of obstacles we may encounter.
+• Collaboration: We work internally with people from a variety of backgrounds — such as other Software Engineers, Product Managers, Designers and Product Reliability Engineers. We also partner with our business development teams (Forward Deployed Engineers, Deployment Strategists) in order to understand and solve our customers' problems.
+• Trust: We trust each other to effectively handle time and priorities, and don't micromanage. We want people to have the space to think for themselves, while feeling supported by their team.
+ 
+Technologies We Use
+ 
+It doesn’t matter what languages you know when you join us, but it does matter that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers that bring diverse experience - whether you’re a former university TA, switched to CS recently, or are a hackathon enthusiast — you'll build your skills to apply the best technology to solve a given problem. Right now, we use:
+ 
+• A variety of languages, including Java and Go for backend and Typescript for frontend
+• Open-source technologies like Kubernetes, Cilium, Envoy, Grafana, React, and Redux
+• Industry-standard tooling, including Gradle and GitHub, and agentic tools like Windsurf & Cline
+What We Value
+Ability to communicate and collaborate with a variety of individuals, including engineers, users and non-technical team members.
+Willingness to learn and make decisions independently, and the ability to ask questions when needed.
+Active US Security clearance, or eligibility and willingness to obtain a US Security clearance.
+What We Require
+Engineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.
+Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.
+Experience coding in programming languages, such as Java, C++, Python, JavaScript, or similar languages.
+Must be planning on graduating in 2028. This should be your final internship before graduating.
+To apply, please submit the following:
+An updated resume / CV - please do so in PDF format.
+Thoughtful responses to our application questions.
+Salary
+ 
+The estimated salary range for this position is estimated to be $10,500/month. Further note that total compensation for this position will be determined by each individual’s relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any benefits offered; and the potential future value of any long-term incentives.
 
+Life at Palantir
+ 
+We want every Palantirian to achieve their best outcomes, that’s why we celebrate individuals’ strengths, skills, and interests, from your first interview to your longterm growth, rather than rely on traditional career ladders. Paying attention to the needs of our community enables us to optimize our opportunities to grow and helps ensure many pathways to success at Palantir. Promoting health and well-being across all areas of Palantirians’ lives is just one of the ways we’re investing in our community. Learn more at Life at Palantir and note that our offerings may vary by region.
+ 
+In keeping consistent with Palantir’s values and culture, we believe employees are “better together” and in-person work affords the opportunity for more creative outcomes. Therefore, we encourage employees to work from our offices to foster connectivity and innovation. Many teams do offer hybrid options (WFH a day or two a week), allowing our employees to strike the right trade-off for their personal productivity. Based on business need, there are a few roles that allow for “Remote” work on an exceptional basis. If you are applying for one of these roles, you must work from the state in which you are employed. If the posting is specified as Onsite, you are required to work from an office.
+ 
+If you want to empower the world's most important institutions, you belong here. Palantir values excellence regardless of background. We are proud to be an Equal Opportunity Employer for all, including but not limited to Veterans and those with disabilities. Palantir is committed to making the application and hiring process accessible to everyone and will provide a reasonable accommodation for those living with a disability. If you need an accommodation for the application or hiring process, please reach out and let us know how we can help.
+ 
+Please note that you will never be asked to submit a payment or share financial information to participate in our interview process. If you suspect that you've been contacted by a scammer, we recommend you cease all communication with the individual and consider reporting them to the relevant authorities, such as the US FBI Internet Crime Complaint Center (IC3).
 
-Essential Responsibilities:
-Conducts or oversees business-specific projects by applying deep expertise in subject area; promoting adherence to all procedures and policies; developing work plans to meet business priorities and deadlines; determining and carrying out processes and methodologies; coordinating and delegating resources to accomplish organizational goals; partnering internally and externally to make effective business decisions; solving complex problems; escalating issues or risks, as appropriate; monitoring progress and results; recognizing and capitalizing on improvement opportunities; evaluating recommendations made; and influencing the completion of project tasks by others.
-Practices self-leadership and promotes learning in others by building relationships with cross-functional stakeholders; communicating information and providing advice to drive projects forward; influencing team members within assigned unit; listening and responding to, seeking, and addressing performance feedback; adapting to competing demands and new responsibilities; providing feedback to others, including upward feedback to leadership and mentoring junior team members; creating and executing plans to capitalize on strengths and improve opportunity areas; and adapting to and learning from change, difficulties, and feedback.
-Develops requirements, or leads a team of IT consultants in the development of requirements for complex or specialized process or system solutions which may span multiple business domains by partnering with stakeholders and appropriate IT teams (for example, Solutions Delivery, Infrastructure, Enterprise Architecture).
-Leverages multiple business requirements gathering methodologies to identify business, functional, and non-functional requirements (for example, SMART) across the enterprise.
-Leads and oversees the development and documentation of comprehensive business cases to assess the costs, benefits, ROI, and Total Cost of Ownership (TCO) of complex solution proposals.
-Provides insight, guidance, and recommendations throughout the evolution of applications, systems, and/or processes to a desired future state by maintaining and leveraging a comprehensive understanding of how current processes impact business operations across the enterprise.
-Maps current state against future state processes.
-Defines the impact of requirements on upstream and downstream solution components.
-Provides insight and influence to senior management and business leaders on how to integrate requirements with current systems and business processes across the enterprise.
-Reviews, evaluates, and prioritizes value gaps and opportunities for process enhancements or efficiencies.
-Influences solution design by providing insight and consultation at design sessions with IT teams to help translate requirements into workable business solutions.
-Recommends and advocates for additional data and/or services needed to address key business issues related to process or solutions design.
-Participates in evaluating third-party vendors as directed.
-Drives continuous process improvement by leading the development, implementation, and maintenance of standardized tools, templates, and processes across the enterprise.
-Recommends and advocates for regional and national process improvements which align with sustainable best practices, and the strategic and tactical goals of the business.
- 
-Qualifications
- 
-Minimum Qualifications:
-Minimum two (2) years experience in software or system testing across multiple IT environments.
-Minimum one (1) year software or application development experience.
-Bachelors degree in Business Administration, Computer Science, CIS or related field and Minimum eight (8) years experience in IT consulting, business analysis, or a related field. Additional equivalent work experience may be substituted for the degree requirement.
-Preferred Qualifications
-Preferred Qualifications:
-Four (4) years experience working for a health care organization
-Four (4) years experience working for an IT organization
-Three (3) years experience working on projects or programs requiring the integration of cross-functional technology and/or business solutions.
-Three (3) years experience working on cross-functional project teams
-Four (4) years experience in business case development and analysis
-Four (4) years experience in solutioning process/service metrics and reporting.
-Two (2) years experience in implementing new business processes or driving end user workflow changes within an enterprise.
-Three (3) years experience in large scale software implementations
-Primary Location: Washington-Renton-Renton Administration - Adams
- 
-Regular Scheduled Hours: 40
- 
-Shift: Day
- 
-Working Days: Mon, Tue, Wed, Thu, Fri,
- 
-Start Time: 08:00 AM
- 
-End Time:
- 
-05:00 PM
- 
-Job Schedule: Full-time
- 
-Job Type: Standard
- 
-Employee Status: Regular
- 
-Job Level: Individual Contributor
- 
-Job Category: IT Consulting
- 
-Public Department Name: KPIT ADMIN - RC/CFSE STRAT&DELIV - 9601
- 
-Travel: Yes, 15 % of the Time
- 
-Employee Group: NUE-IT-01|NUE|Non Union Employee
- 
-Posting Salary Low : 143600
- 
-Posting Salary High: 185790
+If you would like to understand more about how your personal data will be processed by Palantir, please see our Privacy Policy.
