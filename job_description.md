@@ -1,41 +1,39 @@
 ---
-company: Sinclair Digital
-role: Associate_Software_Engineer
+company: Helic & Co
+role: Junior_Software_Engineer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
      above are used to name the output file. -->
-Field Service Engineer / Deskside Support Engineer
+Job Summary  
+We are seeking a motivated and detail-oriented Junior Software Engineer to join our development team. In this role, you will assist in designing, developing, testing, and maintaining software applications. This is an excellent opportunity for an early-career professional to gain hands-on experience and grow technical skills in a collaborative environment. 
 
-DesMoines, Iowa - USA
 
-Full time role
 
-The Deskside Support Engineer provides hands on technical support for end user devices including laptops, desktops, printers, scanners, and peripheral equipment. This role ensures timely resolution of hardware and software issues, maintains accurate inventory records, and supports the deployment of applications and equipment across the organization. The engineer serves as the primary onsite technical resource for employees and collaborates with IT teams to maintain a stable and secure computing environment.
+Key Responsibilities  
+Assist in developing, testing, and maintaining software applications and systems 
+Write clean, efficient, and well-documented code 
+Participate in code reviews and learn best practices from senior engineers 
+Debug and troubleshoot software issues 
+Collaborate with cross-functional teams including product, design, and QA 
+Contribute to software design discussions and implementation plans 
+Maintain and improve existing codebases 
+Support deployment and monitor application performance 
 
-Key Responsibilities
 
-End User Device Support — Troubleshoot and resolve issues with laptops, desktops, monitors, docking stations, and peripherals.
-Printer & Scanner Support — Install, configure, and maintain printers, scanners, and multifunction devices, including coordination with vendors when needed.
-Software Installation — Install, update, and configure approved software applications following organizational standards and security policies.
-Hardware Deployment — Prepare, image, and deploy new devices; perform hardware upgrades and replacements.
-Inventory Management — Track IT assets, maintain accurate inventory records, and support lifecycle management of equipment.
-Ticket Management — Respond to and resolve service requests within defined SLAs using the organization’s ITSM platform.
-User Support & Training — Provide guidance to employees on device usage, basic troubleshooting, and security best practices.
-Collaboration — Work closely with network, security, and systems teams to escalate issues and support broader IT initiatives.
-Compliance & Security — Ensure all devices meet security, patching, and compliance requirements.
-Required Qualifications
+Qualifications  
+Bachelor’s degree in Computer Science, Software Engineering, or a related field 
+0–2 years of experience in software development (internships count) 
+Proficiency in at least one programming language (e.g., Java, Python, JavaScript, C++) 
+Basic understanding of software development principles and data structures 
+Familiarity with version control systems (e.g., Git) 
+Strong problem-solving and analytical skills 
+Good communication and teamwork abilities 
 
-Experience supporting laptops, desktops, printers, scanners, and related hardware.
-Strong knowledge of Windows OS, basic networking, and common enterprise applications.
-Familiarity with imaging tools, device management platforms, and ITSM ticketing systems.
-Ability to diagnose hardware and software issues efficiently.
-Strong communication and customer service skills.
-Pay: $71,925.00 - $88,200.00 per year
 
-Benefits:
-
-401(k)
-Health insurance
-Paid time off
-Work Location: In person
+Preferred Skills  
+Experience with web development frameworks (e.g., React, Angular, Node.js) 
+Familiarity with databases (SQL or NoSQL) 
+Understanding of RESTful APIs and microservices architecture 
+Exposure to cloud platforms (AWS, Azure, or Google Cloud) 
+Knowledge of Agile or Scrum methodologies
