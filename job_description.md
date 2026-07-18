@@ -1,6 +1,6 @@
 ---
-company: Astreya
-role: Deskside_Service_Engineer
+company: Sinclair Digital
+role: Associate_Software_Engineer
 ---
 
 <!-- Paste the full job description below this line. The company and role fields
