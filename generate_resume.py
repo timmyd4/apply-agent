@@ -301,6 +301,9 @@ def main():
         end = len(lines) - 1 if lines[-1].strip() == "```" else len(lines)
         tailored_tex = "\n".join(lines[1:end])
 
+    # Fix model-generated \begin{env> or \end{env> (closing } replaced with >)
+    tailored_tex = re.sub(r"\\(begin|end)\{([a-zA-Z*]+)>", r"\\\1{\2}", tailored_tex)
+
     if not tailored_tex.endswith(r"\end{document}"):
         print("WARNING: Resume output appears truncated — \\end{document} not found. Check the .tex file before committing.")
 
